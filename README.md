@@ -1,5 +1,9 @@
 # ViLawT5_RL
 
+🚀 Demo App: [V-LegalQA-Chatbot](https://huggingface.co/spaces/sunbv56/V-LegalQA-Chatbot)
+
+App này được thiết kế trên Space sử dụng tài nguyên free. Có 4 phiên bản là ViT5_QAChatbot, ViLawT5_QAChatbot, ViLawT5_RL và V-LegalQA (beta đang cải tiến).
+
 ## Cấu Trúc Thư Mục
 ```
 source/
