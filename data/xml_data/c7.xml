@@ -1,0 +1,364 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>7</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="105">
+        <QUESTIONS>
+            <QUESTION>Tài sản là gì?</QUESTION>
+            <QUESTION>Tài sản được hiểu như thế nào?</QUESTION>
+            <QUESTION>Định nghĩa tài sản trong Bộ luật Dân sự?</QUESTION>
+            <QUESTION>Pháp luật quy định về tài sản như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 105 Bộ luật Dân sự 2015, tài sản là vật, tiền, giấy tờ có giá và quyền tài sản.</ANSWER>
+            <ANSWER>Tài sản gồm vật, tiền, giấy tờ có giá và quyền tài sản.</ANSWER>
+            <ANSWER>Vật, tiền, giấy tờ có giá và quyền tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="105">
+        <QUESTIONS>
+            <QUESTION>Các loại tài sản?</QUESTION>
+            <QUESTION>Phân loại tài sản?</QUESTION>
+            <QUESTION>Tài sản được chia thành những loại nào?</QUESTION>
+            <QUESTION>Có những loại tài sản nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 105 Bộ luật Dân sự 2015, tài sản gồm bất động sản và động sản. Cả bất động sản và động sản đều có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai.</ANSWER>
+            <ANSWER clause='2'>Tài sản gồm bất động sản và động sản, có thể là tài sản hiện có hoặc hình thành trong tương lai.</ANSWER>
+            <ANSWER clause='2'>Bất động sản và động sản, hiện có hoặc hình thành trong tương lai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="106">
+        <QUESTIONS>
+            <QUESTION>Khi nào phải đăng ký tài sản?</QUESTION>
+            <QUESTION>Trường hợp nào thì phải đăng ký tài sản?</QUESTION>
+            <QUESTION>Pháp luật quy định về việc đăng ký tài sản như thế nào?</QUESTION>
+            <QUESTION>Đăng ký tài sản khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1,2'>Theo khoản 1, khoản 2 Điều 106 Bộ luật Dân sự 2015, quyền sở hữu, quyền khác đối với tài sản là bất động sản phải được đăng ký; còn động sản thì không, trừ trường hợp pháp luật về đăng ký tài sản có quy định khác.</ANSWER>
+            <ANSWER clause='1,2'>Quyền sở hữu, quyền khác đối với bất động sản thì phải đăng ký, còn động sản thì không, trừ trường hợp pháp luật về đăng ký tài sản có quy định khác.</ANSWER>
+            <ANSWER clause='1,2'>Bất động sản phải đăng ký, động sản không cần trừ khi có quy định khác.</ANSWER>
+
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="106">
+        <QUESTIONS>
+            <QUESTION>Việc đăng ký tài sản được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Đăng ký tài sản theo quy định nào?</QUESTION>
+            <QUESTION>Cơ sở pháp lý cho việc đăng ký tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 106 Bộ luật Dân sự 2015, việc đăng ký quyền sở hữu, quyền khác đối với bất động sản được thực hiện theo quy định của Bộ luật Dân sự và pháp luật về đăng ký tài sản.</ANSWER>
+            <ANSWER clause='1'>Đăng ký tài sản (bất động sản) theo Bộ luật Dân sự và luật đăng ký tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="106">
+        <QUESTIONS>
+            <QUESTION>Việc đăng ký tài sản có được công khai không?</QUESTION>
+            <QUESTION>Nguyên tắc công khai trong đăng ký tài sản?</QUESTION>
+            <QUESTION>Đăng ký tài sản có cần công khai không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 106 Bộ luật Dân sự 2015, việc đăng ký tài sản phải được công khai.</ANSWER>
+            <ANSWER clause='3'>Đăng ký tài sản phải công khai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="107">
+        <QUESTIONS>
+            <QUESTION>Bất động sản là gì?</QUESTION>
+            <QUESTION>Bất động sản bao gồm những gì?</QUESTION>
+            <QUESTION>Thế nào là bất động sản?</QUESTION>
+            <QUESTION>Các loại bất động sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 107 Bộ luật Dân sự 2015, bất động sản gồm đất đai; nhà, công trình xây dựng gắn liền với đất đai; tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; tài sản khác theo quy định của pháp luật.</ANSWER>
+            <ANSWER clause='1'>Bất động sản gồm đất đai, nhà cửa, công trình xây dựng gắn liền với đất, tài sản gắn liền với đất, nhà, công trình xây dựng và các tài sản khác theo quy định của pháp luật. </ANSWER>
+            <ANSWER clause='1'>Đất đai, nhà cửa, công trình trên đất, tài sản gắn liền với chúng và tài sản khác theo quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="107">
+        <QUESTIONS>
+            <QUESTION>Động sản là gì?</QUESTION>
+            <QUESTION>Thế nào là động sản?</QUESTION>
+            <QUESTION>Động sản bao gồm những gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 107 Bộ luật Dân sự 2015, động sản là những tài sản không phải là bất động sản.</ANSWER>
+            <ANSWER clause='2'>Tài sản không phải bất động sản là động sản.</ANSWER>
+            <ANSWER clause='2'>Những tài sản không thuộc bất động sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="108">
+        <QUESTIONS>
+            <QUESTION>Tài sản hiện có là gì?</QUESTION>
+            <QUESTION>Thế nào là tài sản hiện có?</QUESTION>
+            <QUESTION>Tài sản hiện có được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 108 Bộ luật Dân sự 2015, tài sản hiện có là tài sản đã hình thành và chủ thể đã xác lập quyền sở hữu, quyền khác đối với tài sản trước hoặc tại thời điểm xác lập giao dịch.</ANSWER>
+            <ANSWER clause='1'>Tài sản đã hình thành, đã có quyền sở hữu hoặc quyền khác trước hoặc tại thời điểm giao dịch.</ANSWER>
+            <ANSWER clause='1'>Tài sản đã hình thành và đã có quyền sở hữu/quyền khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="108">
+        <QUESTIONS>
+            <QUESTION>Tài sản hình thành trong tương lai là gì?</QUESTION>
+            <QUESTION>Thế nào là tài sản hình thành trong tương lai?</QUESTION>
+            <QUESTION>Các loại tài sản hình thành trong tương lai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 108 Bộ luật Dân sự 2015, tài sản hình thành trong tương lai gồm tài sản chưa hình thành và tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu sau thời điểm xác lập giao dịch.</ANSWER>
+            <ANSWER clause='2'>Tài sản chưa hình thành hoặc đã hình thành nhưng chưa có quyền sở hữu tại thời điểm giao dịch.</ANSWER>
+            <ANSWER clause='2'>Tài sản chưa hình thành hoặc đã hình thành nhưng chưa có quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="109">
+        <QUESTIONS>
+            <QUESTION>Hoa lợi là gì?</QUESTION>
+            <QUESTION>Thế nào là hoa lợi?</QUESTION>
+            <QUESTION>Hoa lợi được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 109 Bộ luật Dân sự 2015, hoa lợi là sản vật tự nhiên mà tài sản mang lại.</ANSWER>
+            <ANSWER clause='1'>Sản vật tự nhiên của tài sản là hoa lợi.</ANSWER>
+            <ANSWER clause='1'>Sản vật tự nhiên từ tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="109">
+        <QUESTIONS>
+            <QUESTION>Lợi tức là gì?</QUESTION>
+            <QUESTION>Thế nào là lợi tức?</QUESTION>
+            <QUESTION>Lợi tức được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 109 Bộ luật Dân sự 2015, lợi tức là khoản lợi thu được từ việc khai thác tài sản.</ANSWER>
+            <ANSWER clause='2'>Lợi ích thu được khi khai thác tài sản là lợi tức.</ANSWER>
+            <ANSWER clause='2'>Lợi ích từ khai thác tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="110">
+        <QUESTIONS>
+            <QUESTION>Vật chính là gì?</QUESTION>
+            <QUESTION>Thế nào là vật chính?</QUESTION>
+            <QUESTION>Vật chính được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 110 Bộ luật Dân sự 2015, vật chính là vật độc lập, có thể khai thác công dụng theo tính năng.</ANSWER>
+            <ANSWER clause='1'>Vật độc lập, có thể sử dụng theo đúng tính năng của nó là vật chính.</ANSWER>
+            <ANSWER clause='1'>Vật độc lập, sử dụng được.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="110">
+        <QUESTIONS>
+            <QUESTION>Vật phụ là gì?</QUESTION>
+            <QUESTION>Thế nào là vật phụ?</QUESTION>
+            <QUESTION>Vật phụ được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 110 Bộ luật Dân sự 2015, vật phụ là vật trực tiếp phục vụ cho việc khai thác công dụng của vật chính, là một bộ phận của vật chính, nhưng có thể tách rời vật chính.</ANSWER>
+            <ANSWER clause='2'>Vật phụ là bộ phận của vật chính, có thể tách rời và phục vụ cho việc sử dụng vật chính.</ANSWER>
+            <ANSWER clause='2'>Bộ phận tách rời được của vật chính, phục vụ cho việc sử dụng vật chính.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="110">
+        <QUESTIONS>
+            <QUESTION>Khi chuyển giao vật chính có cần chuyển giao vật phụ không?</QUESTION>
+            <QUESTION>Chuyển giao vật chính có kèm vật phụ không?</QUESTION>
+            <QUESTION>Vật phụ có được chuyển giao cùng vật chính không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 110 Bộ luật Dân sự 2015, khi chuyển giao vật chính thì phải chuyển giao cả vật phụ, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER clause='3'>Chuyển giao vật chính phải kèm vật phụ, trừ khi có thỏa thuận khác.</ANSWER>
+            <ANSWER clause='3'>Phải chuyển giao kèm vật phụ, trừ khi có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="111">
+        <QUESTIONS>
+            <QUESTION>Vật chia được là gì?</QUESTION>
+            <QUESTION>Thế nào là vật chia được?</QUESTION>
+            <QUESTION>Vật chia được được hiểu như thế nào?</QUESTION>
+
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 111 Bộ luật Dân sự 2015, vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu.</ANSWER>
+            <ANSWER clause='1'>Vật khi chia vẫn giữ nguyên tính chất, công dụng ban đầu là vật chia được.</ANSWER>
+            <ANSWER clause='1'>Vật chia mà vẫn giữ nguyên công dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="111">
+        <QUESTIONS>
+            <QUESTION>Vật không chia được là gì?</QUESTION>
+            <QUESTION>Thế nào là vật không chia được?</QUESTION>
+            <QUESTION>Vật không chia được được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 111 Bộ luật Dân sự 2015, vật không chia được là vật khi bị phân chia thì không giữ nguyên được tính chất và tính năng sử dụng ban đầu.</ANSWER>
+            <ANSWER clause='2'>Vật khi chia không còn giữ nguyên tính chất, công dụng ban đầu là vật không chia được.</ANSWER>
+            <ANSWER clause='2'>Vật chia mà mất công dụng ban đầu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="111">
+        <QUESTIONS>
+            <QUESTION>Khi cần phân chia vật không chia được thì xử lý như thế nào?</QUESTION>
+            <QUESTION>Cách phân chia vật không chia được?</QUESTION>
+            <QUESTION>Làm thế nào để phân chia vật không chia được?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 111 Bộ luật Dân sự 2015, khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia.</ANSWER>
+            <ANSWER clause='2'>Quy vật không chia được thành tiền để phân chia.</ANSWER>
+            <ANSWER clause='2'>Trị giá thành tiền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="112">
+        <QUESTIONS>
+            <QUESTION>Vật tiêu hao là gì?</QUESTION>
+            <QUESTION>Thế nào là vật tiêu hao?</QUESTION>
+            <QUESTION>Vật tiêu hao được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 112 Bộ luật Dân sự 2015, vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu.</ANSWER>
+            <ANSWER clause='1'>Vật dùng một lần thì mất hoặc không còn giữ được tính chất, hình dáng, công dụng ban đầu là vật tiêu hao.</ANSWER>
+            <ANSWER clause='1'>Vật dùng một lần thì mất hoặc hỏng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="112">
+        <QUESTIONS>
+            <QUESTION>Vật tiêu hao có thể cho thuê hoặc cho mượn không?</QUESTION>
+            <QUESTION>Có thể cho thuê, cho mượn vật tiêu hao không?</QUESTION>
+            <QUESTION>Vật tiêu hao có được đem cho thuê, cho mượn?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 112 Bộ luật Dân sự 2015, vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn.</ANSWER>
+            <ANSWER clause='1'>Không được cho thuê, cho mượn vật tiêu hao.</ANSWER>
+            <ANSWER clause='1'>Không.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="112">
+        <QUESTIONS>
+            <QUESTION>Vật không tiêu hao là gì?</QUESTION>
+            <QUESTION>Thế nào là vật không tiêu hao?</QUESTION>
+            <QUESTION>Vật không tiêu hao được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 112 Bộ luật Dân sự 2015, vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng và tính năng sử dụng ban đầu.</ANSWER>
+            <ANSWER clause='2'>Vật dùng nhiều lần mà vẫn giữ được tính chất, hình dáng, công dụng ban đầu là vật không tiêu hao.</ANSWER>
+            <ANSWER clause='2'>Vật dùng nhiều lần vẫn còn tốt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="113">
+        <QUESTIONS>
+            <QUESTION>Vật cùng loại là gì?</QUESTION>
+            <QUESTION>Thế nào là vật cùng loại?</QUESTION>
+            <QUESTION>Vật cùng loại được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 113 Bộ luật Dân sự 2015, vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường.</ANSWER>
+            <ANSWER clause='1'>Vật có cùng hình dáng, tính chất, công dụng, đo lường được là vật cùng loại.</ANSWER>
+            <ANSWER clause='1'>Các vật giống nhau về hình dáng, tính chất, công dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="113">
+        <QUESTIONS>
+            <QUESTION>Vật cùng loại có thể thay thế cho nhau được không?</QUESTION>
+            <QUESTION>Vật cùng loại có được thay thế cho nhau?</QUESTION>
+            <QUESTION>Có thể dùng vật cùng loại để thay thế không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 113 Bộ luật Dân sự 2015, vật cùng loại có cùng chất lượng có thể thay thế cho nhau.</ANSWER>
+            <ANSWER clause='1'>Vật cùng loại cùng chất lượng có thể thay thế nhau.</ANSWER>
+            <ANSWER clause='1'>Được, nếu cùng chất lượng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="113">
+        <QUESTIONS>
+            <QUESTION>Vật đặc định là gì?</QUESTION>
+            <QUESTION>Thế nào là vật đặc định?</QUESTION>
+            <QUESTION>Vật đặc định được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 113 Bộ luật Dân sự 2015, vật đặc định là vật phân biệt được với các vật khác bằng những đặc điểm riêng về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí.</ANSWER>
+            <ANSWER clause='2'>Vật có đặc điểm riêng biệt về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí là vật đặc định.</ANSWER>
+            <ANSWER clause='2'>Vật có đặc điểm riêng, phân biệt được với vật khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="113">
+        <QUESTIONS>
+            <QUESTION>Khi chuyển giao vật đặc định thì cần lưu ý gì?</QUESTION>
+            <QUESTION>Chuyển giao vật đặc định như thế nào?</QUESTION>
+            <QUESTION>Cần chuyển giao vật đặc định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 113 Bộ luật Dân sự 2015, khi thực hiện nghĩa vụ chuyển giao vật đặc định thì phải giao đúng vật đó.</ANSWER>
+            <ANSWER clause='2'>Khi chuyển giao vật đặc định phải giao đúng vật đã thỏa thuận.</ANSWER>
+            <ANSWER clause='2'>Phải giao đúng vật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="114">
+        <QUESTIONS>
+            <QUESTION>Vật đồng bộ là gì?</QUESTION>
+            <QUESTION>Thế nào là vật đồng bộ?</QUESTION>
+            <QUESTION>Vật đồng bộ được hiểu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 114 Bộ luật Dân sự 2015, vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần, các bộ phận hoặc có phần hoặc bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng của vật đó bị giảm sút.</ANSWER>
+            <ANSWER>Vật gồm nhiều bộ phận ăn khớp với nhau, thiếu một bộ phận sẽ không dùng được hoặc giảm giá trị sử dụng là vật đồng bộ.</ANSWER>
+            <ANSWER>Vật gồm nhiều bộ phận ăn khớp, thiếu sẽ hỏng hoặc giảm giá trị.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="114">
+        <QUESTIONS>
+            <QUESTION>Khi chuyển giao vật đồng bộ thì cần lưu ý gì?</QUESTION>
+            <QUESTION>Chuyển giao vật đồng bộ như thế nào?</QUESTION>
+            <QUESTION>Cần chuyển giao vật đồng bộ ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 114 Bộ luật Dân sự 2015, khi thực hiện nghĩa vụ chuyển giao vật đồng bộ thì phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER>Chuyển giao vật đồng bộ phải chuyển giao toàn bộ các bộ phận, trừ khi có thỏa thuận khác.</ANSWER>
+            <ANSWER>Chuyển giao toàn bộ, trừ khi có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="115">
+        <QUESTIONS>
+            <QUESTION>Quyền tài sản là gì?</QUESTION>
+            <QUESTION>Thế nào là quyền tài sản?</QUESTION>
+            <QUESTION>Quyền tài sản được hiểu như thế nào?</QUESTION>
+            <QUESTION>Quyền tài sản bao gồm những gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 115 Bộ luật Dân sự 2015, quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác.</ANSWER>
+            <ANSWER>Quyền tài sản là quyền định giá được bằng tiền, gồm quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền khác.</ANSWER>
+            <ANSWER>Quyền có giá trị bằng tiền, gồm quyền sở hữu trí tuệ, sử dụng đất, và các quyền khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>24</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id="1" article="656">
+        <QUESTIONS>
+            <QUESTION>Họp mặt những người thừa kế là gì?</QUESTION>
+            <QUESTION>Những người thừa kế có thể họp mặt để làm gì?</QUESTION>
+            <QUESTION>Khi nào những người thừa kế có thể họp mặt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Sau khi có thông báo mở thừa kế hoặc công bố di chúc, những người thừa kế có thể họp mặt để thỏa thuận cử người quản lý, phân chia di sản, xác định quyền, nghĩa vụ của họ và cách thức phân chia di sản; thỏa thuận phải lập thành văn bản.</ANSWER>
+            <ANSWER>Theo Điều 656 Bộ luật Dân sự 2015, sau khi mở thừa kế hoặc công bố di chúc, những người thừa kế có thể họp mặt thỏa thuận về việc cử người quản lý, phân chia di sản; xác định quyền, nghĩa vụ của những người này nếu di chúc không chỉ định; thỏa thuận cách thức phân chia di sản. Mọi thỏa thuận phải được lập thành văn bản.</ANSWER>
+            <ANSWER>Họp mặt sau khi mở thừa kế hoặc công bố di chúc để thỏa thuận cử người quản lý, phân chia di sản, xác định quyền, nghĩa vụ (nếu di chúc không chỉ định) và cách thức phân chia; thỏa thuận phải bằng văn bản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="2" article="656" clause="1">
+        <QUESTIONS>
+            <QUESTION>Những người thừa kế có thể thỏa thuận những gì khi họp mặt?</QUESTION>
+            <QUESTION>Nội dung thỏa thuận khi họp mặt những người thừa kế là gì?</QUESTION>
+            <QUESTION>Họp mặt những người thừa kế để thỏa thuận về vấn đề gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Những người thừa kế có thể thỏa thuận cử người quản lý di sản, người phân chia di sản, xác định quyền, nghĩa vụ của những người này nếu người để lại di sản không chỉ định trong di chúc và cách thức phân chia di sản.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 656 Bộ luật Dân sự 2015, những người thừa kế họp mặt có thể thỏa thuận cử người quản lý, phân chia di sản, xác định quyền và nghĩa vụ (nếu di chúc không chỉ định) và cách thức phân chia.</ANSWER>
+            <ANSWER clause="1">Thỏa thuận cử người quản lý, phân chia di sản; xác định quyền, nghĩa vụ (nếu di chúc không chỉ định); cách thức phân chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="3" article="656" clause="2">
+        <QUESTIONS>
+            <QUESTION>Hình thức của thỏa thuận giữa những người thừa kế như thế nào?</QUESTION>
+            <QUESTION>Thỏa thuận của những người thừa kế phải được lập như thế nào?</QUESTION>
+            <QUESTION>Thỏa thuận phân chia di sản cần có hình thức gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Mọi thỏa thuận của những người thừa kế phải được lập thành văn bản.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 656 Bộ luật Dân sự 2015, mọi thỏa thuận của những người thừa kế phải lập thành văn bản.</ANSWER>
+            <ANSWER clause="2">Lập thành văn bản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="4" article="657">
+        <QUESTIONS>
+            <QUESTION>Ai là người phân chia di sản?</QUESTION>
+            <QUESTION>Người phân chia di sản có trách nhiệm gì?</QUESTION>
+            <QUESTION>Quy định về người phân chia di sản như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người phân chia di sản có thể là người quản lý di sản được chỉ định trong di chúc hoặc do người thừa kế cử; phải chia di sản theo di chúc hoặc thỏa thuận; được hưởng thù lao nếu di chúc cho phép hoặc người thừa kế thỏa thuận.</ANSWER>
+            <ANSWER>Theo Điều 657 Bộ luật Dân sự 2015, người phân chia di sản có thể đồng thời là người quản lý di sản (nếu được chỉ định trong di chúc hoặc được những người thừa kế thỏa thuận); phải phân chia di sản theo di chúc hoặc theo thỏa thuận của những người thừa kế; được hưởng thù lao nếu có thỏa thuận hoặc di chúc cho phép.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="5" article="657" clause="1">
+        <QUESTIONS>
+            <QUESTION>Ai có thể là người phân chia di sản?</QUESTION>
+            <QUESTION>Người phân chia di sản do ai chỉ định?</QUESTION>
+            <QUESTION>Người quản lý di sản có thể là người phân chia di sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Người phân chia di sản có thể đồng thời là người quản lý di sản được chỉ định trong di chúc hoặc được những người thừa kế thỏa thuận cử ra.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 657 Bộ luật Dân sự 2015, người phân chia di sản có thể là người quản lý di sản (do di chúc chỉ định hoặc người thừa kế thỏa thuận).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="6" article="657" clause="2">
+        <QUESTIONS>
+            <QUESTION>Người phân chia di sản phải thực hiện việc phân chia dựa trên cơ sở nào?</QUESTION>
+            <QUESTION>Người phân chia di sản phải tuân theo quy định nào khi phân chia di sản?</QUESTION>
+            <QUESTION>Trách nhiệm của người phân chia di sản là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Người phân chia di sản phải chia di sản theo đúng di chúc hoặc đúng thỏa thuận của những người thừa kế theo pháp luật.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 657 Bộ luật Dân sự 2015, người phân chia di sản phải chia di sản theo di chúc hoặc thỏa thuận của người thừa kế.</ANSWER>
+            <ANSWER clause="2">Chia di sản theo di chúc/thỏa thuận của người thừa kế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="7" article="657" clause="3">
+        <QUESTIONS>
+            <QUESTION>Người phân chia di sản có được hưởng thù lao không?</QUESTION>
+            <QUESTION>Khi nào người phân chia di sản được hưởng thù lao?</QUESTION>
+            <QUESTION>Điều kiện để người phân chia di sản được hưởng thù lao là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Người phân chia di sản được hưởng thù lao, nếu người để lại di sản cho phép trong di chúc hoặc những người thừa kế có thỏa thuận.</ANSWER>
+            <ANSWER clause="3">Theo khoản 3 Điều 657 Bộ luật Dân sự 2015, người phân chia di sản được hưởng thù lao nếu di chúc cho phép hoặc người thừa kế thỏa thuận.</ANSWER>
+            <ANSWER clause="3">Được hưởng thù lao nếu di chúc cho phép/người thừa kế thỏa thuận.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="8" article="658">
+        <QUESTIONS>
+            <QUESTION>Thứ tự ưu tiên thanh toán các khoản liên quan đến thừa kế như thế nào?</QUESTION>
+            <QUESTION>Các nghĩa vụ tài sản liên quan đến thừa kế được thanh toán theo thứ tự nào?</QUESTION>
+            <QUESTION>Khi phân chia di sản, các khoản nào được thanh toán trước?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Thứ tự ưu tiên thanh toán: chi phí mai táng; tiền cấp dưỡng còn thiếu; chi phí bảo quản di sản; tiền trợ cấp người sống nương nhờ; tiền công lao động; tiền bồi thường thiệt hại; thuế; các khoản nợ khác; tiền phạt; các chi phí khác.</ANSWER>
+            <ANSWER>Theo Điều 658 Bộ luật Dân sự 2015, thứ tự ưu tiên thanh toán các nghĩa vụ tài sản liên quan đến thừa kế là: chi phí mai táng; tiền cấp dưỡng còn thiếu; chi phí bảo quản di sản; tiền trợ cấp cho người sống nương nhờ; tiền công lao động; tiền bồi thường thiệt hại; thuế và các khoản phải nộp ngân sách nhà nước; các khoản nợ khác; tiền phạt; và các chi phí khác.</ANSWER>
+            <ANSWER>Mai táng; cấp dưỡng; bảo quản di sản; trợ cấp nương nhờ; tiền công; bồi thường; thuế; nợ; phạt; chi phí khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="9" article="659">
+        <QUESTIONS>
+            <QUESTION>Phân chia di sản theo di chúc được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Quy định về việc phân chia di sản theo di chúc là gì?</QUESTION>
+            <QUESTION>Khi có di chúc, di sản được chia ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chia di sản theo di chúc; nếu di chúc không rõ phần thì chia đều, trừ khi có thỏa thuận khác; nếu chia theo hiện vật thì thừa kế hiện vật kèm hoa lợi, lợi tức hoặc chịu giá trị giảm sút; nếu chia theo tỷ lệ thì tính trên giá trị còn lại khi chia.</ANSWER>
+            <ANSWER>Theo Điều 659 Bộ luật Dân sự 2015, việc phân chia di sản được thực hiện theo ý chí của người lập di chúc. Nếu di chúc không nêu rõ phần của từng người, di sản được chia đều cho các người thừa kế được chỉ định, trừ khi có thỏa thuận khác. Nếu di chúc phân chia di sản theo hiện vật, người thừa kế nhận hiện vật kèm hoa lợi, lợi tức hoặc chịu tổn thất giảm giá trị; nếu hiện vật bị hủy hoại do lỗi của người khác, người thừa kế được bồi thường. Nếu di chúc phân chia theo tỷ lệ, tỷ lệ này được tính trên giá trị di sản còn lại tại thời điểm phân chia.</ANSWER>
+            <ANSWER>Theo di chúc; không rõ phần thì chia đều (trừ khi thỏa thuận khác); chia theo hiện vật thì thừa kế hiện vật, hoa lợi, lợi tức (hoặc chịu giảm giá trị); chia theo tỷ lệ thì tính trên giá trị còn lại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="10" article="659" clause="1">
+        <QUESTIONS>
+            <QUESTION>Nếu di chúc không xác định rõ phần của từng người thừa kế thì di sản được chia như thế nào?</QUESTION>
+            <QUESTION>Việc phân chia di sản khi di chúc không nêu rõ phần thừa kế được thực hiện ra sao?</QUESTION>
+            <QUESTION>Di chúc không ghi rõ phần từng người thì chia thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Nếu di chúc không xác định rõ phần của từng người thừa kế thì di sản được chia đều cho những người được chỉ định trong di chúc, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 659 Bộ luật Dân sự 2015, nếu di chúc không ghi rõ phần từng người, di sản chia đều cho người được chỉ định, trừ khi có thỏa thuận khác.</ANSWER>
+            <ANSWER clause="1">Chia đều, trừ khi thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="11" article="659" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu di chúc xác định phân chia di sản theo hiện vật thì người thừa kế được hưởng và chịu những gì?</QUESTION>
+            <QUESTION>Khi di chúc phân chia di sản theo hiện vật, quyền và nghĩa vụ của người thừa kế là gì?</QUESTION>
+            <QUESTION>Di chúc chia theo hiện vật thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Người thừa kế được nhận hiện vật kèm hoa lợi, lợi tức hoặc chịu phần giá trị giảm sút của hiện vật; nếu hiện vật bị tiêu hủy do lỗi của người khác thì người thừa kế được yêu cầu bồi thường.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 659 Bộ luật Dân sự 2015, nếu di chúc chia di sản theo hiện vật, người thừa kế nhận hiện vật kèm hoa lợi, lợi tức hoặc chịu giá trị bị giảm sút; nếu hiện vật bị hủy do lỗi người khác, người thừa kế được bồi thường.</ANSWER>
+            <ANSWER clause="2">Nhận hiện vật, hoa lợi, lợi tức (hoặc chịu giảm giá trị); được bồi thường nếu hiện vật bị hủy do lỗi người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="12" article="659" clause="3">
+        <QUESTIONS>
+            <QUESTION>Nếu di chúc chỉ xác định phân chia di sản theo tỷ lệ thì tỷ lệ này được tính như thế nào?</QUESTION>
+            <QUESTION>Khi di chúc chia di sản theo tỷ lệ, tỷ lệ này được tính trên cơ sở nào?</QUESTION>
+            <QUESTION>Di chúc chia theo tỷ lệ thì tính thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Tỷ lệ này được tính trên giá trị khối di sản đang còn vào thời điểm phân chia di sản.</ANSWER>
+            <ANSWER clause="3">Theo khoản 3 Điều 659 Bộ luật Dân sự 2015, nếu di chúc chia di sản theo tỷ lệ, tỷ lệ này được tính trên giá trị di sản còn lại khi chia.</ANSWER>
+            <ANSWER clause="3">Tính trên giá trị di sản còn lại khi chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="13" article="660">
+        <QUESTIONS>
+            <QUESTION>Phân chia di sản theo pháp luật được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Quy định về việc phân chia di sản theo pháp luật là gì?</QUESTION>
+            <QUESTION>Khi không có di chúc, di sản được chia ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nếu có người thừa kế cùng hàng đang thành thai nhưng chưa sinh thì phải dành phần di sản; người thừa kế có quyền yêu cầu chia di sản bằng hiện vật; nếu không chia đều được bằng hiện vật thì có thể thỏa thuận định giá, người nhận hoặc bán hiện vật để chia.</ANSWER>
+            <ANSWER>Theo Điều 660 Bộ luật Dân sự 2015, khi phân chia di sản mà có người thừa kế cùng hàng đang thành thai nhưng chưa sinh thì phải dành lại một phần di sản tương ứng. Những người thừa kế có quyền yêu cầu phân chia di sản bằng hiện vật; nếu không thể chia đều bằng hiện vật, những người thừa kế có thể thỏa thuận định giá và người nhận hiện vật; nếu không thỏa thuận được thì bán hiện vật để chia.</ANSWER>
+            <ANSWER>Dành phần di sản cho người thừa kế cùng hàng đang thành thai; yêu cầu chia bằng hiện vật; nếu không chia đều được thì thỏa thuận định giá, người nhận hoặc bán để chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="14" article="660" clause="1">
+        <QUESTIONS>
+            <QUESTION>Nếu có người thừa kế cùng hàng đang mang thai nhưng chưa sinh thì việc phân chia di sản được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Khi có người thừa kế chưa sinh, phần di sản của họ được xử lý ra sao?</QUESTION>
+            <QUESTION>Nếu có người thừa kế cùng hàng chưa sinh thì phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng; nếu người đó còn sống khi sinh ra thì được hưởng phần di sản đã dành; nếu chết trước khi sinh ra thì những người thừa kế khác được hưởng.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 660 Bộ luật Dân sự 2015, khi phân chia di sản mà có người thừa kế cùng hàng đang thành thai, phải dành một phần di sản tương ứng. Nếu người này còn sống khi sinh ra thì được hưởng phần di sản đó, nếu chết trước khi sinh thì những người thừa kế khác được hưởng.</ANSWER>
+            <ANSWER clause="1">Dành một phần di sản; sống khi sinh thì được hưởng, chết trước khi sinh thì người khác hưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="15" article="660" clause="2">
+        <QUESTIONS>
+            <QUESTION>Những người thừa kế có quyền yêu cầu phân chia di sản bằng hình thức nào?</QUESTION>
+            <QUESTION>Nếu không thể chia đều di sản bằng hiện vật thì những người thừa kế có thể làm gì?</QUESTION>
+            <QUESTION>Việc phân chia di sản bằng hiện vật được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Những người thừa kế có quyền yêu cầu phân chia di sản bằng hiện vật; nếu không thể chia đều thì có thể thỏa thuận định giá và người nhận hiện vật; nếu không thỏa thuận được thì hiện vật được bán để chia.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 660 Bộ luật Dân sự 2015, người thừa kế có quyền yêu cầu chia di sản bằng hiện vật. Nếu không chia đều được, có thể thỏa thuận định giá và người nhận; nếu không thỏa thuận được thì bán hiện vật để chia.</ANSWER>
+            <ANSWER clause="2">Yêu cầu chia bằng hiện vật; không chia đều được thì thỏa thuận định giá, người nhận hoặc bán để chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="16" article="661">
+        <QUESTIONS>
+            <QUESTION>Khi nào di sản mới được phân chia?</QUESTION>
+            <QUESTION>Việc phân chia di sản có hạn chế gì không?</QUESTION>
+            <QUESTION>Trong trường hợp nào thì việc phân chia di sản bị hạn chế?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Di sản chỉ được chia sau thời hạn nhất định theo di chúc hoặc thỏa thuận của người thừa kế; nếu chia ảnh hưởng nghiêm trọng đến đời sống vợ/chồng còn sống và gia đình thì bên còn sống yêu cầu tòa án xác định phần di sản nhưng chưa chia, thời hạn không quá 3 năm, có thể gia hạn 1 lần không quá 3 năm.</ANSWER>
+            <ANSWER>Theo Điều 661 Bộ luật Dân sự 2015, di sản chỉ được chia sau thời hạn nhất định nếu có di chúc hoặc thỏa thuận của tất cả người thừa kế. Nếu việc chia ảnh hưởng nghiêm trọng đến đời sống vợ/chồng còn sống và gia đình, bên còn sống có thể yêu cầu tòa án xác định phần di sản của người thừa kế nhưng chưa chia (tối đa 3 năm, gia hạn tối đa 1 lần 3 năm).</ANSWER>
+            <ANSWER>Chia sau thời hạn theo di chúc/thỏa thuận; nếu chia ảnh hưởng vợ/chồng còn sống và gia đình, bên còn sống yêu cầu tòa án xác định phần di sản nhưng chưa chia (tối đa 3 năm, gia hạn tối đa 3 năm).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="17" article="662">
+        <QUESTIONS>
+            <QUESTION>Việc phân chia di sản sẽ được xử lý như thế nào nếu có người thừa kế mới hoặc có người bị bác bỏ quyền thừa kế sau khi đã phân chia?</QUESTION>
+            <QUESTION>Sau khi đã chia di sản, nếu phát hiện thêm người thừa kế hoặc có người bị tước quyền thừa kế thì phải làm gì?</QUESTION>
+            <QUESTION>Quy định về phân chia di sản khi có người thừa kế mới hoặc người thừa kế bị bác bỏ quyền thừa kế là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nếu có người thừa kế mới thì không chia lại hiện vật, người đã nhận di sản trả tiền tương ứng với phần di sản của người mới tại thời điểm chia, trừ khi có thỏa thuận khác; nếu người thừa kế bị bác bỏ quyền thừa kế thì phải trả lại di sản hoặc khoản tiền tương đương cho người thừa kế khác, trừ khi có thỏa thuận khác.</ANSWER>
+            <ANSWER>Theo Điều 662 Bộ luật Dân sự 2015, nếu có người thừa kế mới xuất hiện sau khi chia, không phân chia lại hiện vật mà những người đã nhận di sản phải trả cho người mới khoản tiền tương ứng với phần di sản tại thời điểm chia, trừ khi có thỏa thuận khác.  Nếu có người thừa kế bị bác bỏ quyền thừa kế, người đó phải trả lại di sản hoặc khoản tiền tương đương cho những người thừa kế khác, trừ khi có thỏa thuận khác.</ANSWER>
+            <ANSWER>Có người thừa kế mới: không chia lại, trả tiền tương ứng; người bị bác bỏ: trả lại di sản/tiền tương đương (trừ khi thỏa thuận khác).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="18" article="662" clause="1">
+        <QUESTIONS>
+            <QUESTION>Nếu xuất hiện người thừa kế mới sau khi di sản đã được phân chia thì việc phân chia di sản sẽ được xử lý như thế nào?</QUESTION>
+            <QUESTION>Khi có người thừa kế mới xuất hiện, những người đã nhận di sản phải làm gì?</QUESTION>
+            <QUESTION>Nếu có thêm người thừa kế sau khi chia thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Không thực hiện việc phân chia lại di sản bằng hiện vật, nhưng những người thừa kế đã nhận di sản phải thanh toán cho người thừa kế mới một khoản tiền tương ứng với phần di sản của người đó tại thời điểm chia thừa kế theo tỷ lệ tương ứng với phần di sản đã nhận, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 662 Bộ luật Dân sự 2015, nếu có người thừa kế mới sau khi chia, không chia lại hiện vật mà người đã nhận phải trả tiền tương ứng với phần di sản của người mới tại thời điểm chia, trừ khi thỏa thuận khác.</ANSWER>
+            <ANSWER clause="1">Không chia lại hiện vật, trả tiền tương ứng (trừ khi thỏa thuận khác).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="19" article="662" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu có người thừa kế bị bác bỏ quyền thừa kế sau khi di sản đã được phân chia thì người đó phải làm gì?</QUESTION>
+            <QUESTION>Khi một người thừa kế bị tước quyền thừa kế sau khi đã nhận di sản, họ có nghĩa vụ gì?</QUESTION>
+            <QUESTION>Nếu người thừa kế bị bác bỏ quyền thừa kế sau khi chia thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Người đó phải trả lại di sản hoặc thanh toán một khoản tiền tương đương với giá trị di sản được hưởng tại thời điểm chia thừa kế cho những người thừa kế, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 662 Bộ luật Dân sự 2015, người bị bác bỏ quyền thừa kế phải trả lại di sản hoặc tiền tương đương cho người thừa kế khác, trừ khi có thỏa thuận khác.</ANSWER>
+            <ANSWER clause="2">Trả lại di sản/tiền tương đương (trừ khi thỏa thuận khác).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

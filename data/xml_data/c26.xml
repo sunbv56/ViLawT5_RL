@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>26</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <!-- ARTICLE 672 -->
+    <CONVERSATION id='1' article="672">
+        <QUESTIONS>
+            <QUESTION>Điều 672 Bộ luật Dân sự quy định như thế nào về việc xác định pháp luật áp dụng đối với người không quốc tịch và người có nhiều quốc tịch?</QUESTION>
+            <QUESTION>Theo Điều 672 Bộ luật Dân sự, trong trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch, nhưng cá nhân đó là người không quốc tịch hoặc có nhiều quốc tịch, thì pháp luật nào sẽ được áp dụng?</QUESTION>
+            <QUESTION>Điều 672 Bộ luật Dân sự quy định như thế nào về việc xác định pháp luật áp dụng trong trường hợp người có nhiều quốc tịch, trong đó có quốc tịch Việt Nam?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định về căn cứ để xác định pháp luật áp dụng đối với người không quốc tịch và người có nhiều quốc tịch trong quan hệ dân sự có yếu tố nước ngoài, dựa trên nơi cư trú hoặc mối liên hệ gắn bó nhất của người đó.</ANSWER>
+            <ANSWER>quy định về căn cứ xác định pháp luật áp dụng đối với người không quốc tịch và người có nhiều quốc tịch trong các quan hệ dân sự có yếu tố nước ngoài. Đối với người không quốc tịch, pháp luật áp dụng là pháp luật của nước nơi người đó cư trú hoặc có mối liên hệ gắn bó nhất. Đối với người có nhiều quốc tịch, pháp luật áp dụng là pháp luật của nước nơi người đó có quốc tịch và cư trú, hoặc có mối liên hệ gắn bó nhất, hoặc pháp luật Việt Nam nếu người đó có quốc tịch Việt Nam.</ANSWER>
+            <ANSWER>quy định: 1. Trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người không quốc tịch thì pháp luật áp dụng là pháp luật của nước nơi người đó cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu người đó có nhiều nơi cư trú hoặc không xác định được nơi cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài thì pháp luật áp dụng là pháp luật của nước nơi người đó có mối liên hệ gắn bó nhất. 2. Trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người có nhiều quốc tịch thì pháp luật áp dụng là pháp luật của nước nơi người đó có quốc tịch và cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu người đó có nhiều nơi cư trú hoặc không xác định được nơi cư trú hoặc nơi cư trú và nơi có quốc tịch khác nhau vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài thì pháp luật áp dụng là pháp luật của nước mà người đó có quốc tịch và có mối liên hệ gắn bó nhất. Trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người có nhiều quốc tịch, trong đó có quốc tịch Việt Nam thì pháp luật áp dụng là pháp luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="672" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khoản 1 Điều 672 Bộ luật Dân sự quy định như thế nào về việc xác định pháp luật áp dụng đối với người không quốc tịch?</QUESTION>
+            <QUESTION>Theo Khoản 1 Điều 672 Bộ luật Dân sự, nếu một người không quốc tịch tham gia vào quan hệ dân sự có yếu tố nước ngoài, pháp luật của nước nào sẽ được áp dụng?</QUESTION>
+            <QUESTION>Trong trường hợp người không quốc tịch có nhiều nơi cư trú hoặc không xác định được nơi cư trú, pháp luật của nước nào sẽ được áp dụng theo Khoản 1 Điều 672?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định pháp luật áp dụng đối với người không quốc tịch là pháp luật của nước nơi người đó cư trú hoặc có mối liên hệ gắn bó nhất.</ANSWER>
+            <ANSWER clause="1">quy định trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người không quốc tịch thì pháp luật áp dụng là pháp luật của nước nơi người đó cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu người đó có nhiều nơi cư trú hoặc không xác định được nơi cư trú thì pháp luật áp dụng là pháp luật của nước nơi người đó có mối liên hệ gắn bó nhất.</ANSWER>
+            <ANSWER clause="1">quy định trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người không quốc tịch thì pháp luật áp dụng là pháp luật của nước nơi người đó cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu người đó có nhiều nơi cư trú hoặc không xác định được nơi cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài thì pháp luật áp dụng là pháp luật của nước nơi người đó có mối liên hệ gắn bó nhất. Như vậy, yếu tố quan trọng để xác định pháp luật áp dụng trong trường hợp này là nơi cư trú hoặc nơi có mối liên hệ gắn bó nhất của người không quốc tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="672" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khoản 2 Điều 672 Bộ luật Dân sự quy định như thế nào về việc xác định pháp luật áp dụng đối với người có nhiều quốc tịch?</QUESTION>
+            <QUESTION>Theo Khoản 2 Điều 672 Bộ luật Dân sự, nếu một người có nhiều quốc tịch tham gia vào quan hệ dân sự có yếu tố nước ngoài, pháp luật của nước nào sẽ được áp dụng?</QUESTION>
+            <QUESTION>Trong trường hợp người có nhiều quốc tịch, trong đó có quốc tịch Việt Nam, pháp luật của nước nào sẽ được áp dụng theo Khoản 2 Điều 672?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định pháp luật áp dụng đối với người có nhiều quốc tịch là pháp luật của nước nơi người đó có quốc tịch và cư trú, hoặc có mối liên hệ gắn bó nhất, hoặc pháp luật Việt Nam nếu người đó có quốc tịch Việt Nam.</ANSWER>
+            <ANSWER clause="2">quy định trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người có nhiều quốc tịch thì pháp luật áp dụng là pháp luật của nước nơi người đó có quốc tịch và cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu người đó có nhiều nơi cư trú hoặc không xác định được nơi cư trú hoặc nơi cư trú và nơi có quốc tịch khác nhau thì pháp luật áp dụng là pháp luật của nước mà người đó có quốc tịch và có mối liên hệ gắn bó nhất.</ANSWER>
+            <ANSWER clause="2">quy định trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người có nhiều quốc tịch thì pháp luật áp dụng là pháp luật của nước nơi người đó có quốc tịch và cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu người đó có nhiều nơi cư trú hoặc không xác định được nơi cư trú hoặc nơi cư trú và nơi có quốc tịch khác nhau vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài thì pháp luật áp dụng là pháp luật của nước mà người đó có quốc tịch và có mối liên hệ gắn bó nhất. Trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người có nhiều quốc tịch, trong đó có quốc tịch Việt Nam thì pháp luật áp dụng là pháp luật Việt Nam. Như vậy, trong trường hợp người có nhiều quốc tịch, trong đó có quốc tịch Việt Nam, thì pháp luật Việt Nam sẽ được ưu tiên áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 673 -->
+    <CONVERSATION id='4' article="673">
+        <QUESTIONS>
+            <QUESTION>Điều 673 Bộ luật Dân sự quy định như thế nào về năng lực pháp luật dân sự của cá nhân?</QUESTION>
+            <QUESTION>Theo Điều 673 Bộ luật Dân sự, năng lực pháp luật dân sự của cá nhân được xác định dựa trên căn cứ nào?</QUESTION>
+            <QUESTION>Người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như thế nào theo quy định tại Điều 673?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.</ANSWER>
+            <ANSWER>quy định năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch. Tuy nhiên, người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.</ANSWER>
+            <ANSWER>quy định: 1. Năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch. 2. Người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác. Như vậy, về nguyên tắc, năng lực pháp luật dân sự của cá nhân sẽ được xác định theo pháp luật của nước mà người đó có quốc tịch, nhưng khi người nước ngoài ở Việt Nam, họ sẽ có năng lực pháp luật dân sự như công dân Việt Nam, trừ khi pháp luật Việt Nam có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="673" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khoản 1 Điều 673 Bộ luật Dân sự quy định như thế nào về việc xác định năng lực pháp luật dân sự của cá nhân?</QUESTION>
+            <QUESTION>Theo Khoản 1 Điều 673 Bộ luật Dân sự, pháp luật của nước nào sẽ được áp dụng để xác định năng lực pháp luật dân sự của một cá nhân?</QUESTION>
+            <QUESTION>Căn cứ để xác định năng lực pháp luật dân sự của cá nhân theo Khoản 1 Điều 673 là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch.</ANSWER>
+            <ANSWER clause="1">quy định năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch. Như vậy, căn cứ để xác định năng lực pháp luật dân sự của cá nhân là quốc tịch của người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="673" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khoản 2 Điều 673 Bộ luật Dân sự quy định như thế nào về năng lực pháp luật dân sự của người nước ngoài tại Việt Nam?</QUESTION>
+            <QUESTION>Theo Khoản 2 Điều 673 Bộ luật Dân sự, người nước ngoài tại Việt Nam có năng lực pháp luật dân sự giống hay khác so với công dân Việt Nam?</QUESTION>
+            <QUESTION>Có trường hợp ngoại lệ nào mà người nước ngoài tại Việt Nam không có năng lực pháp luật dân sự như công dân Việt Nam không theo Khoản 2 Điều 673?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.</ANSWER>
+            <ANSWER clause="2">quy định người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác. Như vậy, về nguyên tắc, người nước ngoài tại Việt Nam sẽ có năng lực pháp luật dân sự tương đương với công dân Việt Nam, tuy nhiên, vẫn có thể có những trường hợp ngoại lệ do pháp luật Việt Nam quy định riêng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 674 -->
+    <CONVERSATION id='7' article="674">
+        <QUESTIONS>
+            <QUESTION>Điều 674 Bộ luật Dân sự quy định như thế nào về năng lực hành vi dân sự của cá nhân?</QUESTION>
+            <QUESTION>Theo Điều 674 Bộ luật Dân sự, năng lực hành vi dân sự của cá nhân được xác định dựa trên căn cứ nào?</QUESTION>
+            <QUESTION>Pháp luật Việt Nam được áp dụng để xác định năng lực hành vi dân sự của người nước ngoài trong trường hợp nào theo Điều 674?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp người nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì áp dụng pháp luật Việt Nam. Việc xác định cá nhân mất năng lực hành vi, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại Việt Nam cũng theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER>quy định năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp người nước ngoài xác lập, thực hiện các giao dịch dân sự tại Việt Nam. Việc xác định cá nhân bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại Việt Nam theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER>quy định: 1. Năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp quy định tại khoản 2 Điều này. 2. Trường hợp người nước ngoài xác lập, thực hiện các giao dịch dân sự tại Việt Nam, năng lực hành vi dân sự của người nước ngoài đó được xác định theo pháp luật Việt Nam. 3. Việc xác định cá nhân bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại Việt Nam theo pháp luật Việt Nam. Như vậy, về nguyên tắc, năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, nhưng có một số trường hợp ngoại lệ áp dụng pháp luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="674" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khoản 1 Điều 674 Bộ luật Dân sự quy định như thế nào về việc xác định năng lực hành vi dân sự của cá nhân?</QUESTION>
+            <QUESTION>Theo Khoản 1 Điều 674 Bộ luật Dân sự, pháp luật của nước nào sẽ được áp dụng để xác định năng lực hành vi dân sự của một cá nhân?</QUESTION>
+            <QUESTION>Căn cứ để xác định năng lực hành vi dân sự của cá nhân theo Khoản 1 Điều 674 là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp khoản 2 Điều này có quy định khác.</ANSWER>
+            <ANSWER clause="1">quy định năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp quy định tại khoản 2 Điều này.</ANSWER>
+            <ANSWER clause="1">quy định năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp quy định tại khoản 2 Điều này. Như vậy, căn cứ để xác định năng lực hành vi dân sự của cá nhân là quốc tịch của người đó, tuy nhiên, có trường hợp ngoại lệ được quy định tại khoản 2.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="674" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khoản 2 Điều 674 Bộ luật Dân sự quy định như thế nào về việc xác định năng lực hành vi dân sự của người nước ngoài tại Việt Nam?</QUESTION>
+            <QUESTION>Theo Khoản 2 Điều 674 Bộ luật Dân sự, khi người nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì năng lực hành vi dân sự của họ được xác định theo pháp luật nào?</QUESTION>
+            <QUESTION>Phạm vi áp dụng của pháp luật Việt Nam trong việc xác định năng lực hành vi dân sự của người nước ngoài theo Khoản 2 Điều 674 là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định trường hợp người nước ngoài xác lập, thực hiện các giao dịch dân sự tại Việt Nam, năng lực hành vi dân sự của người nước ngoài đó được xác định theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="2">quy định trường hợp người nước ngoài xác lập, thực hiện các giao dịch dân sự tại Việt Nam, năng lực hành vi dân sự của người nước ngoài đó được xác định theo pháp luật Việt Nam. Như vậy, phạm vi áp dụng của pháp luật Việt Nam trong trường hợp này là khi người nước ngoài xác lập, thực hiện các giao dịch dân sự tại Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="674" clause="3">
+        <QUESTIONS>
+            <QUESTION>Khoản 3 Điều 674 Bộ luật Dân sự quy định như thế nào về việc xác định cá nhân bị mất, hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi?</QUESTION>
+            <QUESTION>Theo Khoản 3 Điều 674 Bộ luật Dân sự, pháp luật của nước nào sẽ được áp dụng để xác định một cá nhân bị mất năng lực hành vi dân sự tại Việt Nam?</QUESTION>
+            <QUESTION>Phạm vi áp dụng của pháp luật Việt Nam trong việc xác định tình trạng năng lực hành vi dân sự của cá nhân theo Khoản 3 Điều 674 là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">quy định việc xác định cá nhân bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại Việt Nam theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="3">quy định việc xác định cá nhân bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại Việt Nam theo pháp luật Việt Nam. Như vậy, phạm vi áp dụng của pháp luật Việt Nam trong trường hợp này là khi việc xác định tình trạng năng lực hành vi dân sự của cá nhân diễn ra tại Việt Nam, không phân biệt người đó là công dân Việt Nam hay người nước ngoài.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 675 -->
+    <CONVERSATION id='11' article="675">
+        <QUESTIONS>
+            <QUESTION>Điều 675 Bộ luật Dân sự quy định như thế nào về việc xác định cá nhân mất tích hoặc chết?</QUESTION>
+            <QUESTION>Theo Điều 675 Bộ luật Dân sự, pháp luật của nước nào sẽ được áp dụng để xác định một cá nhân mất tích hoặc chết?</QUESTION>
+            <QUESTION>Có trường hợp ngoại lệ nào mà việc xác định cá nhân mất tích hoặc chết tại Việt Nam sẽ tuân theo pháp luật Việt Nam không theo Điều 675?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch trước khi có tin tức cuối cùng, trừ trường hợp việc xác định này diễn ra tại Việt Nam thì áp dụng pháp luật Việt Nam.</ANSWER>
+            <ANSWER>quy định việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó, trừ trường hợp việc xác định này diễn ra tại Việt Nam.</ANSWER>
+            <ANSWER>quy định việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó, trừ trường hợp quy định tại khoản 2 Điều này. Việc xác định tại Việt Nam một cá nhân mất tích hoặc chết theo pháp luật Việt Nam. Như vậy, về nguyên tắc, việc xác định một cá nhân mất tích hoặc chết sẽ tuân theo pháp luật của nước mà người đó có quốc tịch, nhưng nếu việc xác định này diễn ra tại Việt Nam thì sẽ áp dụng pháp luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="675" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khoản 1 Điều 675 Bộ luật Dân sự quy định như thế nào về việc xác định cá nhân mất tích hoặc chết?</QUESTION>
+            <QUESTION>Theo Khoản 1 Điều 675 Bộ luật Dân sự, pháp luật của nước nào sẽ được áp dụng để xác định một cá nhân mất tích hoặc chết?</QUESTION>
+            <QUESTION>Thời điểm để xác định quốc tịch của cá nhân trong việc áp dụng pháp luật theo Khoản 1 Điều 675 là khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch trước khi có tin tức cuối cùng.</ANSWER>
+            <ANSWER clause="1">quy định việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó.</ANSWER>
+            <ANSWER clause="1">quy định việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó, trừ trường hợp quy định tại khoản 2 Điều này. Như vậy, quốc tịch của cá nhân sẽ được xác định tại thời điểm trước khi có tin tức cuối cùng về người đó để làm căn cứ xác định pháp luật áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="675" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khoản 2 Điều 675 Bộ luật Dân sự quy định trường hợp ngoại lệ nào về việc xác định cá nhân mất tích hoặc chết?</QUESTION>
+            <QUESTION>Theo Khoản 2 Điều 675 Bộ luật Dân sự, khi nào việc xác định một cá nhân mất tích hoặc chết sẽ tuân theo pháp luật Việt Nam?</QUESTION>
+            <QUESTION>Phạm vi áp dụng của pháp luật Việt Nam trong việc xác định cá nhân mất tích hoặc chết theo Khoản 2 Điều 675 là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định việc xác định tại Việt Nam một cá nhân mất tích hoặc chết theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="2">quy định việc xác định tại Việt Nam một cá nhân mất tích hoặc chết theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="2">quy định việc xác định tại Việt Nam một cá nhân mất tích hoặc chết theo pháp luật Việt Nam. Như vậy, bất kể quốc tịch của người đó là gì, nếu việc xác định người đó mất tích hoặc chết diễn ra tại Việt Nam thì sẽ áp dụng pháp luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 676 -->
+    <CONVERSATION id='14' article="676">
+        <QUESTIONS>
+            <QUESTION>Điều 676 Bộ luật Dân sự quy định như thế nào về pháp nhân?</QUESTION>
+            <QUESTION>Theo Điều 676 Bộ luật Dân sự, quốc tịch của pháp nhân được xác định như thế nào và các vấn đề liên quan đến pháp nhân được giải quyết theo pháp luật nào?</QUESTION>
+            <QUESTION>Trong trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam, năng lực pháp luật dân sự của pháp nhân đó được xác định theo pháp luật nào theo Điều 676?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập và các vấn đề liên quan đến pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì áp dụng pháp luật Việt Nam.</ANSWER>
+            <ANSWER>quy định quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập. Năng lực pháp luật dân sự của pháp nhân; tên gọi của pháp nhân; đại diện theo pháp luật của pháp nhân; việc tổ chức, tổ chức lại, giải thể pháp nhân; quan hệ giữa pháp nhân với thành viên của pháp nhân; trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch.</ANSWER>
+            <ANSWER>quy định: 1. Quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập. 2. Năng lực pháp luật dân sự của pháp nhân; tên gọi của pháp nhân; đại diện theo pháp luật của pháp nhân; việc tổ chức, tổ chức lại, giải thể pháp nhân; quan hệ giữa pháp nhân với thành viên của pháp nhân; trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp quy định tại khoản 3 Điều này. 3. Trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật Việt Nam. Như vậy, trong trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam, năng lực pháp luật dân sự của họ sẽ được xác định theo pháp luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="676" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khoản 1 Điều 676 Bộ luật Dân sự quy định như thế nào về việc xác định quốc tịch của pháp nhân?</QUESTION>
+            <QUESTION>Theo Khoản 1 Điều 676 Bộ luật Dân sự, quốc tịch của pháp nhân được xác định dựa trên căn cứ nào?</QUESTION>
+            <QUESTION>Mục đích của việc xác định quốc tịch của pháp nhân theo Khoản 1 Điều 676 là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập.</ANSWER>
+            <ANSWER clause="1">quy định quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập.</ANSWER>
+            <ANSWER clause="1">quy định quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập. Mục đích của việc xác định quốc tịch của pháp nhân là để xác định pháp luật áp dụng đối với các vấn đề liên quan đến pháp nhân đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="676" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khoản 2 Điều 676 Bộ luật Dân sự quy định như thế nào về việc xác định pháp luật áp dụng đối với các vấn đề liên quan đến pháp nhân?</QUESTION>
+            <QUESTION>Theo Khoản 2 Điều 676 Bộ luật Dân sự, những vấn đề nào của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch?</QUESTION>
+            <QUESTION>Có trường hợp ngoại lệ nào mà các vấn đề liên quan đến pháp nhân không được xác định theo pháp luật của nước mà pháp nhân có quốc tịch không theo Khoản 2 Điều 676?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định năng lực pháp luật dân sự, tên gọi, đại diện, tổ chức, giải thể, quan hệ và trách nhiệm của pháp nhân và thành viên được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp khoản 3 Điều này có quy định khác.</ANSWER>
+            <ANSWER clause="2">quy định năng lực pháp luật dân sự của pháp nhân; tên gọi của pháp nhân; đại diện theo pháp luật của pháp nhân; việc tổ chức, tổ chức lại, giải thể pháp nhân; quan hệ giữa pháp nhân với thành viên của pháp nhân; trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp quy định tại khoản 3 Điều này.</ANSWER>
+            <ANSWER clause="2">quy định năng lực pháp luật dân sự của pháp nhân; tên gọi của pháp nhân; đại diện theo pháp luật của pháp nhân; việc tổ chức, tổ chức lại, giải thể pháp nhân; quan hệ giữa pháp nhân với thành viên của pháp nhân; trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp quy định tại khoản 3 Điều này. Trường hợp ngoại lệ được quy định tại khoản 3, đó là khi pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="676" clause="3">
+        <QUESTIONS>
+            <QUESTION>Khoản 3 Điều 676 Bộ luật Dân sự quy định như thế nào về năng lực pháp luật dân sự của pháp nhân nước ngoài khi xác lập, thực hiện giao dịch dân sự tại Việt Nam?</QUESTION>
+            <QUESTION>Theo Khoản 3 Điều 676 Bộ luật Dân sự, trong trường hợp nào thì năng lực pháp luật dân sự của pháp nhân nước ngoài được xác định theo pháp luật Việt Nam?</QUESTION>
+            <QUESTION>Phạm vi áp dụng của pháp luật Việt Nam trong việc xác định năng lực pháp luật dân sự của pháp nhân nước ngoài theo Khoản 3 Điều 676 là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">quy định trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="3">quy định trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="3">quy định trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật Việt Nam. Như vậy, phạm vi áp dụng của pháp luật Việt Nam trong trường hợp này là khi pháp nhân nước ngoài xác lập, thực hiện các giao dịch dân sự tại Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

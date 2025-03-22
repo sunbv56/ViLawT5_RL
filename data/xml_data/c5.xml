@@ -1,0 +1,100 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>5</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="97">
+        <QUESTIONS>
+            <QUESTION>Nhà nước, cơ quan nhà nước tham gia quan hệ dân sự như thế nào?</QUESTION>
+            <QUESTION>Khi tham gia quan hệ dân sự, Nhà nước có gì khác so với các chủ thể khác không?</QUESTION>
+            <QUESTION>Nhà nước và các cơ quan nhà nước chịu trách nhiệm dân sự ra sao trong quan hệ dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nhà nước, cơ quan nhà nước khi tham gia quan hệ dân sự bình đẳng với các chủ thể khác và chịu trách nhiệm dân sự theo Điều 99 và 100 Bộ luật Dân sự 2015.</ANSWER>
+            <ANSWER>Bình đẳng với các chủ thể khác và chịu trách nhiệm theo Điều 99, 100 Bộ luật Dân sự 2015.</ANSWER>
+            <ANSWER>Theo Điều 97 Bộ luật Dân sự 2015, Nhà nước, cơ quan nhà nước khi tham gia quan hệ dân sự thì bình đẳng với các chủ thể khác và chịu trách nhiệm dân sự theo Điều 99 và 100 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="98">
+        <QUESTIONS>
+            <QUESTION>Ai đại diện cho Nhà nước, cơ quan nhà nước tham gia quan hệ dân sự?</QUESTION>
+            <QUESTION>Việc đại diện cho Nhà nước tham gia quan hệ dân sự được quy định như thế nào?</QUESTION>
+            <QUESTION>Làm thế nào để Nhà nước, cơ quan nhà nước tham gia vào quan hệ dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc đại diện cho Nhà nước, cơ quan nhà nước tham gia quan hệ dân sự được thực hiện theo luật về chức năng, nhiệm vụ, quyền hạn của cơ quan nhà nước; việc đại diện thông qua cá nhân, pháp nhân khác chỉ được thực hiện theo luật.</ANSWER>
+            <ANSWER>Đại diện theo luật về chức năng, nhiệm vụ của cơ quan nhà nước; đại diện qua cá nhân/pháp nhân khác phải theo luật.</ANSWER>
+            <ANSWER>Theo Điều 98 Bộ luật Dân sự 2015, việc đại diện cho Nhà nước, cơ quan nhà nước tham gia quan hệ dân sự được thực hiện theo quy định của pháp luật về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của cơ quan nhà nước. Việc đại diện thông qua cá nhân, pháp nhân khác chỉ được thực hiện trong các trường hợp và theo trình tự, thủ tục do pháp luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="99">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm về nghĩa vụ dân sự của Nhà nước, cơ quan nhà nước được quy định như thế nào?</QUESTION>
+            <QUESTION>Nhà nước, cơ quan nhà nước chịu trách nhiệm dân sự bằng gì?</QUESTION>
+            <QUESTION>Ai chịu trách nhiệm về các nghĩa vụ dân sự của Nhà nước và các cơ quan nhà nước?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nhà nước chịu trách nhiệm bằng tài sản mình đại diện chủ sở hữu (trừ khi đã chuyển giao cho pháp nhân); pháp nhân do Nhà nước thành lập không chịu trách nhiệm thay Nhà nước; Nhà nước không chịu trách nhiệm thay pháp nhân do mình thành lập (trừ khi bảo lãnh); cơ quan nhà nước không chịu trách nhiệm thay Nhà nước hoặc cơ quan khác, trừ khi có luật khác.</ANSWER>
+            <ANSWER>Nhà nước chịu trách nhiệm bằng tài sản của mình; pháp nhân nhà nước không chịu trách nhiệm thay; Nhà nước không chịu trách nhiệm thay pháp nhân (trừ khi bảo lãnh); cơ quan này không chịu trách nhiệm thay cơ quan khác.</ANSWER>
+            <ANSWER>Theo Điều 99 Bộ luật Dân sự 2015, Nhà nước chịu trách nhiệm bằng tài sản mình quản lý (trừ khi đã chuyển giao); pháp nhân do Nhà nước thành lập không chịu trách nhiệm thay Nhà nước; Nhà nước không chịu trách nhiệm thay pháp nhân do mình thành lập (trừ khi bảo lãnh); cơ quan nhà nước không chịu trách nhiệm thay Nhà nước hoặc cơ quan khác, trừ khi luật khác quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+
+    <CONVERSATION id='4' article="99">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân do Nhà nước thành lập có phải chịu trách nhiệm về nghĩa vụ dân sự của Nhà nước không?</QUESTION>
+            <QUESTION>Doanh nghiệp nhà nước có phải gánh nợ thay cho Nhà nước không?</QUESTION>
+            <QUESTION>Trách nhiệm của pháp nhân do Nhà nước thành lập đối với nghĩa vụ dân sự của Nhà nước được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Pháp nhân do Nhà nước thành lập không chịu trách nhiệm về nghĩa vụ dân sự của Nhà nước.</ANSWER>
+            <ANSWER clause="2">Không, pháp nhân nhà nước không gánh nợ thay Nhà nước.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 99 Bộ luật Dân sự 2015, pháp nhân do Nhà nước thành lập không chịu trách nhiệm về nghĩa vụ dân sự của Nhà nước.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="99">
+        <QUESTIONS>
+            <QUESTION>Nhà nước có phải chịu trách nhiệm về nghĩa vụ dân sự của pháp nhân do mình thành lập không?</QUESTION>
+            <QUESTION>Nhà nước có phải gánh nợ thay cho doanh nghiệp nhà nước không?</QUESTION>
+            <QUESTION>Trường hợp nào Nhà nước chịu trách nhiệm về nghĩa vụ của pháp nhân do mình thành lập?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Nhà nước không chịu trách nhiệm về nghĩa vụ của pháp nhân do mình thành lập, trừ khi Nhà nước bảo lãnh cho nghĩa vụ đó.</ANSWER>
+            <ANSWER clause="3">Không, trừ khi Nhà nước bảo lãnh.</ANSWER>
+            <ANSWER clause="3">Theo khoản 3 Điều 99 Bộ luật Dân sự 2015, Nhà nước không chịu trách nhiệm về nghĩa vụ dân sự của pháp nhân do mình thành lập, trừ trường hợp Nhà nước bảo lãnh.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="100">
+        <QUESTIONS>
+            <QUESTION>Khi giao dịch dân sự với nước ngoài, trách nhiệm dân sự của Nhà nước Việt Nam được quy định như thế nào?</QUESTION>
+            <QUESTION>Nhà nước Việt Nam có trách nhiệm gì khi ký kết hợp đồng với pháp nhân nước ngoài?</QUESTION>
+            <QUESTION>Trách nhiệm dân sự của Nhà nước, cơ quan nhà nước trong quan hệ dân sự với nước ngoài ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nhà nước Việt Nam chịu trách nhiệm dân sự với nước ngoài khi: điều ước quốc tế có quy định từ bỏ miễn trừ; các bên thỏa thuận từ bỏ miễn trừ; hoặc Nhà nước Việt Nam tự nguyện từ bỏ miễn trừ; trách nhiệm của nước ngoài với Việt Nam cũng tương tự.</ANSWER>
+            <ANSWER>Chịu trách nhiệm khi: điều ước quốc tế bỏ miễn trừ; thỏa thuận bỏ miễn trừ; hoặc tự bỏ miễn trừ; nước ngoài cũng vậy.</ANSWER>
+            <ANSWER>Theo Điều 100 Bộ luật Dân sự 2015, Nhà nước Việt Nam chịu trách nhiệm dân sự với nước ngoài khi: Điều ước quốc tế mà Việt Nam là thành viên có quy định từ bỏ miễn trừ; Các bên thỏa thuận từ bỏ miễn trừ; Nhà nước Việt Nam từ bỏ miễn trừ. Trách nhiệm của nước ngoài với Việt Nam cũng tương tự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="100">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm dân sự của nhà nước nước ngoài khi giao dịch với Việt Nam được quy định như thế nào?</QUESTION>
+            <QUESTION>Khi pháp nhân nước ngoài ký kết hợp đồng với Việt Nam, trách nhiệm của họ ra sao?</QUESTION>
+            <QUESTION>Nhà nước, cơ quan nhà nước nước ngoài chịu trách nhiệm dân sự như thế nào khi giao dịch với Việt Nam?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Trách nhiệm dân sự của nhà nước, cơ quan nhà nước nước ngoài khi giao dịch dân sự với Việt Nam cũng tương tự như trách nhiệm của Nhà nước Việt Nam khi giao dịch với nước ngoài (tức là khi có thỏa thuận từ bỏ miễn trừ, hoặc theo điều ước quốc tế).</ANSWER>
+            <ANSWER clause="2">Tương tự như trách nhiệm của Việt Nam với nước ngoài.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 100 Bộ luật Dân sự 2015, trách nhiệm của nhà nước, cơ quan nhà nước nước ngoài khi giao dịch với Việt Nam được áp dụng tương tự khoản 1, tức là khi có thỏa thuận từ bỏ miễn trừ, hoặc theo điều ước quốc tế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

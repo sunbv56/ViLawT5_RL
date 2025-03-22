@@ -1,0 +1,396 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>9</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="134">
+        <QUESTIONS>
+            <QUESTION>Đại diện là gì?</QUESTION>
+            <QUESTION>Đại diện được hiểu như thế nào?</QUESTION>
+            <QUESTION>Thế nào là đại diện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 134 Bộ luật Dân sự 2015, đại diện là việc một người nhân danh và vì lợi ích của người khác xác lập, thực hiện giao dịch dân sự.</ANSWER>
+            <ANSWER clause='1'>Đại diện là làm giao dịch cho người khác, vì lợi ích của họ.</ANSWER>
+            <ANSWER clause='1'>Làm giao dịch thay người khác, vì lợi ích của họ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="134">
+        <QUESTIONS>
+            <QUESTION>Ai có thể thực hiện giao dịch dân sự thông qua người đại diện?</QUESTION>
+            <QUESTION>Trường hợp nào thì có thể đại diện?</QUESTION>
+            <QUESTION>Có thể nhờ người khác đại diện khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 134 Bộ luật Dân sự 2015, cá nhân, pháp nhân có thể thực hiện giao dịch dân sự thông qua người đại diện, trừ trường hợp pháp luật quy định phải tự mình thực hiện.</ANSWER>
+            <ANSWER clause='2'>Cá nhân, pháp nhân đều có thể nhờ người khác đại diện, trừ khi luật yêu cầu phải tự làm.</ANSWER>
+            <ANSWER clause='2'>Được, trừ khi luật yêu cầu tự làm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="134">
+        <QUESTIONS>
+            <QUESTION>Người đại diện cần có những năng lực gì?</QUESTION>
+            <QUESTION>Điều kiện về năng lực của người đại diện?</QUESTION>
+            <QUESTION>Đại diện cần có năng lực như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 134 Bộ luật Dân sự 2015, trường hợp pháp luật quy định thì người đại diện phải có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập, thực hiện.</ANSWER>
+            <ANSWER clause='3'>Người đại diện phải có năng lực phù hợp với giao dịch khi luật có quy định.</ANSWER>
+            <ANSWER clause='3'>Phải có năng lực phù hợp khi luật yêu cầu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="135">
+        <QUESTIONS>
+            <QUESTION>Căn cứ để xác lập quyền đại diện là gì?</QUESTION>
+            <QUESTION>Quyền đại diện được xác lập như thế nào?</QUESTION>
+            <QUESTION>Làm thế nào để có quyền đại diện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 135 Bộ luật Dân sự 2015, quyền đại diện được xác lập theo ủy quyền hoặc theo quyết định của cơ quan nhà nước có thẩm quyền, theo điều lệ của pháp nhân, theo quy định của pháp luật.</ANSWER>
+            <ANSWER>Quyền đại diện có thể được xác lập theo ủy quyền hoặc theo pháp luật.</ANSWER>
+            <ANSWER>Theo ủy quyền hoặc theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="136">
+        <QUESTIONS>
+            <QUESTION>Ai là người đại diện theo pháp luật của trẻ em?</QUESTION>
+            <QUESTION>Trẻ em được ai đại diện?</QUESTION>
+            <QUESTION>Người đại diện của con chưa thành niên?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 136 Bộ luật Dân sự 2015, cha, mẹ là người đại diện theo pháp luật của con chưa thành niên.</ANSWER>
+            <ANSWER clause='1'>Cha mẹ đại diện cho con chưa thành niên.</ANSWER>
+            <ANSWER clause='1'>Cha, mẹ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="136">
+        <QUESTIONS>
+            <QUESTION>Ai là người đại diện theo pháp luật của người được giám hộ?</QUESTION>
+            <QUESTION>Người được giám hộ do ai đại diện?</QUESTION>
+            <QUESTION>Người giám hộ đại diện cho ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 136 Bộ luật Dân sự 2015, người giám hộ đại diện cho người được giám hộ. Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi là người đại diện theo pháp luật nếu được Tòa án chỉ định.</ANSWER>
+            <ANSWER clause='2'>Người giám hộ đại diện cho người được giám hộ.</ANSWER>
+            <ANSWER clause='2'>Người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="136">
+        <QUESTIONS>
+            <QUESTION>Nếu không xác định được cha mẹ hoặc người giám hộ thì ai sẽ đại diện?</QUESTION>
+            <QUESTION>Không có cha mẹ, không có người giám hộ thì ai đại diện?</QUESTION>
+            <QUESTION>Ai đại diện khi không có cha mẹ hoặc người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 136 Bộ luật Dân sự 2015, nếu không xác định được cha mẹ hoặc người giám hộ thì người do Tòa án chỉ định sẽ đại diện.</ANSWER>
+            <ANSWER clause='3'>Tòa án sẽ chỉ định người đại diện.</ANSWER>
+            <ANSWER clause='3'>Người được Tòa án chỉ định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="136">
+        <QUESTIONS>
+            <QUESTION>Ai đại diện cho người bị hạn chế năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Người bị hạn chế năng lực hành vi do ai đại diện?</QUESTION>
+            <QUESTION>Người đại diện của người bị hạn chế năng lực hành vi là ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Theo khoản 4 Điều 136 Bộ luật Dân sự 2015, người do Tòa án chỉ định sẽ đại diện cho người bị hạn chế năng lực hành vi dân sự.</ANSWER>
+            <ANSWER clause='4'>Người được Tòa án chỉ định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="137">
+        <QUESTIONS>
+            <QUESTION>Ai là người đại diện theo pháp luật của pháp nhân?</QUESTION>
+            <QUESTION>Pháp nhân do ai đại diện?</QUESTION>
+            <QUESTION>Người đại diện của công ty là ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 137 Bộ luật Dân sự 2015, người đại diện theo pháp luật của pháp nhân gồm: người được pháp nhân chỉ định theo điều lệ; người có thẩm quyền theo luật; người do Tòa án chỉ định.</ANSWER>
+            <ANSWER clause='1'>Người đại diện theo điều lệ, theo luật, hoặc do Tòa án chỉ định.</ANSWER>
+            <ANSWER clause='1'>Theo điều lệ, theo luật, hoặc do Tòa án chỉ định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="137">
+        <QUESTIONS>
+            <QUESTION>Một pháp nhân có thể có nhiều người đại diện không?</QUESTION>
+            <QUESTION>Pháp nhân có thể có bao nhiêu người đại diện?</QUESTION>
+            <QUESTION>Có thể có nhiều người cùng đại diện cho một công ty?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 137 Bộ luật Dân sự 2015, một pháp nhân có thể có nhiều người đại diện theo pháp luật.</ANSWER>
+            <ANSWER clause='2'>Có thể.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="138">
+        <QUESTIONS>
+            <QUESTION>Ai có thể ủy quyền cho người khác đại diện?</QUESTION>
+            <QUESTION>Những ai được ủy quyền đại diện?</QUESTION>
+            <QUESTION>Có thể ủy quyền cho ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 138 Bộ luật Dân sự 2015, cá nhân, pháp nhân có thể ủy quyền cho cá nhân, pháp nhân khác đại diện.</ANSWER>
+            <ANSWER clause='1'>Cá nhân, pháp nhân có thể ủy quyền cho nhau.</ANSWER>
+            <ANSWER clause='1'>Cá nhân, pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="138">
+        <QUESTIONS>
+            <QUESTION>Các thành viên hộ gia đình có thể ủy quyền cho người khác đại diện không?</QUESTION>
+            <QUESTION>Hộ gia đình có thể cử người đại diện giao dịch tài sản chung không?</QUESTION>
+            <QUESTION>Ai đại diện cho hộ gia đình giao dịch tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 138 Bộ luật Dân sự 2015, các thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân có thể thỏa thuận cử người đại diện để xác lập, thực hiện giao dịch dân sự liên quan đến tài sản chung.</ANSWER>
+            <ANSWER clause='2'>Các thành viên hộ gia đình có thể cử người đại diện giao dịch tài sản chung.</ANSWER>
+            <ANSWER clause='2'>Người được các thành viên thỏa thuận cử ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="138">
+        <QUESTIONS>
+            <QUESTION>Người chưa thành niên có thể làm người đại diện theo ủy quyền không?</QUESTION>
+            <QUESTION>Độ tuổi nào được làm người đại diện theo ủy quyền?</QUESTION>
+            <QUESTION>Trẻ em có được đại diện theo ủy quyền không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 138 Bộ luật Dân sự 2015, người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch phải do người từ đủ 18 tuổi trở lên thực hiện.</ANSWER>
+            <ANSWER clause='3'>Người từ 15 đến dưới 18 tuổi được làm đại diện, trừ khi luật yêu cầu phải từ 18 tuổi trở lên.</ANSWER>
+            <ANSWER clause='3'>Từ 15 tuổi, trừ khi luật yêu cầu từ 18 tuổi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="139">
+        <QUESTIONS>
+            <QUESTION>Hậu quả pháp lý của hành vi đại diện là gì?</QUESTION>
+            <QUESTION>Giao dịch do người đại diện thực hiện có hiệu lực không?</QUESTION>
+            <QUESTION>Hành vi đại diện có ràng buộc người được đại diện không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 139 Bộ luật Dân sự 2015, giao dịch do người đại diện thực hiện phù hợp với phạm vi đại diện sẽ phát sinh quyền, nghĩa vụ cho người được đại diện.</ANSWER>
+            <ANSWER clause='1'>Giao dịch đúng phạm vi đại diện sẽ ràng buộc người được đại diện.</ANSWER>
+            <ANSWER clause='1'>Có, nếu đúng phạm vi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="139">
+        <QUESTIONS>
+            <QUESTION>Quyền của người đại diện trong việc thực hiện đại diện?</QUESTION>
+            <QUESTION>Người đại diện có quyền làm gì?</QUESTION>
+            <QUESTION>Người đại diện được làm những gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 139 Bộ luật Dân sự 2015, người đại diện có quyền thực hiện những việc cần thiết để đạt được mục đích đại diện.</ANSWER>
+            <ANSWER clause='2'>Người đại diện được làm những việc cần thiết cho mục đích đại diện.</ANSWER>
+            <ANSWER clause='2'>Làm những việc cần thiết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="139">
+        <QUESTIONS>
+            <QUESTION>Nếu người đại diện biết mình bị lừa dối, đe dọa mà vẫn đại diện thì sao?</QUESTION>
+            <QUESTION>Đại diện khi biết mình bị lừa thì có hiệu lực không?</QUESTION>
+            <QUESTION>Bị ép buộc đại diện thì giao dịch có hiệu lực với người được đại diện không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 139 Bộ luật Dân sự 2015, nếu người đại diện biết mình bị nhầm lẫn, lừa dối, đe dọa mà vẫn đại diện thì giao dịch đó không có hiệu lực với người được đại diện, trừ khi người được đại diện biết mà không phản đối.</ANSWER>
+            <ANSWER clause='3'>Giao dịch không hiệu lực, trừ khi người được đại diện biết mà không phản đối.</ANSWER>
+            <ANSWER clause='3'>Không, trừ khi người được đại diện đồng ý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="140">
+        <QUESTIONS>
+            <QUESTION>Thời hạn đại diện được xác định như thế nào?</QUESTION>
+            <QUESTION>Thời hạn ủy quyền kéo dài bao lâu?</QUESTION>
+            <QUESTION>Quyền đại diện có thời hạn là bao nhiêu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1,2'>Theo Điều 140 Bộ luật Dân sự 2015, thời hạn đại diện được xác định theo văn bản ủy quyền, quyết định của cơ quan có thẩm quyền, điều lệ pháp nhân, hoặc quy định của pháp luật. Nếu không xác định được thì thời hạn đại diện tính đến khi chấm dứt giao dịch (nếu ủy quyền cho giao dịch cụ thể) hoặc là 1 năm (nếu ủy quyền không cụ thể).</ANSWER>
+            <ANSWER clause='1,2'>Thời hạn đại diện theo văn bản ủy quyền, quyết định, điều lệ, hoặc luật. Nếu không, thời hạn đến khi hết giao dịch hoặc 1 năm.</ANSWER>
+            <ANSWER clause='1,2'>Theo ủy quyền, quyết định, điều lệ, hoặc luật. Nếu không, hết giao dịch hoặc 1 năm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="140">
+        <QUESTIONS>
+            <QUESTION>Khi nào quyền đại diện theo ủy quyền chấm dứt?</QUESTION>
+            <QUESTION>Những trường hợp nào thì hết quyền đại diện?</QUESTION>
+            <QUESTION>Ủy quyền hết hiệu lực khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 140 Bộ luật Dân sự 2015, đại diện theo ủy quyền chấm dứt khi: có thỏa thuận chấm dứt; hết thời hạn ủy quyền; hoàn thành công việc; người được đại diện hoặc người đại diện đơn phương chấm dứt; người được đại diện/đại diện chết hoặc chấm dứt tồn tại (nếu là pháp nhân); người đại diện không còn đủ điều kiện quy định tại khoản 3 Điều 134 của Bộ luật này; có căn cứ khác.</ANSWER>
+            <ANSWER clause='3'>Chấm dứt khi: hết hạn, hết việc, có thỏa thuận, đơn phương chấm dứt, chết/chấm dứt tồn tại, hết điều kiện quy định tại khoản 3 Điều 134 Bộ luật Dân sự 2015, lý do khác.</ANSWER>
+            <ANSWER clause='3'>Hết hạn, hết việc, thỏa thuận, đơn phương, chết/hết tồn tại, hết điều kiện quy định tại khoản 3 Điều 134 Bộ luật Dân sự 2015, lý do khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="140">
+        <QUESTIONS>
+            <QUESTION>Khi nào quyền đại diện theo pháp luật chấm dứt?</QUESTION>
+            <QUESTION>Đại diện theo pháp luật hết hiệu lực khi nào?</QUESTION>
+            <QUESTION>Trường hợp nào người đại diện theo pháp luật không còn quyền đại diện nữa?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Theo khoản 4 Điều 140 Bộ luật Dân sự 2015, đại diện theo pháp luật chấm dứt khi: người được đại diện thành niên hoặc khôi phục năng lực hành vi; người được đại diện chết; người được đại diện là pháp nhân chấm dứt tồn tại; có căn cứ khác theo luật.</ANSWER>
+            <ANSWER clause='4'>Chấm dứt khi: thành niên/khôi phục năng lực, chết, pháp nhân hết tồn tại, lý do khác theo luật.</ANSWER>
+            <ANSWER clause='4'>Thành niên, chết, hết tồn tại, lý do khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="141">
+        <QUESTIONS>
+            <QUESTION>Phạm vi đại diện được xác định như thế nào?</QUESTION>
+            <QUESTION>Người đại diện được làm những gì?</QUESTION>
+            <QUESTION>Quyền hạn của người đại diện là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1,2'>Theo khoản 1, khoản 2 Điều 141 Bộ luật Dân sự 2015, phạm vi đại diện được xác định theo quyết định của cơ quan có thẩm quyền, điều lệ pháp nhân, nội dung ủy quyền, hoặc quy định của pháp luật. Nếu không xác định được cụ thể thì người đại diện theo pháp luật có quyền thực hiện mọi giao dịch vì lợi ích của người được đại diện, trừ khi có quy định khác.</ANSWER>
+            <ANSWER clause='1,2'>Phạm vi đại diện theo quyết định, điều lệ, ủy quyền, hoặc luật. Nếu không, đại diện theo pháp luật được làm mọi việc vì lợi ích người được đại diện, trừ khi có quy định khác.</ANSWER>
+            <ANSWER clause='1,2'>Theo quyết định, điều lệ, ủy quyền, luật. Đại diện theo pháp luật: mọi việc, trừ khi có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="141">
+        <QUESTIONS>
+            <QUESTION>Một người có thể đại diện cho nhiều người khác nhau không?</QUESTION>
+            <QUESTION>Đại diện cho nhiều người cùng lúc được không?</QUESTION>
+            <QUESTION>Có thể làm đại diện cho nhiều bên khác nhau?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 141 Bộ luật Dân sự 2015, một người có thể đại diện cho nhiều người, nhưng không được đại diện cho hai bên giao dịch cùng lúc, trừ khi có quy định khác.</ANSWER>
+            <ANSWER clause='3'>Một người đại diện được cho nhiều người, nhưng không được đại diện hai bên cùng lúc (trừ khi luật cho phép).</ANSWER>
+            <ANSWER clause='3'>Được, nhưng không được đại diện hai bên giao dịch cùng lúc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="141">
+        <QUESTIONS>
+            <QUESTION>Người đại diện có cần thông báo phạm vi đại diện của mình không?</QUESTION>
+            <QUESTION>Người đại diện phải làm gì khi giao dịch?</QUESTION>
+            <QUESTION>Nghĩa vụ thông báo của người đại diện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Theo khoản 4 Điều 141 Bộ luật Dân sự 2015, người đại diện phải thông báo cho bên giao dịch biết về phạm vi đại diện của mình.</ANSWER>
+            <ANSWER clause='4'>Người đại diện phải thông báo phạm vi đại diện.</ANSWER>
+            <ANSWER clause='4'>Phải thông báo.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="142">
+        <QUESTIONS>
+            <QUESTION>Giao dịch do người không có quyền đại diện thực hiện có hiệu lực không?</QUESTION>
+            <QUESTION>Người không được ủy quyền mà vẫn đại diện thì giao dịch có giá trị không?</QUESTION>
+            <QUESTION>Làm sao để giao dịch của người không có quyền đại diện có hiệu lực?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 142 Bộ luật Dân sự 2015, giao dịch do người không có quyền đại diện thực hiện không có hiệu lực, trừ khi người được đại diện công nhận, biết mà không phản đối, hoặc có lỗi làm cho người giao dịch không biết về việc không có quyền đại diện.</ANSWER>
+            <ANSWER clause='1'>Giao dịch không có hiệu lực trừ khi được công nhận, không bị phản đối, hoặc người được đại diện có lỗi.</ANSWER>
+            <ANSWER clause='1'>Không hiệu lực, trừ khi được xác nhận, không phản đối hoặc do lỗi của người được đại diện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="142">
+        <QUESTIONS>
+            <QUESTION>Nếu giao dịch không hiệu lực, ai chịu trách nhiệm?</QUESTION>
+            <QUESTION>Ai phải thực hiện nghĩa vụ khi giao dịch do người không có quyền đại diện làm không hiệu lực?</QUESTION>
+            <QUESTION>Trách nhiệm của người không có quyền đại diện khi giao dịch vô hiệu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 142 Bộ luật Dân sự 2015, nếu giao dịch không hiệu lực, người không có quyền đại diện vẫn phải thực hiện nghĩa vụ, trừ khi người giao dịch biết về việc không có quyền đại diện.</ANSWER>
+            <ANSWER clause='2'>Người không có quyền đại diện chịu trách nhiệm, trừ khi người giao dịch đã biết.</ANSWER>
+            <ANSWER clause='2'>Người không có quyền, trừ khi bên kia biết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="142">
+        <QUESTIONS>
+            <QUESTION>Người giao dịch với người không có quyền đại diện có quyền gì?</QUESTION>
+            <QUESTION>Phát hiện đại diện không hợp lệ thì có thể làm gì?</QUESTION>
+            <QUESTION>Giao dịch với người không có quyền đại diện, tôi có thể hủy giao dịch không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 142 Bộ luật Dân sự 2015, người giao dịch với người không có quyền đại diện có quyền đơn phương chấm dứt hoặc hủy bỏ giao dịch và yêu cầu bồi thường, trừ khi đã biết về việc không có quyền đại diện hoặc giao dịch đã được người được đại diện công nhận.</ANSWER>
+            <ANSWER clause='3'>Có thể chấm dứt, hủy bỏ giao dịch và yêu cầu bồi thường, trừ khi đã biết hoặc giao dịch được công nhận.</ANSWER>
+            <ANSWER clause='3'>Hủy, bồi thường, trừ khi đã biết hoặc được công nhận.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="142">
+        <QUESTIONS>
+            <QUESTION>Nếu cố ý giao dịch với người không có quyền đại diện gây thiệt hại thì sao?</QUESTION>
+            <QUESTION>Cả hai bên cố tình làm giả ủy quyền gây thiệt hại thì ai chịu trách nhiệm?</QUESTION>
+            <QUESTION>Biết không có ủy quyền mà vẫn giao dịch gây thiệt hại thì xử lý thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Theo khoản 4 Điều 142 Bộ luật Dân sự 2015, nếu người không có quyền đại diện và người giao dịch cố ý gây thiệt hại cho người được đại diện thì phải chịu trách nhiệm liên đới bồi thường.</ANSWER>
+            <ANSWER clause='4'>Cả hai phải cùng bồi thường.</ANSWER>
+            <ANSWER clause='4'>Liên đới bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="143">
+        <QUESTIONS>
+            <QUESTION>Người đại diện làm việc vượt quá quyền hạn thì sao?</QUESTION>
+            <QUESTION>Giao dịch vượt quá ủy quyền có hiệu lực không?</QUESTION>
+            <QUESTION>Đại diện làm việc không được phép thì phải làm thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 143 Bộ luật Dân sự 2015, giao dịch do người đại diện thực hiện vượt quá phạm vi đại diện sẽ không có hiệu lực đối với phần vượt quá, trừ khi người được đại diện đồng ý, biết mà không phản đối, hoặc có lỗi làm người giao dịch không biết về việc vượt quá phạm vi.</ANSWER>
+            <ANSWER clause='1'>Phần vượt quá không có hiệu lực, trừ khi được đồng ý, không bị phản đối, hoặc người được đại diện có lỗi.</ANSWER>
+            <ANSWER clause='1'>Vượt quá là không hiệu lực, trừ khi được chấp thuận, không phản đối, hoặc lỗi của người được đại diện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="143">
+        <QUESTIONS>
+            <QUESTION>Ai chịu trách nhiệm khi người đại diện làm việc vượt quá quyền hạn?</QUESTION>
+            <QUESTION>Đại diện làm sai ủy quyền, ai phải chịu trách nhiệm?</QUESTION>
+            <QUESTION>Vượt quá ủy quyền, ai phải đền bù?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 143 Bộ luật Dân sự 2015, nếu giao dịch vượt quá phạm vi không có hiệu lực với người được đại diện, thì người đại diện phải chịu trách nhiệm đối với phần vượt quá, trừ khi người giao dịch biết về việc vượt quá phạm vi.</ANSWER>
+            <ANSWER clause='2'>Người đại diện chịu trách nhiệm phần vượt quá, trừ khi người giao dịch đã biết.</ANSWER>
+            <ANSWER clause='2'>Người đại diện, trừ khi bên kia đã biết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="143">
+        <QUESTIONS>
+            <QUESTION>Khi đại diện làm việc vượt quá quyền hạn, người giao dịch có quyền gì?</QUESTION>
+            <QUESTION>Phát hiện đại diện vượt quá ủy quyền thì làm thế nào?</QUESTION>
+            <QUESTION>Đại diện làm quá quyền hạn, tôi có thể hủy giao dịch không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 143 Bộ luật Dân sự 2015, người giao dịch có quyền đơn phương chấm dứt hoặc hủy bỏ phần vượt quá hoặc toàn bộ giao dịch và yêu cầu bồi thường, trừ khi đã biết về việc vượt quá phạm vi hoặc giao dịch đã được người được đại diện đồng ý.</ANSWER>
+            <ANSWER clause='3'>Có thể chấm dứt/hủy bỏ một phần hoặc toàn bộ và yêu cầu bồi thường, trừ khi đã biết hoặc được đồng ý.</ANSWER>
+            <ANSWER clause='3'>Hủy, bồi thường, trừ khi đã biết hoặc đã được chấp thuận.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="143">
+        <QUESTIONS>
+            <QUESTION>Nếu cố ý giao dịch vượt quá ủy quyền gây thiệt hại thì sao?</QUESTION>
+            <QUESTION>Biết vượt quá ủy quyền mà vẫn giao dịch gây thiệt hại thì ai chịu trách nhiệm?</QUESTION>
+            <QUESTION>Đại diện và người giao dịch cùng cố ý vượt quá ủy quyền gây thiệt hại thì xử lý thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Theo khoản 4 Điều 143 Bộ luật Dân sự 2015, nếu người đại diện và người giao dịch cố ý vượt quá phạm vi đại diện gây thiệt hại thì phải chịu trách nhiệm liên đới bồi thường.</ANSWER>
+            <ANSWER clause='4'>Cả hai cùng bồi thường.</ANSWER>
+            <ANSWER clause='4'>Cùng chịu trách nhiệm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

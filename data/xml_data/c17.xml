@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>17</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <!-- ARTICLE 570 -->
+    <CONVERSATION id='1' article="570">
+        <QUESTIONS>
+            <QUESTION>Pháp luật dân sự quy định như thế nào về hứa thưởng?</QUESTION>
+            <QUESTION>Người đã công khai hứa thưởng có nghĩa vụ gì?</QUESTION>
+            <QUESTION>Công việc được hứa thưởng cần phải đáp ứng những điều kiện gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu, và công việc đó phải cụ thể, có thể thực hiện được, không vi phạm pháp luật và đạo đức xã hội.</ANSWER>
+            <ANSWER>quy định người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng. Công việc được hứa thưởng phải cụ thể, có thể thực hiện được.</ANSWER>
+            <ANSWER>quy định người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng. Công việc được hứa thưởng phải cụ thể, có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội. Như vậy, nghĩa vụ trả thưởng chỉ phát sinh khi có người thực hiện đúng công việc đã được hứa thưởng và công việc đó đáp ứng các điều kiện trên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="570" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khi một người đã công khai hứa thưởng, nghĩa vụ của họ là gì?</QUESTION>
+            <QUESTION>Ai có nghĩa vụ phải trả thưởng cho người thực hiện công việc theo yêu cầu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng.</ANSWER>
+            <ANSWER clause="1">quy định người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng.</ANSWER>
+            <ANSWER clause="1">quy định người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng. Như vậy, nghĩa vụ trả thưởng là bắt buộc đối với người đã công khai hứa thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="570" clause="2">
+        <QUESTIONS>
+            <QUESTION>Công việc được hứa thưởng cần phải đáp ứng những yêu cầu gì?</QUESTION>
+            <QUESTION>Những công việc như thế nào thì không được hứa thưởng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định công việc được hứa thưởng phải cụ thể, có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+            <ANSWER clause="2">quy định công việc được hứa thưởng phải cụ thể, có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+            <ANSWER clause="2">quy định công việc được hứa thưởng phải cụ thể, có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội. Như vậy, những công việc chung chung, không rõ ràng, không thể thực hiện được, vi phạm pháp luật hoặc trái đạo đức xã hội sẽ không được hứa thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 571 -->
+    <CONVERSATION id='4' article="571">
+        <QUESTIONS>
+            <QUESTION>Pháp luật dân sự quy định như thế nào về việc rút lại tuyên bố hứa thưởng?</QUESTION>
+            <QUESTION>Người hứa thưởng có quyền rút lại tuyên bố hứa thưởng của mình không và trong điều kiện nào?</QUESTION>
+            <QUESTION>Việc rút lại tuyên bố hứa thưởng phải được thực hiện như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định người hứa thưởng có quyền rút lại tuyên bố hứa thưởng khi chưa đến hạn bắt đầu thực hiện công việc, và việc rút lại phải được thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố.</ANSWER>
+            <ANSWER>quy định khi chưa đến hạn bắt đầu thực hiện công việc thì người hứa thưởng có quyền rút lại tuyên bố hứa thưởng của mình. Việc rút lại tuyên bố hứa thưởng phải được thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố.</ANSWER>
+            <ANSWER>quy định khi chưa đến hạn bắt đầu thực hiện công việc thì người hứa thưởng có quyền rút lại tuyên bố hứa thưởng của mình. Việc rút lại tuyên bố hứa thưởng phải được thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố. Như vậy, quyền rút lại tuyên bố hứa thưởng bị giới hạn về thời gian (trước khi đến hạn bắt đầu thực hiện công việc) và phải tuân thủ về cách thức, phương tiện thông báo.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 572 -->
+    <CONVERSATION id='5' article="572">
+        <QUESTIONS>
+            <QUESTION>Pháp luật quy định như thế nào về việc trả thưởng khi có người thực hiện công việc được hứa thưởng?</QUESTION>
+            <QUESTION>Trong các trường hợp khác nhau khi có người thực hiện công việc được hứa thưởng, việc trả thưởng sẽ được thực hiện ra sao?</QUESTION>
+            <QUESTION>Nếu có nhiều người cùng hoàn thành công việc được hứa thưởng, phần thưởng sẽ được chia như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định việc trả thưởng tùy thuộc vào số lượng người thực hiện và cách thức thực hiện công việc: một người thực hiện thì người đó nhận thưởng, nhiều người thực hiện độc lập thì người hoàn thành đầu tiên nhận thưởng, nhiều người cùng hoàn thành thì chia đều, nhiều người cùng cộng tác thì chia theo phần đóng góp.</ANSWER>
+            <ANSWER>quy định việc trả thưởng được thực hiện như sau: 1. Trường hợp một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng. 2. Khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng. 3. Trường hợp nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm thì phần thưởng được chia đều cho những người đó. 4. Trường hợp nhiều người cùng cộng tác để thực hiện công việc được hứa thưởng do người hứa thưởng yêu cầu thì mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình.</ANSWER>
+            <ANSWER>quy định việc trả thưởng được thực hiện như sau: 1. Trường hợp một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng. 2. Khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng. 3. Trường hợp nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm thì phần thưởng được chia đều cho những người đó. 4. Trường hợp nhiều người cùng cộng tác để thực hiện công việc được hứa thưởng do người hứa thưởng yêu cầu thì mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình. Các trường hợp khác nhau sẽ có cách trả thưởng khác nhau, đảm bảo sự công bằng cho những người tham gia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="572" clause="1">
+        <QUESTIONS>
+            <QUESTION>Nếu chỉ có một người thực hiện công việc được hứa thưởng, việc trả thưởng sẽ như thế nào?</QUESTION>
+            <QUESTION>Khi nào thì người thực hiện công việc được hứa thưởng được nhận thưởng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định trường hợp một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng.</ANSWER>
+            <ANSWER clause="1">quy định trường hợp một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng.</ANSWER>
+            <ANSWER clause="1">quy định trường hợp một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng. Như vậy, khi chỉ có một người duy nhất thực hiện và hoàn thành công việc, người đó sẽ được nhận toàn bộ phần thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="572" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu có nhiều người cùng thực hiện công việc được hứa thưởng nhưng làm độc lập, ai sẽ được nhận thưởng?</QUESTION>
+            <QUESTION>Trong trường hợp nhiều người cùng thực hiện một công việc được hứa thưởng một cách độc lập, tiêu chí nào để xác định người được nhận thưởng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng.</ANSWER>
+            <ANSWER clause="2">quy định khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng.</ANSWER>
+            <ANSWER clause="2">quy định khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng. Như vậy, trong trường hợp này, yếu tố thời gian là quan trọng nhất, ai hoàn thành công việc trước thì người đó được nhận thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="572" clause="3">
+        <QUESTIONS>
+            <QUESTION>Nếu nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm, phần thưởng sẽ được chia như thế nào?</QUESTION>
+            <QUESTION>Nguyên tắc chia thưởng khi nhiều người cùng hoàn thành công việc được hứa thưởng là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">quy định trường hợp nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm thì phần thưởng được chia đều cho những người đó.</ANSWER>
+            <ANSWER clause="3">quy định trường hợp nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm thì phần thưởng được chia đều cho những người đó.</ANSWER>
+            <ANSWER clause="3">quy định trường hợp nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm thì phần thưởng được chia đều cho những người đó. Nguyên tắc chia thưởng trong trường hợp này là chia đều, đảm bảo sự công bằng giữa những người cùng hoàn thành công việc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="572" clause="4">
+        <QUESTIONS>
+            <QUESTION>Nếu nhiều người cùng hợp tác để thực hiện công việc được hứa thưởng, phần thưởng sẽ được chia như thế nào?</QUESTION>
+            <QUESTION>Khi nhiều người cùng cộng tác thực hiện công việc, việc chia thưởng dựa trên yếu tố nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="4">quy định trường hợp nhiều người cùng cộng tác để thực hiện công việc được hứa thưởng do người hứa thưởng yêu cầu thì mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình.</ANSWER>
+            <ANSWER clause="4">quy định trường hợp nhiều người cùng cộng tác để thực hiện công việc được hứa thưởng do người hứa thưởng yêu cầu thì mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình.</ANSWER>
+            <ANSWER clause="4">quy định trường hợp nhiều người cùng cộng tác để thực hiện công việc được hứa thưởng do người hứa thưởng yêu cầu thì mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình. Như vậy, trong trường hợp này, phần thưởng sẽ được chia dựa trên mức độ đóng góp của từng người.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 573 -->
+    <CONVERSATION id='10' article="573">
+        <QUESTIONS>
+            <QUESTION>Pháp luật dân sự quy định như thế nào về việc tổ chức thi có giải?</QUESTION>
+            <QUESTION>Người tổ chức các cuộc thi có giải cần phải tuân thủ những quy định gì?</QUESTION>
+            <QUESTION>Người đoạt giải trong các cuộc thi có quyền gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội. Người tổ chức phải công bố điều kiện dự thi, thang điểm, giải thưởng và người đoạt giải có quyền yêu cầu trao giải đúng mức đã công bố.</ANSWER>
+            <ANSWER>quy định việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội. Người tổ chức các cuộc thi phải công bố điều kiện dự thi, thang điểm, các giải thưởng và mức thưởng của mỗi giải. Người đoạt giải có quyền yêu cầu người tổ chức thi trao giải thưởng đúng mức đã công bố.</ANSWER>
+            <ANSWER>quy định: 1. Việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội. 2. Người tổ chức các cuộc thi phải công bố điều kiện dự thi, thang điểm, các giải thưởng và mức thưởng của mỗi giải. Việc thay đổi điều kiện dự thi phải được thực hiện theo cách thức đã công bố trong một thời gian hợp lý trước khi diễn ra cuộc thi. 3. Người đoạt giải có quyền yêu cầu người tổ chức thi trao giải thưởng đúng mức đã công bố. Như vậy, người tổ chức thi có giải phải tuân thủ các quy định về nội dung, hình thức tổ chức, công bố thông tin và trao giải thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="573" clause="1">
+        <QUESTIONS>
+            <QUESTION>Các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác cần tuân thủ những nguyên tắc nào?</QUESTION>
+            <QUESTION>Những cuộc thi như thế nào thì không được phép tổ chức?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+            <ANSWER clause="1">quy định việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+            <ANSWER clause="1">quy định việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội. Như vậy, các cuộc thi có nội dung vi phạm pháp luật, trái với thuần phong mỹ tục, đạo đức xã hội sẽ không được phép tổ chức.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="573" clause="2">
+        <QUESTIONS>
+            <QUESTION>Người tổ chức các cuộc thi có giải cần phải công bố những thông tin gì?</QUESTION>
+            <QUESTION>Nếu có thay đổi về điều kiện dự thi, người tổ chức cần phải làm gì?</QUESTION>
+            <QUESTION>Thời gian thông báo thay đổi điều kiện dự thi được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định người tổ chức các cuộc thi phải công bố điều kiện dự thi, thang điểm, các giải thưởng và mức thưởng của mỗi giải. Việc thay đổi điều kiện dự thi phải được thông báo trước một thời gian hợp lý.</ANSWER>
+            <ANSWER clause="2">quy định người tổ chức các cuộc thi phải công bố điều kiện dự thi, thang điểm, các giải thưởng và mức thưởng của mỗi giải. Việc thay đổi điều kiện dự thi phải được thực hiện theo cách thức đã công bố trong một thời gian hợp lý trước khi diễn ra cuộc thi.</ANSWER>
+            <ANSWER clause="2">quy định người tổ chức các cuộc thi phải công bố điều kiện dự thi, thang điểm, các giải thưởng và mức thưởng của mỗi giải. Việc thay đổi điều kiện dự thi phải được thực hiện theo cách thức đã công bố trong một thời gian hợp lý trước khi diễn ra cuộc thi. Như vậy, người tổ chức không được thay đổi điều kiện dự thi một cách đột ngột, gây bất lợi cho thí sinh, mà phải thông báo trước một thời gian hợp lý để thí sinh có thể chuẩn bị.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="573" clause="3">
+        <QUESTIONS>
+            <QUESTION>Người đoạt giải trong các cuộc thi có quyền gì?</QUESTION>
+            <QUESTION>Nếu người tổ chức không trao giải thưởng đúng như đã công bố, người đoạt giải có thể làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">quy định người đoạt giải có quyền yêu cầu người tổ chức thi trao giải thưởng đúng mức đã công bố.</ANSWER>
+            <ANSWER clause="3">quy định người đoạt giải có quyền yêu cầu người tổ chức thi trao giải thưởng đúng mức đã công bố.</ANSWER>
+            <ANSWER clause="3">quy định người đoạt giải có quyền yêu cầu người tổ chức thi trao giải thưởng đúng mức đã công bố. Như vậy, người đoạt giải có quyền được nhận giải thưởng đúng như những gì ban tổ chức đã công bố trước đó, và có thể yêu cầu người tổ chức thực hiện đúng cam kết của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

@@ -1,0 +1,387 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>4</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="74">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân là gì?</QUESTION>
+            <QUESTION>Thế nào là một pháp nhân?</QUESTION>
+            <QUESTION>Làm thế nào để một tổ chức được công nhận là pháp nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Một tổ chức được coi là pháp nhân khi được thành lập hợp pháp, có cơ cấu tổ chức, có tài sản riêng và tự chịu trách nhiệm, tham gia quan hệ pháp luật độc lập.</ANSWER>
+            <ANSWER>Pháp nhân là tổ chức thành lập hợp pháp, có cơ cấu, tài sản riêng, tự chịu trách nhiệm, hoạt động độc lập.</ANSWER>
+            <ANSWER>Theo Điều 74 Bộ luật Dân sự 2015, một tổ chức được công nhận là pháp nhân khi: Được thành lập theo luật; Có cơ cấu tổ chức; Có tài sản độc lập và tự chịu trách nhiệm; Nhân danh mình tham gia quan hệ pháp luật độc lập.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="74">
+        <QUESTIONS>
+            <QUESTION>Ai có quyền thành lập pháp nhân?</QUESTION>
+            <QUESTION>Tôi có thể thành lập một pháp nhân không?</QUESTION>
+            <QUESTION>Việc thành lập pháp nhân được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Mọi cá nhân, pháp nhân đều có quyền thành lập pháp nhân, trừ trường hợp luật có quy định khác.</ANSWER>
+            <ANSWER clause="2">Ai cũng có thể thành lập pháp nhân, trừ khi có luật cấm.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 74 Bộ luật Dân sự 2015, mọi cá nhân, pháp nhân đều có quyền thành lập pháp nhân, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="75">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân thương mại là gì?</QUESTION>
+            <QUESTION>Thế nào là một pháp nhân thương mại?</QUESTION>
+            <QUESTION>Cho tôi biết định nghĩa của pháp nhân thương mại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân thương mại là pháp nhân hoạt động vì mục tiêu lợi nhuận, và lợi nhuận được chia cho các thành viên; bao gồm doanh nghiệp và các tổ chức kinh tế khác; việc thành lập, hoạt động, chấm dứt tuân theo Bộ luật Dân sự, Luật Doanh nghiệp và các luật liên quan.</ANSWER>
+            <ANSWER>Là pháp nhân hoạt động để kiếm lời và chia lời cho thành viên, ví dụ như công ty.</ANSWER>
+            <ANSWER>Theo Điều 75 Bộ luật Dân sự 2015, pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên, bao gồm doanh nghiệp và các tổ chức kinh tế khác. Việc thành lập, hoạt động và chấm dứt tuân theo Bộ luật này, Luật Doanh nghiệp và các luật liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="76">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân phi thương mại là gì?</QUESTION>
+            <QUESTION>Thế nào là một pháp nhân phi thương mại?</QUESTION>
+            <QUESTION>Cho tôi biết định nghĩa của pháp nhân phi thương mại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân phi thương mại là pháp nhân không hoạt động vì mục tiêu lợi nhuận, kể cả khi có lợi nhuận cũng không chia cho thành viên; bao gồm cơ quan nhà nước, tổ chức chính trị - xã hội, quỹ xã hội, quỹ từ thiện, v.v.; việc thành lập, hoạt động, chấm dứt tuân theo Bộ luật Dân sự, các luật về tổ chức bộ máy nhà nước và luật khác liên quan.</ANSWER>
+            <ANSWER>Là pháp nhân không hoạt động vì lợi nhuận, ví dụ như các tổ chức từ thiện.</ANSWER>
+            <ANSWER>Theo Điều 76 Bộ luật Dân sự 2015, pháp nhân phi thương mại là pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận, kể cả khi có lợi nhuận cũng không được phân chia cho các thành viên.  Các loại hình bao gồm cơ quan nhà nước, tổ chức chính trị, xã hội, quỹ, doanh nghiệp xã hội, v.v.  Việc thành lập, hoạt động và chấm dứt tuân theo Bộ luật này và các luật liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="77">
+        <QUESTIONS>
+            <QUESTION>Điều lệ của pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Pháp nhân có cần phải có điều lệ không?</QUESTION>
+            <QUESTION>Điều lệ của pháp nhân cần có những nội dung gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân phải có điều lệ nếu luật quy định; điều lệ bao gồm tên, mục đích hoạt động, trụ sở, vốn (nếu có), người đại diện, cơ cấu tổ chức, quyền và nghĩa vụ của thành viên (nếu có), cách thức ra quyết định và giải quyết tranh chấp, cách sửa đổi điều lệ, điều kiện hợp nhất, chia tách, giải thể.</ANSWER>
+            <ANSWER>Có điều lệ nếu luật yêu cầu; nội dung gồm tên, mục đích, trụ sở, vốn, người đại diện, cơ cấu, quyền và nghĩa vụ thành viên, ra quyết định, sửa đổi, hợp nhất, giải thể.</ANSWER>
+            <ANSWER>Theo Điều 77 Bộ luật Dân sự 2015, pháp nhân phải có điều lệ nếu luật quy định. Nội dung điều lệ bao gồm: tên, mục đích, trụ sở, vốn (nếu có), đại diện pháp luật, cơ cấu tổ chức, điều kiện thành viên, quyền và nghĩa vụ của thành viên (nếu có), cách thức ra quyết định và giải quyết tranh chấp nội bộ, cách sửa đổi điều lệ, điều kiện hợp nhất, sáp nhập, chia, tách, chuyển đổi, giải thể.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="78">
+        <QUESTIONS>
+            <QUESTION>Tên gọi của pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Pháp nhân phải có tên gọi như thế nào?</QUESTION>
+            <QUESTION>Tên của pháp nhân cần tuân thủ những quy định gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân phải có tên tiếng Việt, thể hiện rõ loại hình và khác biệt với pháp nhân cùng lĩnh vực; phải dùng tên này trong giao dịch và tên này được pháp luật bảo vệ.</ANSWER>
+            <ANSWER>Tên tiếng Việt, rõ loại hình, khác tên các pháp nhân cùng ngành; dùng tên này khi giao dịch; tên được pháp luật bảo vệ.</ANSWER>
+            <ANSWER>Theo Điều 78 Bộ luật Dân sự 2015, pháp nhân phải có tên gọi bằng tiếng Việt, thể hiện rõ loại hình và phân biệt với các pháp nhân khác cùng lĩnh vực; pháp nhân phải sử dụng tên gọi của mình trong giao dịch dân sự; tên gọi của pháp nhân được pháp luật công nhận và bảo vệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="79">
+        <QUESTIONS>
+            <QUESTION>Trụ sở của pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Trụ sở chính của pháp nhân là ở đâu?</QUESTION>
+            <QUESTION>Địa chỉ liên lạc của pháp nhân được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trụ sở pháp nhân là nơi đặt cơ quan điều hành, phải công bố khi thay đổi; địa chỉ liên lạc là địa chỉ trụ sở, hoặc có thể chọn nơi khác.</ANSWER>
+            <ANSWER>Trụ sở là nơi đặt ban điều hành, phải thông báo công khai nếu chuyển; địa chỉ liên lạc có thể là trụ sở hoặc nơi khác.</ANSWER>
+            <ANSWER>Theo Điều 79 Bộ luật Dân sự 2015, trụ sở của pháp nhân là nơi đặt cơ quan điều hành.  Phải công bố công khai khi thay đổi trụ sở. Địa chỉ liên lạc là địa chỉ trụ sở, nhưng pháp nhân có thể chọn nơi khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="80">
+        <QUESTIONS>
+            <QUESTION>Quốc tịch của pháp nhân được xác định như thế nào?</QUESTION>
+            <QUESTION>Pháp nhân có quốc tịch gì?</QUESTION>
+            <QUESTION>Làm sao để biết quốc tịch của một pháp nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân thành lập theo luật Việt Nam là pháp nhân Việt Nam.</ANSWER>
+            <ANSWER>Thành lập ở Việt Nam: quốc tịch Việt Nam.</ANSWER>
+            <ANSWER>Theo Điều 80 Bộ luật Dân sự 2015, pháp nhân được thành lập theo pháp luật Việt Nam là pháp nhân Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="81">
+        <QUESTIONS>
+            <QUESTION>Tài sản của pháp nhân bao gồm những gì?</QUESTION>
+            <QUESTION>Pháp nhân có những tài sản nào?</QUESTION>
+            <QUESTION>Tài sản của pháp nhân được hình thành từ đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Tài sản của pháp nhân gồm vốn góp và các tài sản khác mà pháp nhân được sở hữu theo luật.</ANSWER>
+            <ANSWER>Gồm vốn góp và tài sản khác có được theo luật.</ANSWER>
+            <ANSWER>Theo Điều 81 Bộ luật Dân sự 2015, tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên và tài sản khác mà pháp nhân được sở hữu theo luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="82">
+        <QUESTIONS>
+            <QUESTION>Thành lập và đăng ký pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Làm thế nào để thành lập một pháp nhân?</QUESTION>
+            <QUESTION>Thủ tục đăng ký pháp nhân như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân được thành lập theo sáng kiến của cá nhân, pháp nhân hoặc theo quyết định của cơ quan nhà nước; đăng ký pháp nhân gồm đăng ký thành lập, thay đổi và các đăng ký khác theo luật; việc đăng ký phải công bố công khai.</ANSWER>
+            <ANSWER>Thành lập theo sáng kiến cá nhân/pháp nhân hoặc quyết định của nhà nước; đăng ký gồm đăng ký thành lập, thay đổi,...; phải công bố đăng ký.</ANSWER>
+            <ANSWER>Theo Điều 82 Bộ luật Dân sự 2015, pháp nhân được thành lập theo sáng kiến của cá nhân, pháp nhân, hoặc quyết định của nhà nước. Đăng ký pháp nhân gồm đăng ký thành lập, thay đổi,... và phải được công bố công khai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="83">
+        <QUESTIONS>
+            <QUESTION>Cơ cấu tổ chức của pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Pháp nhân cần có những cơ quan nào?</QUESTION>
+            <QUESTION>Cơ cấu tổ chức của một pháp nhân cần đáp ứng những yêu cầu gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân phải có cơ quan điều hành (tổ chức, nhiệm vụ, quyền hạn ghi trong điều lệ hoặc quyết định thành lập); có thể có các cơ quan khác theo quyết định của pháp nhân hoặc theo luật.</ANSWER>
+            <ANSWER>Phải có cơ quan điều hành (quy định trong điều lệ hoặc quyết định thành lập); có thể có thêm cơ quan khác.</ANSWER>
+            <ANSWER>Theo Điều 83 Bộ luật Dân sự 2015, pháp nhân phải có cơ quan điều hành (nhiệm vụ, quyền hạn ghi trong điều lệ hoặc quyết định thành lập). Pháp nhân có thể có thêm cơ quan khác theo quyết định của pháp nhân hoặc theo luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="84">
+        <QUESTIONS>
+            <QUESTION>Chi nhánh, văn phòng đại diện của pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Chi nhánh, văn phòng đại diện có phải là pháp nhân không?</QUESTION>
+            <QUESTION>Chức năng của chi nhánh, văn phòng đại diện là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chi nhánh, văn phòng đại diện là đơn vị phụ thuộc, không phải pháp nhân; chi nhánh thực hiện chức năng của pháp nhân; văn phòng đại diện bảo vệ lợi ích; việc thành lập, chấm dứt phải đăng ký và công bố; người đứng đầu làm việc theo ủy quyền; pháp nhân chịu trách nhiệm về giao dịch của chi nhánh, văn phòng đại diện.</ANSWER>
+            <ANSWER>Không phải pháp nhân; chi nhánh thực hiện công việc của pháp nhân; văn phòng đại diện bảo vệ lợi ích; phải đăng ký, công bố khi thành lập/chấm dứt; người đứng đầu làm việc theo ủy quyền; pháp nhân chịu trách nhiệm dân sự.</ANSWER>
+            <ANSWER>Theo Điều 84 Bộ luật Dân sự 2015, chi nhánh, văn phòng đại diện là đơn vị phụ thuộc, không phải pháp nhân. Chi nhánh thực hiện chức năng của pháp nhân; văn phòng đại diện bảo vệ lợi ích của pháp nhân.  Việc thành lập, chấm dứt phải đăng ký và công bố công khai. Người đứng đầu làm việc theo ủy quyền. Pháp nhân chịu trách nhiệm dân sự cho giao dịch của chi nhánh, văn phòng đại diện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+
+    <CONVERSATION id='13' article="84">
+        <QUESTIONS>
+            <QUESTION>Chức năng của chi nhánh và văn phòng đại diện khác nhau như thế nào?</QUESTION>
+            <QUESTION>Chi nhánh, văn phòng đại diện làm những việc gì?</QUESTION>
+            <QUESTION>Nhiệm vụ của chi nhánh và văn phòng đại diện của pháp nhân là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2,3">Chi nhánh thực hiện toàn bộ hoặc một phần chức năng của pháp nhân; văn phòng đại diện đại diện và bảo vệ lợi ích của pháp nhân.</ANSWER>
+            <ANSWER clause="2,3">Chi nhánh làm việc của pháp nhân; văn phòng đại diện đại diện và bảo vệ.</ANSWER>
+            <ANSWER clause="2,3">Theo khoản 2 và 3 Điều 84 Bộ luật Dân sự 2015, chi nhánh thực hiện toàn bộ hoặc một phần chức năng của pháp nhân; văn phòng đại diện đại diện và bảo vệ lợi ích của pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="84">
+        <QUESTIONS>
+            <QUESTION>Người đứng đầu chi nhánh, văn phòng đại diện có quyền hạn gì?</QUESTION>
+            <QUESTION>Trưởng chi nhánh, văn phòng đại diện có thể làm những việc gì?</QUESTION>
+            <QUESTION>Nhiệm vụ và quyền hạn của người đứng đầu chi nhánh, văn phòng đại diện được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="5">Người đứng đầu chi nhánh, văn phòng đại diện làm việc theo ủy quyền của pháp nhân.</ANSWER>
+            <ANSWER clause="5">Làm việc theo ủy quyền.</ANSWER>
+            <ANSWER clause="5">Theo khoản 5 Điều 84 Bộ luật Dân sự 2015, người đứng đầu chi nhánh, văn phòng đại diện thực hiện nhiệm vụ theo ủy quyền của pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="85">
+        <QUESTIONS>
+            <QUESTION>Đại diện của pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Ai đại diện cho pháp nhân?</QUESTION>
+            <QUESTION>Pháp nhân có những loại đại diện nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Đại diện của pháp nhân có thể là đại diện theo pháp luật hoặc theo ủy quyền, và phải tuân theo quy định về đại diện (Chương IX).</ANSWER>
+            <ANSWER>Đại diện theo pháp luật hoặc ủy quyền (xem Chương IX).</ANSWER>
+            <ANSWER>Theo Điều 85 Bộ luật Dân sự 2015, đại diện của pháp nhân có thể là đại diện theo pháp luật hoặc đại diện theo ủy quyền. Người đại diện phải tuân theo quy định về đại diện tại Chương IX.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="86">
+        <QUESTIONS>
+            <QUESTION>Năng lực pháp luật dân sự của pháp nhân là gì?</QUESTION>
+            <QUESTION>Pháp nhân có thể làm những gì?</QUESTION>
+            <QUESTION>Khi nào pháp nhân có năng lực pháp luật?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Năng lực pháp luật dân sự của pháp nhân là khả năng có quyền và nghĩa vụ dân sự, không bị hạn chế trừ khi có luật quy định; phát sinh khi được thành lập hoặc cho phép thành lập (hoặc khi được ghi vào sổ đăng ký nếu phải đăng ký); chấm dứt khi pháp nhân chấm dứt.</ANSWER>
+            <ANSWER>Là khả năng có quyền và nghĩa vụ, gần như không hạn chế; có hiệu lực khi thành lập (hoặc khi đăng ký nếu cần); hết hiệu lực khi pháp nhân chấm dứt.</ANSWER>
+            <ANSWER>Theo Điều 86 Bộ luật Dân sự 2015, năng lực pháp luật dân sự của pháp nhân là khả năng có các quyền và nghĩa vụ dân sự. Năng lực này không bị hạn chế, trừ trường hợp luật quy định khác. Năng lực này phát sinh khi được nhà nước thành lập hoặc cho phép thành lập (hoặc từ khi đăng ký nếu phải đăng ký). Năng lực chấm dứt khi pháp nhân chấm dứt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="87">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm dân sự của pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Pháp nhân phải chịu trách nhiệm gì trong giao dịch dân sự?</QUESTION>
+            <QUESTION>Ai chịu trách nhiệm về các hoạt động của pháp nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân chịu trách nhiệm dân sự về hành vi của người đại diện và sáng lập viên (trừ khi có thỏa thuận hoặc luật khác); chịu trách nhiệm bằng tài sản của mình, không chịu trách nhiệm thay cho người của pháp nhân (trừ khi có luật khác); người của pháp nhân không chịu trách nhiệm thay cho pháp nhân (trừ khi có luật khác).</ANSWER>
+            <ANSWER>Pháp nhân tự chịu trách nhiệm về việc làm của người đại diện và người sáng lập; dùng tài sản của pháp nhân để chịu trách nhiệm, không chịu trách nhiệm thay cho nhân viên; nhân viên không chịu trách nhiệm thay pháp nhân.</ANSWER>
+            <ANSWER>Theo Điều 87 Bộ luật Dân sự 2015, pháp nhân chịu trách nhiệm dân sự về hành vi của người đại diện và sáng lập viên (trừ trường hợp có thỏa thuận khác hoặc luật khác quy định). Pháp nhân chịu trách nhiệm bằng tài sản của mình, không chịu trách nhiệm thay cho người của pháp nhân, trừ trường hợp luật có quy định khác. Người của pháp nhân không chịu trách nhiệm thay cho pháp nhân, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="87">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân chịu trách nhiệm dân sự bằng gì?</QUESTION>
+            <QUESTION>Pháp nhân có phải chịu trách nhiệm thay cho người của mình không?</QUESTION>
+            <QUESTION>Trường hợp nào pháp nhân không chịu trách nhiệm dân sự thay cho người của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Pháp nhân chịu trách nhiệm bằng tài sản của mình; không chịu trách nhiệm thay cho người của pháp nhân, trừ khi luật có quy định khác.</ANSWER>
+            <ANSWER clause="2">Pháp nhân chịu trách nhiệm bằng tài sản riêng; không chịu trách nhiệm thay nhân viên, trừ khi có luật khác.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 87 Bộ luật Dân sự 2015, pháp nhân chịu trách nhiệm dân sự bằng tài sản của mình; không chịu trách nhiệm thay cho người của pháp nhân đối với nghĩa vụ dân sự do người của pháp nhân xác lập, thực hiện không nhân danh pháp nhân, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="88">
+        <QUESTIONS>
+            <QUESTION>Hợp nhất pháp nhân là gì?</QUESTION>
+            <QUESTION>Nhiều pháp nhân có thể hợp nhất thành một được không?</QUESTION>
+            <QUESTION>Sau khi hợp nhất, các pháp nhân cũ sẽ như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Các pháp nhân có thể hợp nhất thành một pháp nhân mới; sau khi hợp nhất, các pháp nhân cũ chấm dứt tồn tại, quyền và nghĩa vụ chuyển sang pháp nhân mới.</ANSWER>
+            <ANSWER>Nhiều pháp nhân gộp thành một pháp nhân mới; pháp nhân cũ không còn, quyền và nghĩa vụ chuyển sang pháp nhân mới.</ANSWER>
+            <ANSWER>Theo Điều 88 Bộ luật Dân sự 2015, các pháp nhân có thể hợp nhất thành một pháp nhân mới. Sau khi hợp nhất, các pháp nhân cũ chấm dứt tồn tại và quyền, nghĩa vụ được chuyển giao cho pháp nhân mới.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="89">
+        <QUESTIONS>
+            <QUESTION>Sáp nhập pháp nhân là gì?</QUESTION>
+            <QUESTION>Một pháp nhân có thể sáp nhập vào pháp nhân khác được không?</QUESTION>
+            <QUESTION>Sau khi sáp nhập, pháp nhân được sáp nhập sẽ như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Một pháp nhân có thể sáp nhập vào một pháp nhân khác; sau khi sáp nhập, pháp nhân được sáp nhập chấm dứt tồn tại, quyền và nghĩa vụ chuyển sang pháp nhân còn lại.</ANSWER>
+            <ANSWER>Một pháp nhân nhập vào một pháp nhân khác; pháp nhân bị nhập không còn, quyền và nghĩa vụ chuyển sang pháp nhân kia.</ANSWER>
+            <ANSWER>Theo Điều 89 Bộ luật Dân sự 2015, một pháp nhân có thể sáp nhập vào một pháp nhân khác. Sau khi sáp nhập, pháp nhân được sáp nhập chấm dứt tồn tại và quyền, nghĩa vụ được chuyển giao cho pháp nhân còn lại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="90">
+        <QUESTIONS>
+            <QUESTION>Chia pháp nhân là gì?</QUESTION>
+            <QUESTION>Một pháp nhân có thể chia thành nhiều pháp nhân được không?</QUESTION>
+            <QUESTION>Sau khi chia, pháp nhân cũ sẽ như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Một pháp nhân có thể chia thành nhiều pháp nhân mới; sau khi chia, pháp nhân cũ chấm dứt tồn tại, quyền và nghĩa vụ chuyển sang các pháp nhân mới.</ANSWER>
+            <ANSWER>Một pháp nhân tách thành nhiều pháp nhân mới; pháp nhân cũ không còn, quyền và nghĩa vụ chia cho các pháp nhân mới.</ANSWER>
+            <ANSWER>Theo Điều 90 Bộ luật Dân sự 2015, một pháp nhân có thể chia thành nhiều pháp nhân. Sau khi chia, pháp nhân cũ chấm dứt tồn tại và quyền, nghĩa vụ chuyển giao cho các pháp nhân mới.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="91">
+        <QUESTIONS>
+            <QUESTION>Tách pháp nhân là gì?</QUESTION>
+            <QUESTION>Một pháp nhân có thể tách thành nhiều pháp nhân được không?</QUESTION>
+            <QUESTION>Sau khi tách pháp nhân, quyền và nghĩa vụ được xử lý như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Một pháp nhân có thể tách thành nhiều pháp nhân; sau khi tách, các pháp nhân thực hiện quyền và nghĩa vụ phù hợp với mục đích hoạt động của mình.</ANSWER>
+            <ANSWER>Một pháp nhân tách thành nhiều pháp nhân; các pháp nhân mới tự thực hiện quyền và nghĩa vụ của mình.</ANSWER>
+            <ANSWER>Theo Điều 91 Bộ luật Dân sự 2015, một pháp nhân có thể tách thành nhiều pháp nhân. Sau khi tách, các pháp nhân thực hiện quyền và nghĩa vụ theo mục đích hoạt động của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="92">
+        <QUESTIONS>
+            <QUESTION>Chuyển đổi hình thức pháp nhân là gì?</QUESTION>
+            <QUESTION>Một pháp nhân có thể chuyển đổi sang loại hình khác được không?</QUESTION>
+            <QUESTION>Sau khi chuyển đổi hình thức, pháp nhân cũ sẽ như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân có thể chuyển đổi hình thức thành pháp nhân khác; sau khi chuyển đổi, pháp nhân cũ chấm dứt, pháp nhân mới kế thừa quyền và nghĩa vụ.</ANSWER>
+            <ANSWER>Pháp nhân có thể chuyển sang loại hình khác; pháp nhân cũ hết hiệu lực, pháp nhân mới kế thừa mọi thứ.</ANSWER>
+            <ANSWER>Theo Điều 92 Bộ luật Dân sự 2015, pháp nhân có thể chuyển đổi hình thức thành pháp nhân khác.  Sau khi chuyển đổi, pháp nhân cũ chấm dứt tồn tại, pháp nhân mới kế thừa quyền và nghĩa vụ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="93">
+        <QUESTIONS>
+            <QUESTION>Khi nào thì pháp nhân giải thể?</QUESTION>
+            <QUESTION>Trường hợp nào thì pháp nhân chấm dứt hoạt động?</QUESTION>
+            <QUESTION>Pháp nhân giải thể trong những trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân giải thể khi: theo điều lệ; theo quyết định của nhà nước; hết thời hạn hoạt động; hoặc các trường hợp khác theo luật; trước khi giải thể phải thực hiện đầy đủ nghĩa vụ tài sản.</ANSWER>
+            <ANSWER>Giải thể khi: điều lệ quy định; nhà nước quyết định; hết hạn hoạt động; hoặc theo luật; phải trả hết nợ trước khi giải thể.</ANSWER>
+            <ANSWER>Theo Điều 93 Bộ luật Dân sự 2015, pháp nhân giải thể trong các trường hợp: Theo điều lệ; Theo quyết định của nhà nước; Hết thời hạn hoạt động; Trường hợp khác theo luật. Trước khi giải thể, pháp nhân phải thực hiện đầy đủ các nghĩa vụ về tài sản.</ANSWER>
+
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="93">
+        <QUESTIONS>
+            <QUESTION>Trước khi giải thể, pháp nhân cần phải làm gì?</QUESTION>
+            <QUESTION>Nghĩa vụ của pháp nhân trước khi giải thể là gì?</QUESTION>
+            <QUESTION>Pháp nhân cần thực hiện những thủ tục gì trước khi giải thể?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Pháp nhân phải thực hiện đầy đủ các nghĩa vụ về tài sản trước khi giải thể.</ANSWER>
+            <ANSWER clause="2">Phải trả hết nợ trước khi giải thể.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 93 Bộ luật Dân sự 2015, trước khi giải thể, pháp nhân phải thực hiện đầy đủ các nghĩa vụ về tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="94">
+        <QUESTIONS>
+            <QUESTION>Tài sản của pháp nhân bị giải thể được thanh toán như thế nào?</QUESTION>
+            <QUESTION>Sau khi giải thể, tài sản của pháp nhân được xử lý ra sao?</QUESTION>
+            <QUESTION>Thứ tự thanh toán tài sản của pháp nhân bị giải thể là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Tài sản của pháp nhân bị giải thể được thanh toán theo thứ tự: chi phí giải thể, nợ lương và các khoản khác của người lao động, nợ thuế và các khoản nợ khác; phần còn lại thuộc về chủ sở hữu hoặc thành viên góp vốn, trừ trường hợp quỹ xã hội, quỹ từ thiện (chuyển cho quỹ khác cùng mục đích hoặc thuộc về Nhà nước nếu không có quỹ nhận hoặc quỹ giải thể do vi phạm pháp luật).</ANSWER>
+            <ANSWER>Thứ tự thanh toán: chi phí giải thể, nợ lương, nợ thuế, các khoản nợ khác; phần còn lại cho chủ sở hữu/thành viên, trừ quỹ (chuyển cho quỹ khác hoặc về Nhà nước).</ANSWER>
+            <ANSWER>Theo Điều 94 Bộ luật Dân sự 2015, tài sản của pháp nhân bị giải thể được thanh toán theo thứ tự: Chi phí giải thể; Nợ lương, bảo hiểm, quyền lợi người lao động; Nợ thuế và các nợ khác. Phần còn lại thuộc về chủ sở hữu/thành viên góp vốn, trừ quỹ xã hội, quỹ từ thiện (sẽ chuyển giao cho quỹ khác cùng mục đích, hoặc thuộc về Nhà nước nếu không có quỹ nhận hoặc quỹ bị giải thể do vi phạm).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="94">
+        <QUESTIONS>
+            <QUESTION>Tài sản còn lại của quỹ xã hội, quỹ từ thiện sau khi giải thể được xử lý như thế nào?</QUESTION>
+            <QUESTION>Sau khi thanh toán các khoản nợ, tài sản còn lại của quỹ từ thiện sẽ thuộc về ai?</QUESTION>
+            <QUESTION>Trường hợp quỹ xã hội, quỹ từ thiện bị giải thể, phần tài sản còn lại sẽ được xử lý ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Tài sản còn lại của quỹ sẽ được chuyển cho quỹ khác cùng mục đích; nếu không có quỹ nào nhận hoặc quỹ bị giải thể do vi phạm thì tài sản thuộc về Nhà nước.</ANSWER>
+            <ANSWER clause="3">Chuyển cho quỹ khác cùng hoạt động; không có quỹ nhận hoặc giải thể do vi phạm: thuộc về Nhà nước.</ANSWER>
+            <ANSWER clause="3">Theo khoản 3 Điều 94 Bộ luật Dân sự 2015, tài sản còn lại của quỹ xã hội, quỹ từ thiện sau khi giải thể và thanh toán các khoản nợ sẽ được chuyển giao cho quỹ khác có cùng mục đích hoạt động. Nếu không có quỹ nhận hoặc quỹ bị giải thể do vi phạm, tài sản thuộc về Nhà nước.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="95">
+        <QUESTIONS>
+            <QUESTION>Phá sản pháp nhân được quy định như thế nào?</QUESTION>
+            <QUESTION>Khi nào pháp nhân bị phá sản?</QUESTION>
+            <QUESTION>Thủ tục phá sản của pháp nhân được thực hiện ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc phá sản pháp nhân được thực hiện theo luật phá sản.</ANSWER>
+            <ANSWER>Xem luật phá sản.</ANSWER>
+            <ANSWER>Theo Điều 95 Bộ luật Dân sự 2015, việc phá sản pháp nhân được thực hiện theo quy định của pháp luật về phá sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="96">
+        <QUESTIONS>
+            <QUESTION>Khi nào pháp nhân chấm dứt tồn tại?</QUESTION>
+            <QUESTION>Trường hợp nào thì pháp nhân không còn tồn tại nữa?</QUESTION>
+            <QUESTION>Pháp nhân chấm dứt tồn tại trong những trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân chấm dứt tồn tại khi: hợp nhất, sáp nhập, chia, chuyển đổi hình thức, giải thể, hoặc bị tuyên bố phá sản; kể từ khi xóa tên trong sổ đăng ký hoặc theo quyết định của nhà nước; tài sản được xử lý theo luật.</ANSWER>
+            <ANSWER>Chấm dứt khi: hợp nhất, sáp nhập, chia tách, chuyển đổi, giải thể, phá sản; kể từ khi xóa đăng ký hoặc theo quyết định của nhà nước; tài sản được giải quyết theo luật.</ANSWER>
+            <ANSWER>Theo Điều 96 Bộ luật Dân sự 2015, pháp nhân chấm dứt tồn tại khi: Hợp nhất, sáp nhập, chia, chuyển đổi, giải thể; hoặc bị tuyên bố phá sản. Pháp nhân chấm dứt tồn tại kể từ khi xóa tên trong sổ đăng ký hoặc theo quyết định của nhà nước. Tài sản được xử lý theo luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

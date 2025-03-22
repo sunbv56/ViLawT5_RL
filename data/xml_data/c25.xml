@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>25</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id="1" article="663" clause="1">
+        <QUESTIONS>
+            <QUESTION>Bộ luật Dân sự quy định gì về pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Khi nào thì áp dụng các quy định này?</QUESTION>
+            <QUESTION>Nếu có luật khác quy định về vấn đề này thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Bộ luật Dân sự quy định pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài. Nếu có luật khác quy định về vấn đề này mà không trái các điều 664-671 thì áp dụng luật đó, nếu trái thì áp dụng các quy định từ Điều 663 đến 671.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 663, Bộ luật Dân sự 2015 quy định pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài.  Trường hợp có luật khác không trái các điều 664-671 thì áp dụng luật đó, ngược lại thì áp dụng các điều 663-671.</ANSWER>
+            <ANSWER clause="1">Áp dụng cho quan hệ dân sự có yếu tố nước ngoài. Luật khác không trái điều 664-671 thì áp dụng, trái thì áp dụng điều 663-671.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="2" article="663" clause="2">
+        <QUESTIONS>
+            <QUESTION>Thế nào là một quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Một quan hệ dân sự được coi là có yếu tố nước ngoài khi nào?</QUESTION>
+            <QUESTION>Làm sao để biết một quan hệ dân sự có yếu tố nước ngoài hay không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Quan hệ dân sự có yếu tố nước ngoài là khi có ít nhất một bên là cá nhân, pháp nhân nước ngoài; hoặc các bên đều là công dân, pháp nhân Việt Nam nhưng việc xác lập, thay đổi, thực hiện hoặc chấm dứt quan hệ đó xảy ra tại nước ngoài; hoặc các bên và pháp nhân đều là Việt Nam nhưng đối tượng của quan hệ ở nước ngoài.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 663 Bộ luật Dân sự 2015, quan hệ dân sự có yếu tố nước ngoài là khi: ít nhất một bên là cá nhân/pháp nhân nước ngoài; hoặc các bên là công dân/pháp nhân Việt Nam nhưng xác lập, thay đổi, thực hiện, chấm dứt tại nước ngoài; hoặc các bên là công dân/pháp nhân Việt Nam nhưng đối tượng quan hệ ở nước ngoài.</ANSWER>
+            <ANSWER clause="2">Ít nhất một bên là cá nhân/pháp nhân nước ngoài; hoặc xác lập/thực hiện tại nước ngoài; hoặc đối tượng ở nước ngoài (dù các bên là công dân/pháp nhân Việt Nam).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="4" article="664" clause="1">
+        <QUESTIONS>
+            <QUESTION>Pháp luật nào được áp dụng cho quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Căn cứ vào đâu để xác định pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Làm thế nào để biết luật nào áp dụng cho quan hệ dân sự liên quan đến nước ngoài?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Pháp luật áp dụng được xác định theo điều ước quốc tế mà Việt Nam là thành viên hoặc luật Việt Nam.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 664 Bộ luật Dân sự 2015, pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài được xác định theo điều ước quốc tế mà Việt Nam tham gia hoặc luật Việt Nam.</ANSWER>
+            <ANSWER clause="1">Theo điều ước quốc tế mà Việt Nam là thành viên hoặc luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="5" article="664" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu điều ước quốc tế hoặc luật Việt Nam cho phép các bên lựa chọn pháp luật áp dụng thì sao?</QUESTION>
+            <QUESTION>Các bên có quyền lựa chọn pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Nếu điều ước quốc tế hoặc luật Việt Nam cho phép, các bên được lựa chọn pháp luật áp dụng.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 664 Bộ luật Dân sự 2015, nếu điều ước quốc tế hoặc luật Việt Nam cho phép lựa chọn, thì pháp luật áp dụng được xác định theo lựa chọn của các bên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="6" article="664" clause="3">
+        <QUESTIONS>
+            <QUESTION>Nếu không xác định được pháp luật áp dụng theo điều ước quốc tế, luật Việt Nam, hoặc lựa chọn của các bên thì sao?</QUESTION>
+            <QUESTION>Trong trường hợp không thể xác định pháp luật áp dụng theo các cách thông thường, thì áp dụng luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Áp dụng pháp luật của nước có mối liên hệ gắn bó nhất với quan hệ dân sự đó.</ANSWER>
+            <ANSWER clause="3">Theo khoản 3 Điều 664 Bộ luật Dân sự 2015, nếu không xác định được theo các cách trên, thì áp dụng pháp luật của nước có mối liên hệ gắn bó nhất với quan hệ dân sự đó.</ANSWER>
+            <ANSWER clause="3">Áp dụng pháp luật của nước có liên hệ gắn bó nhất.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="7" article="665" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khi nào áp dụng điều ước quốc tế đối với quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Điều ước quốc tế được áp dụng trong trường hợp nào đối với quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Nếu điều ước quốc tế quy định về quyền và nghĩa vụ của các bên trong quan hệ dân sự có yếu tố nước ngoài thì có được áp dụng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Nếu điều ước quốc tế mà Việt Nam là thành viên có quy định về quyền và nghĩa vụ của các bên thì áp dụng quy định đó.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 665 Bộ luật Dân sự 2015, nếu điều ước quốc tế mà Việt Nam là thành viên có quy định về quyền và nghĩa vụ của các bên tham gia quan hệ dân sự có yếu tố nước ngoài, thì áp dụng quy định của điều ước quốc tế.</ANSWER>
+            <ANSWER clause="1">Áp dụng quy định của điều ước quốc tế nếu có quy định về quyền và nghĩa vụ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="8" article="665" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu điều ước quốc tế có quy định khác với Bộ luật Dân sự và luật khác về pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài thì áp dụng quy định nào?</QUESTION>
+            <QUESTION>Khi có mâu thuẫn giữa điều ước quốc tế và luật Việt Nam về pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài thì văn bản nào được ưu tiên?</QUESTION>
+            <QUESTION>Nếu điều ước quốc tế khác luật Việt Nam thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Áp dụng quy định của điều ước quốc tế.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 665 Bộ luật Dân sự 2015, nếu điều ước quốc tế mà Việt Nam là thành viên có quy định khác với phần này và luật khác về pháp luật áp dụng cho quan hệ dân sự có yếu tố nước ngoài thì áp dụng quy định của điều ước quốc tế.</ANSWER>
+            <ANSWER clause="2">Áp dụng điều ước quốc tế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="9" article="666">
+        <QUESTIONS>
+            <QUESTION>Khi nào các bên được lựa chọn tập quán quốc tế để áp dụng cho quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Việc áp dụng tập quán quốc tế cho quan hệ dân sự có yếu tố nước ngoài được quy định như thế nào?</QUESTION>
+            <QUESTION>Tập quán quốc tế có được áp dụng cho quan hệ dân sự có yếu tố nước ngoài không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Các bên được chọn tập quán quốc tế theo khoản 2 Điều 664; nếu hậu quả của việc áp dụng trái nguyên tắc cơ bản của luật Việt Nam thì áp dụng luật Việt Nam.</ANSWER>
+            <ANSWER>Theo Điều 666 Bộ luật Dân sự 2015, các bên được chọn tập quán quốc tế theo quy định tại khoản 2 Điều 664. Nếu hậu quả của việc áp dụng tập quán quốc tế trái với nguyên tắc cơ bản của pháp luật Việt Nam thì áp dụng pháp luật Việt Nam.</ANSWER>
+            <ANSWER>Chọn theo khoản 2 Điều 664; nếu trái nguyên tắc cơ bản luật Việt Nam thì áp dụng luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="10" article="667">
+        <QUESTIONS>
+            <QUESTION>Khi áp dụng pháp luật nước ngoài cho quan hệ dân sự có yếu tố nước ngoài, nếu có cách hiểu khác nhau thì theo cách hiểu nào?</QUESTION>
+            <QUESTION>Nếu pháp luật nước ngoài được áp dụng nhưng có nhiều cách giải thích khác nhau thì phải làm sao?</QUESTION>
+            <QUESTION>Việc áp dụng pháp luật nước ngoài khi có nhiều cách hiểu được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo sự giải thích của cơ quan có thẩm quyền của nước đó.</ANSWER>
+            <ANSWER>Theo Điều 667 Bộ luật Dân sự 2015, nếu pháp luật nước ngoài được áp dụng nhưng có cách hiểu khác nhau thì theo cách hiểu của cơ quan có thẩm quyền tại nước đó.</ANSWER>
+            <ANSWER>Theo cách hiểu của cơ quan có thẩm quyền nước đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="11" article="668" clause="1">
+        <QUESTIONS>
+            <QUESTION>Phạm vi pháp luật được dẫn chiếu đến trong quan hệ dân sự có yếu tố nước ngoài bao gồm những gì?</QUESTION>
+            <QUESTION>Pháp luật được dẫn chiếu đến là gì?</QUESTION>
+            <QUESTION>Khi nói đến "pháp luật được dẫn chiếu đến", điều đó có nghĩa là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Pháp luật được dẫn chiếu đến bao gồm quy định về xác định pháp luật áp dụng và quy định về quyền, nghĩa vụ của các bên, trừ trường hợp tại khoản 4 Điều này.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 668 Bộ luật Dân sự 2015, pháp luật được dẫn chiếu đến bao gồm quy định xác định luật áp dụng và quy định về quyền, nghĩa vụ của các bên, trừ khoản 4.</ANSWER>
+            <ANSWER clause="1">Quy định xác định luật áp dụng và quyền, nghĩa vụ (trừ khoản 4).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="12" article="668" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu dẫn chiếu đến pháp luật Việt Nam thì quy định nào được áp dụng?</QUESTION>
+            <QUESTION>Khi áp dụng pháp luật Việt Nam trong quan hệ dân sự có yếu tố nước ngoài, những quy định nào có hiệu lực?</QUESTION>
+            <QUESTION>Nếu dẫn chiếu luật Việt Nam thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Áp dụng quy định của pháp luật Việt Nam về quyền và nghĩa vụ của các bên.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 668 Bộ luật Dân sự 2015, nếu dẫn chiếu đến pháp luật Việt Nam thì áp dụng quy định về quyền và nghĩa vụ của các bên.</ANSWER>
+            <ANSWER clause="2">Áp dụng quy định về quyền và nghĩa vụ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="13" article="668" clause="3">
+        <QUESTIONS>
+            <QUESTION>Nếu dẫn chiếu đến pháp luật của một nước thứ ba thì quy định nào được áp dụng?</QUESTION>
+            <QUESTION>Khi áp dụng pháp luật của nước thứ ba trong quan hệ dân sự có yếu tố nước ngoài, những quy định nào có hiệu lực?</QUESTION>
+            <QUESTION>Nếu dẫn chiếu luật nước thứ ba thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Áp dụng quy định của pháp luật nước thứ ba về quyền và nghĩa vụ của các bên.</ANSWER>
+            <ANSWER clause="3">Theo khoản 3 Điều 668 Bộ luật Dân sự 2015, nếu dẫn chiếu đến pháp luật của nước thứ ba thì áp dụng quy định về quyền, nghĩa vụ của các bên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="14" article="668" clause="4">
+        <QUESTIONS>
+            <QUESTION>Theo khoản 2 Điều 664, khi các bên được lựa chọn pháp luật áp dụng, phạm vi lựa chọn đó bao gồm những gì?</QUESTION>
+            <QUESTION>Các bên có được lựa chọn quy định về xác định pháp luật áp dụng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="4">Các bên chỉ được lựa chọn quy định về quyền và nghĩa vụ, không bao gồm quy định về xác định pháp luật áp dụng.</ANSWER>
+            <ANSWER clause="4">Theo khoản 4 Điều 668 Bộ luật Dân sự 2015, theo khoản 2 Điều 664, các bên chỉ được chọn quy định về quyền và nghĩa vụ, không bao gồm quy định xác định luật áp dụng.</ANSWER>
+            <ANSWER clause="4">Quy định về quyền và nghĩa vụ, không bao gồm xác định luật áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="15" article="669">
+        <QUESTIONS>
+            <QUESTION>Nếu pháp luật của một nước có nhiều hệ thống pháp luật được dẫn chiếu đến thì áp dụng hệ thống nào?</QUESTION>
+            <QUESTION>Làm thế nào để xác định pháp luật áp dụng khi một nước có nhiều hệ thống pháp luật?</QUESTION>
+            <QUESTION>Nếu nước đó có nhiều hệ thống luật thì sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Áp dụng theo nguyên tắc của pháp luật nước đó.</ANSWER>
+            <ANSWER>Theo Điều 669 Bộ luật Dân sự 2015, nếu pháp luật của một nước có nhiều hệ thống được dẫn chiếu đến thì áp dụng theo nguyên tắc do pháp luật nước đó quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="16" article="670" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khi nào thì không áp dụng pháp luật nước ngoài cho quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Trong trường hợp nào pháp luật nước ngoài không được áp dụng?</QUESTION>
+            <QUESTION>Không áp dụng luật nước ngoài khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Không áp dụng pháp luật nước ngoài nếu hậu quả của việc áp dụng trái nguyên tắc cơ bản của luật Việt Nam, hoặc nội dung của pháp luật nước ngoài không xác định được dù đã áp dụng các biện pháp cần thiết.</ANSWER>
+            <ANSWER clause="1">Theo khoản 1 Điều 670 Bộ luật Dân sự 2015, pháp luật nước ngoài không được áp dụng nếu hậu quả của việc áp dụng trái với các nguyên tắc cơ bản của pháp luật Việt Nam, hoặc nội dung của pháp luật nước ngoài không xác định được dù đã áp dụng các biện pháp cần thiết theo pháp luật tố tụng.</ANSWER>
+            <ANSWER clause="1">Không áp dụng nếu hậu quả trái nguyên tắc cơ bản luật Việt Nam, hoặc nội dung không xác định được.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="17" article="670" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu pháp luật nước ngoài không được áp dụng thì áp dụng pháp luật nào?</QUESTION>
+            <QUESTION>Trong trường hợp không áp dụng được pháp luật nước ngoài, pháp luật nào sẽ được sử dụng?</QUESTION>
+            <QUESTION>Không áp dụng được luật nước ngoài thì áp dụng luật gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Áp dụng pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 670 Bộ luật Dân sự 2015, nếu pháp luật nước ngoài không được áp dụng thì áp dụng pháp luật Việt Nam.</ANSWER>
+            <ANSWER clause="2">Áp dụng luật Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="18" article="671">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu cho quan hệ dân sự có yếu tố nước ngoài được xác định như thế nào?</QUESTION>
+            <QUESTION>Luật nào quy định về thời hiệu trong quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được tính ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Thời hiệu được xác định theo pháp luật áp dụng cho quan hệ dân sự đó.</ANSWER>
+            <ANSWER>Theo Điều 671 Bộ luật Dân sự 2015, thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo pháp luật được áp dụng đối với quan hệ đó.</ANSWER>
+            <ANSWER>Theo pháp luật áp dụng cho quan hệ đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

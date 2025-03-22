@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>1</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id="1" article="1">
+        <QUESTIONS>
+            <QUESTION>Phạm vi điều chỉnh của Bộ luật Dân sự là gì?</QUESTION>
+            <QUESTION>Bộ luật Dân sự áp dụng cho những trường hợp nào?</QUESTION>
+            <QUESTION>Bộ luật Dân sự điều chỉnh những vấn đề gì?</QUESTION>
+            <QUESTION>Những quan hệ nào thuộc phạm vi điều chỉnh của Bộ luật Dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Bộ luật Dân sự quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ được hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm.</ANSWER>
+            <ANSWER>Bộ luật này điều chỉnh địa vị pháp lý, các quy tắc ứng xử của cá nhân, pháp nhân; quyền và nghĩa vụ về nhân thân, tài sản của cá nhân, pháp nhân trong các quan hệ dân sự được thiết lập dựa trên nguyên tắc bình đẳng, tự nguyện, độc lập về tài sản và tự chịu trách nhiệm.</ANSWER>
+            <ANSWER>Phạm vi điều chỉnh của Bộ luật Dân sự bao gồm địa vị pháp lý, quy tắc ứng xử, quyền và nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ dân sự hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm.</ANSWER>
+            <ANSWER>phạm vi điều chỉnh bao gồm địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ được hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="2" article="2">
+        <QUESTIONS>
+            <QUESTION>Quyền dân sự được quy định như thế nào trong Bộ luật Dân sự?</QUESTION>
+            <QUESTION>Bộ luật Dân sự nói gì về quyền dân sự?</QUESTION>
+            <QUESTION>Việc công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự được thực hiện ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật, và chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng.</ANSWER>
+            <ANSWER>quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm, đồng thời chỉ bị hạn chế trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng theo quy định của luật.</ANSWER>
+            <ANSWER>Công nhận, tôn trọng, bảo vệ, bảo đảm quyền dân sự theo Hiến pháp và pháp luật; hạn chế quyền dân sự theo luật vì lý do quốc phòng, an ninh, trật tự, an toàn, đạo đức xã hội, sức khỏe cộng đồng khi cần thiết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="3" article="2" clause="1">
+        <QUESTIONS>
+            <QUESTION>Quyền dân sự ở Việt Nam được công nhận, tôn trọng, bảo vệ và bảo đảm như thế nào?</QUESTION>
+            <QUESTION>Cơ sở pháp lý nào công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự?</QUESTION>
+            <QUESTION>Việc công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự được thực hiện theo văn bản nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Quyền dân sự ở Việt Nam được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật.</ANSWER>
+            <ANSWER clause="1">quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật.</ANSWER>
+            <ANSWER clause="1">Công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="4" article="2" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khi nào quyền dân sự có thể bị hạn chế?</QUESTION>
+            <QUESTION>Trong trường hợp nào quyền dân sự bị hạn chế?</QUESTION>
+            <QUESTION>Điều kiện để hạn chế quyền dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng.</ANSWER>
+            <ANSWER clause="2">quyền dân sự chỉ bị hạn chế trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng theo quy định của luật.</ANSWER>
+            <ANSWER clause="2">Hạn chế theo luật khi cần thiết vì lý do quốc phòng, an ninh, trật tự, an toàn, đạo đức xã hội, sức khỏe cộng đồng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="5" article="3">
+        <QUESTIONS>
+            <QUESTION>Các nguyên tắc cơ bản của pháp luật dân sự là gì?</QUESTION>
+            <QUESTION>Pháp luật dân sự dựa trên những nguyên tắc nào?</QUESTION>
+            <QUESTION>Những nguyên tắc nào được áp dụng trong pháp luật dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Các nguyên tắc cơ bản bao gồm bình đẳng, tự do ý chí, thiện chí trung thực, không xâm phạm lợi ích, tự chịu trách nhiệm.</ANSWER>
+            <ANSWER>các nguyên tắc cơ bản của pháp luật dân sự bao gồm: bình đẳng; tự do, tự nguyện cam kết, thỏa thuận; thiện chí, trung thực; không xâm phạm lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền, lợi ích hợp pháp của người khác; tự chịu trách nhiệm.</ANSWER>
+            <ANSWER>Bình đẳng; tự do, tự nguyện cam kết, thỏa thuận; thiện chí, trung thực; không xâm phạm lợi ích quốc gia, dân tộc, công cộng, quyền và lợi ích hợp pháp của người khác; tự chịu trách nhiệm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="6" article="3" clause="1">
+        <QUESTIONS>
+            <QUESTION>Nguyên tắc bình đẳng trong pháp luật dân sự được hiểu như thế nào?</QUESTION>
+            <QUESTION>Pháp luật dân sự quy định về bình đẳng giữa các chủ thể như thế nào?</QUESTION>
+            <QUESTION>Về bình đẳng, pháp luật dân sự quy định gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Mọi cá nhân, pháp nhân đều bình đẳng, không được lấy bất kỳ lý do nào để phân biệt đối xử; được pháp luật bảo hộ như nhau về các quyền nhân thân và tài sản.</ANSWER>
+            <ANSWER clause="1">mọi cá nhân, pháp nhân đều bình đẳng, không phân biệt đối xử, được pháp luật bảo hộ như nhau về quyền nhân thân và tài sản.</ANSWER>
+            <ANSWER clause="1">Bình đẳng, không phân biệt đối xử, được bảo hộ như nhau về quyền nhân thân và tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="7" article="3" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nguyên tắc tự do ý chí trong pháp luật dân sự được hiểu như thế nào?</QUESTION>
+            <QUESTION>Pháp luật dân sự quy định về tự do ý chí trong quan hệ dân sự ra sao?</QUESTION>
+            <QUESTION>Về tự do ý chí, pháp luật dân sự quy định gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Cá nhân, pháp nhân xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình trên cơ sở tự do, tự nguyện cam kết, thỏa thuận; mọi cam kết, thỏa thuận không vi phạm điều cấm của luật, không trái đạo đức xã hội có hiệu lực thực hiện đối với các bên và phải được chủ thể khác tôn trọng.</ANSWER>
+            <ANSWER clause="2">cá nhân, pháp nhân xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự trên cơ sở tự do, tự nguyện; các cam kết, thỏa thuận hợp pháp và không trái đạo đức xã hội có hiệu lực thực hiện và được tôn trọng.</ANSWER>
+            <ANSWER clause="2">Tự do, tự nguyện cam kết, thỏa thuận; cam kết, thỏa thuận hợp pháp, không trái đạo đức có hiệu lực và được tôn trọng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="8" article="3" clause="3">
+        <QUESTIONS>
+            <QUESTION>Nguyên tắc thiện chí, trung thực trong pháp luật dân sự được hiểu như thế nào?</QUESTION>
+            <QUESTION>Cá nhân, pháp nhân phải thể hiện thiện chí, trung thực như thế nào trong quan hệ dân sự?</QUESTION>
+            <QUESTION>Về thiện chí, trung thực, cá nhân, pháp nhân có nghĩa vụ gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Cá nhân, pháp nhân phải xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình một cách thiện chí, trung thực.</ANSWER>
+            <ANSWER clause="3">cá nhân, pháp nhân phải xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự một cách thiện chí, trung thực.</ANSWER>
+            <ANSWER clause="3">Xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự một cách thiện chí, trung thực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="9" article="3" clause="4">
+        <QUESTIONS>
+            <QUESTION>Giới hạn của việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự là gì?</QUESTION>
+            <QUESTION>Việc xác lập, thực hiện, chấm dứt quyền và nghĩa vụ dân sự không được xâm phạm đến những lợi ích nào?</QUESTION>
+            <QUESTION>Về việc không xâm phạm, việc xác lập, thực hiện, chấm dứt quyền và nghĩa vụ dân sự bị hạn chế như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="4">Việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự không được xâm phạm đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác.</ANSWER>
+            <ANSWER clause="4">việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự không được xâm phạm đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác.</ANSWER>
+            <ANSWER clause="4">Không xâm phạm lợi ích quốc gia, dân tộc, công cộng, quyền, lợi ích hợp pháp của người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="10" article="3" clause="5">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm của cá nhân, pháp nhân đối với việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự là gì?</QUESTION>
+            <QUESTION>Cá nhân, pháp nhân phải chịu trách nhiệm như thế nào khi không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự?</QUESTION>
+            <QUESTION>Về trách nhiệm,  cá nhân, pháp nhân phải làm gì khi không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="5">Cá nhân, pháp nhân phải tự chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự.</ANSWER>
+            <ANSWER clause="5">cá nhân, pháp nhân phải tự chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự.</ANSWER>
+            <ANSWER clause="5">Tự chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="11" article="4">
+        <QUESTIONS>
+            <QUESTION>Bộ luật Dân sự được áp dụng như thế nào?</QUESTION>
+            <QUESTION>Việc áp dụng Bộ luật Dân sự được quy định ra sao?</QUESTION>
+            <QUESTION>Các quy định về áp dụng Bộ luật Dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Bộ luật này là luật chung điều chỉnh quan hệ dân sự; luật khác liên quan không được trái các nguyên tắc cơ bản của Bộ luật này; trường hợp luật khác không quy định hoặc quy định vi phạm nguyên tắc này thì áp dụng Bộ luật này; điều ước quốc tế được ưu tiên áp dụng khi có nội dung khác với Bộ luật này.</ANSWER>
+            <ANSWER>Bộ luật này là luật chung điều chỉnh các quan hệ dân sự; luật khác có liên quan không được trái với các nguyên tắc cơ bản của Bộ luật này; trường hợp luật khác không quy định hoặc quy định nhưng trái với các nguyên tắc cơ bản thì áp dụng Bộ luật này; trường hợp có sự khác nhau giữa Bộ luật này và điều ước quốc tế mà Việt Nam là thành viên thì áp dụng điều ước quốc tế.</ANSWER>
+            <ANSWER>Luật chung điều chỉnh quan hệ dân sự; luật khác không trái nguyên tắc của Bộ luật này; áp dụng Bộ luật này khi luật khác không quy định hoặc quy định vi phạm; ưu tiên điều ước quốc tế khi có khác biệt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="12" article="4" clause="1">
+        <QUESTIONS>
+            <QUESTION>Bộ luật Dân sự có vai trò gì trong việc điều chỉnh quan hệ dân sự?</QUESTION>
+            <QUESTION>Bộ luật Dân sự được coi là luật gì trong lĩnh vực dân sự?</QUESTION>
+            <QUESTION>Vị trí của Bộ luật Dân sự trong hệ thống pháp luật dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Bộ luật này là luật chung điều chỉnh các quan hệ dân sự.</ANSWER>
+            <ANSWER clause="1">Bộ luật này là luật chung áp dụng cho các quan hệ dân sự.</ANSWER>
+            <ANSWER clause="1">Luật chung điều chỉnh quan hệ dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="13" article="4" clause="2">
+        <QUESTIONS>
+            <QUESTION>Các luật khác liên quan đến quan hệ dân sự phải tuân thủ nguyên tắc nào?</QUESTION>
+            <QUESTION>Mối quan hệ giữa các luật khác và Bộ luật Dân sự trong việc điều chỉnh quan hệ dân sự là gì?</QUESTION>
+            <QUESTION>Luật khác điều chỉnh quan hệ dân sự có những quy định gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Luật khác có liên quan điều chỉnh quan hệ dân sự trong các lĩnh vực cụ thể không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.</ANSWER>
+            <ANSWER clause="2">luật khác có liên quan điều chỉnh quan hệ dân sự trong lĩnh vực cụ thể không được trái với các nguyên tắc cơ bản của pháp luật dân sự tại Điều 3.</ANSWER>
+            <ANSWER clause="2">Không trái với các nguyên tắc cơ bản của pháp luật dân sự tại Điều 3.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="14" article="4" clause="3">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào thì quy định của Bộ luật Dân sự được áp dụng?</QUESTION>
+            <QUESTION>Khi nào thì áp dụng Bộ luật Dân sự mặc dù có luật khác liên quan?</QUESTION>
+            <QUESTION>Điều kiện áp dụng Bộ luật Dân sự khi có luật khác là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Trường hợp luật khác có liên quan không quy định hoặc có quy định nhưng vi phạm khoản 2 Điều này thì quy định của Bộ luật này được áp dụng.</ANSWER>
+            <ANSWER clause="3">trường hợp luật khác có liên quan không quy định hoặc có quy định nhưng vi phạm khoản 2 Điều này thì áp dụng quy định của Bộ luật này.</ANSWER>
+            <ANSWER clause="3">Áp dụng khi luật khác không quy định hoặc quy định vi phạm khoản 2 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="15" article="4" clause="4">
+        <QUESTIONS>
+            <QUESTION>Khi có mâu thuẫn giữa Bộ luật Dân sự và điều ước quốc tế thì áp dụng quy định nào?</QUESTION>
+            <QUESTION>Trường hợp có sự khác nhau giữa Bộ luật Dân sự và điều ước quốc tế thì văn bản nào được ưu tiên áp dụng?</QUESTION>
+            <QUESTION>Ưu tiên áp dụng điều ước quốc tế hay Bộ luật Dân sự khi có xung đột?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="4">Trường hợp có sự khác nhau giữa quy định của Bộ luật này và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên về cùng một vấn đề thì áp dụng quy định của điều ước quốc tế.</ANSWER>
+            <ANSWER clause="4">trường hợp có sự khác nhau giữa Bộ luật này và điều ước quốc tế mà Việt Nam là thành viên về cùng một vấn đề thì áp dụng điều ước quốc tế.</ANSWER>
+            <ANSWER clause="4">Áp dụng điều ước quốc tế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="16" article="5">
+        <QUESTIONS>
+            <QUESTION>Tập quán được áp dụng như thế nào trong pháp luật dân sự?</QUESTION>
+            <QUESTION>Việc áp dụng tập quán trong quan hệ dân sự được quy định ra sao?</QUESTION>
+            <QUESTION>Khi nào có thể áp dụng tập quán trong quan hệ dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Tập quán là quy tắc xử sự rõ ràng xác định quyền, nghĩa vụ trong quan hệ dân sự cụ thể, hình thành và lặp lại nhiều lần, được thừa nhận rộng rãi; áp dụng khi không có thỏa thuận và pháp luật không quy định, nhưng không trái nguyên tắc cơ bản của pháp luật dân sự.</ANSWER>
+            <ANSWER>tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ trong quan hệ dân sự cụ thể, được hình thành và lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi; được áp dụng khi không có thỏa thuận và pháp luật không quy định, nhưng không trái với các nguyên tắc cơ bản của pháp luật dân sự tại Điều 3.</ANSWER>
+            <ANSWER>Tập quán là quy tắc xử sự rõ ràng, lặp lại, được thừa nhận rộng rãi; áp dụng khi không có thỏa thuận và luật không quy định, không trái nguyên tắc cơ bản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="17" article="5" clause="1">
+        <QUESTIONS>
+            <QUESTION>Tập quán trong pháp luật dân sự được định nghĩa như thế nào?</QUESTION>
+            <QUESTION>Tập quán là gì?</QUESTION>
+            <QUESTION>Thế nào là tập quán?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi trong một vùng, miền, dân tộc, cộng đồng dân cư hoặc trong một lĩnh vực dân sự.</ANSWER>
+            <ANSWER clause="1">tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp lại nhiều lần, được thừa nhận rộng rãi trong một vùng, miền, dân tộc, cộng đồng hoặc lĩnh vực dân sự.</ANSWER>
+            <ANSWER clause="1">Quy tắc xử sự rõ ràng xác định quyền, nghĩa vụ, hình thành lặp lại, thừa nhận rộng rãi trong vùng miền, dân tộc, cộng đồng hoặc lĩnh vực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="18" article="5" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khi nào thì tập quán được áp dụng trong quan hệ dân sự?</QUESTION>
+            <QUESTION>Điều kiện để áp dụng tập quán là gì?</QUESTION>
+            <QUESTION>Trong trường hợp nào thì có thể áp dụng tập quán?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Trường hợp các bên không có thỏa thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.</ANSWER>
+            <ANSWER clause="2">trường hợp các bên không có thỏa thuận và pháp luật không quy định thì có thể áp dụng tập quán, nhưng tập quán đó không được trái với các nguyên tắc cơ bản của pháp luật dân sự tại Điều 3.</ANSWER>
+            <ANSWER clause="2">Áp dụng khi không có thỏa thuận và pháp luật không quy định, nhưng không trái nguyên tắc cơ bản tại Điều 3.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="19" article="6">
+        <QUESTIONS>
+            <QUESTION>Việc áp dụng tương tự pháp luật trong quan hệ dân sự được quy định như thế nào?</QUESTION>
+            <QUESTION>Khi nào thì áp dụng tương tự pháp luật trong quan hệ dân sự?</QUESTION>
+            <QUESTION>Áp dụng tương tự pháp luật là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Áp dụng tương tự pháp luật khi quan hệ dân sự phát sinh mà không có thỏa thuận, luật, tập quán; nếu không thể áp dụng tương tự thì áp dụng nguyên tắc cơ bản, án lệ, lẽ công bằng.</ANSWER>
+            <ANSWER>khi phát sinh quan hệ dân sự mà không có thỏa thuận, pháp luật không quy định, không có tập quán áp dụng thì áp dụng tương tự pháp luật dân sự; nếu không thể áp dụng tương tự thì áp dụng nguyên tắc cơ bản tại Điều 3, án lệ và lẽ công bằng.</ANSWER>
+            <ANSWER>Áp dụng khi không có thỏa thuận, luật, tập quán; nếu không được thì áp dụng nguyên tắc, án lệ, lẽ công bằng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="20" article="6" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khi nào thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự?</QUESTION>
+            <QUESTION>Trong trường hợp nào thì áp dụng tương tự pháp luật dân sự?</QUESTION>
+            <QUESTION>Điều kiện áp dụng tương tự pháp luật dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thỏa thuận, pháp luật không có quy định và không có tập quán được áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự.</ANSWER>
+            <ANSWER clause="1">trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà không có thỏa thuận, pháp luật không quy định và không có tập quán áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự.</ANSWER>
+            <ANSWER clause="1">Khi phát sinh quan hệ dân sự mà không có thỏa thuận, luật, tập quán.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="21" article="6" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu không thể áp dụng tương tự pháp luật thì áp dụng những quy định nào?</QUESTION>
+            <QUESTION>Trong trường hợp không thể áp dụng tương tự pháp luật, căn cứ nào được sử dụng để giải quyết tranh chấp?</QUESTION>
+            <QUESTION>Khi không áp dụng tương tự được thì áp dụng gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Trường hợp không thể áp dụng tương tự pháp luật theo quy định tại khoản 1 Điều này thì áp dụng các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này, án lệ, lẽ công bằng.</ANSWER>
+            <ANSWER clause="2">nếu không thể áp dụng tương tự pháp luật thì áp dụng nguyên tắc cơ bản tại Điều 3, án lệ và lẽ công bằng.</ANSWER>
+            <ANSWER clause="2">Áp dụng nguyên tắc cơ bản tại Điều 3, án lệ, lẽ công bằng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id="22" article="7">
+        <QUESTIONS>
+            <QUESTION>Chính sách của Nhà nước đối với quan hệ dân sự là gì?</QUESTION>
+            <QUESTION>Nhà nước có chính sách gì đối với quan hệ dân sự?</QUESTION>
+            <QUESTION>Các quy định về chính sách của Nhà nước đối với quan hệ dân sự như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chính sách của Nhà nước bao gồm: giữ gìn bản sắc dân tộc, tôn trọng, phát huy phong tục, tập quán tốt đẹp, tình đoàn kết, tương thân tương ái, mỗi người vì cộng đồng, cộng đồng vì mỗi người; khuyến khích hòa giải.</ANSWER>
+            <ANSWER>chính sách của Nhà nước bao gồm việc bảo đảm giữ gìn bản sắc dân tộc, tôn trọng và phát huy phong tục, tập quán, truyền thống tốt đẹp, tình đoàn kết, tương thân, tương ái và khuyến khích hòa giải giữa các bên phù hợp với quy định của pháp luật.</ANSWER>
+            <ANSWER>Giữ gìn bản sắc, tôn trọng, phát huy phong tục tốt đẹp, đoàn kết, tương thân tương ái; khuyến khích hòa giải.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="23" article="7" clause="1">
+        <QUESTIONS>
+            <QUESTION>Việc xác lập, thực hiện, chấm dứt quyền và nghĩa vụ dân sự cần tuân theo những giá trị nào?</QUESTION>
+            <QUESTION>Những yếu tố văn hóa, đạo đức nào cần được bảo đảm trong quan hệ dân sự?</QUESTION>
+            <QUESTION>Cần đảm bảo những gì khi xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Phải bảo đảm giữ gìn bản sắc dân tộc, tôn trọng và phát huy phong tục, tập quán, truyền thống tốt đẹp, tình đoàn kết, tương thân, tương ái, mỗi người vì cộng đồng, cộng đồng vì mỗi người và các giá trị đạo đức cao đẹp của các dân tộc cùng sinh sống trên đất nước Việt Nam.</ANSWER>
+            <ANSWER clause="1">việc xác lập, thực hiện, chấm dứt quyền và nghĩa vụ dân sự phải bảo đảm giữ gìn bản sắc dân tộc, tôn trọng và phát huy phong tục, tập quán, truyền thống tốt đẹp, tình đoàn kết, tương thân, tương ái.</ANSWER>
+            <ANSWER clause="1">Giữ gìn bản sắc, tôn trọng và phát huy phong tục tốt đẹp, đoàn kết, tương thân tương ái.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id="24" article="7" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nhà nước có chính sách gì về hòa giải trong quan hệ dân sự?</QUESTION>
+            <QUESTION>Việc hòa giải trong quan hệ dân sự được khuyến khích như thế nào?</QUESTION>
+            <QUESTION>Hòa giải được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Trong quan hệ dân sự, việc hòa giải giữa các bên phù hợp với quy định của pháp luật được khuyến khích.</ANSWER>
+            <ANSWER clause="2">trong quan hệ dân sự, việc hòa giải giữa các bên phù hợp với quy định của pháp luật được khuyến khích.</ANSWER>
+            <ANSWER clause="2">Khuyến khích hòa giải phù hợp với pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

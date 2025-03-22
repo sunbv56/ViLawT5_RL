@@ -1,0 +1,296 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>27</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="677">
+        <QUESTIONS>
+            <QUESTION>Làm sao để biết tài sản nào là động sản, bất động sản khi có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Đất đai và xe cộ được coi là động sản hay bất động sản theo luật nào?</QUESTION>
+            <QUESTION>Việc phân loại tài sản là động sản, bất động sản được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 677 Bộ luật Dân sự 2015, việc phân loại tài sản là động sản, bất động sản được xác định theo pháp luật của nước nơi có tài sản.</ANSWER>
+            <ANSWER>Việc phân loại tài sản thành động sản hay bất động sản sẽ tuân theo pháp luật của quốc gia nơi tài sản đó hiện hữu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="678">
+        <QUESTIONS>
+            <QUESTION>Việc xác định quyền sở hữu tài sản có yếu tố nước ngoài được xác định theo luật nào?</QUESTION>
+            <QUESTION>Ai quyết định việc mua bán, cho tặng tài sản có liên quan đến nước ngoài?</QUESTION>
+            <QUESTION>Việc xác lập, thực hiện, thay đổi, chấm dứt quyền sở hữu và quyền khác đối với tài sản được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 678 Bộ luật Dân sự 2015, việc xác lập, thực hiện, thay đổi, chấm dứt quyền sở hữu và quyền khác đối với tài sản được xác định theo pháp luật của nước nơi có tài sản, trừ trường hợp quy định tại khoản 2 Điều này.</ANSWER>
+            <ANSWER clause='1'>Việc thiết lập, thực hiện, thay đổi hoặc chấm dứt quyền sở hữu và các quyền khác liên quan đến tài sản sẽ tuân theo luật pháp của quốc gia nơi tài sản đó tọa lạc, trừ trường hợp được quy định khác tại khoản 2 của điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="678">
+        <QUESTIONS>
+            <QUESTION>Còn nếu tài sản là động sản đang trên đường vận chuyển thì sao?</QUESTION>
+            <QUESTION>Nếu hàng hóa đang được vận chuyển từ nước này sang nước khác thì ai quyết định quyền sở hữu?</QUESTION>
+            <QUESTION>Quyền sở hữu đối với động sản trên đường vận chuyển được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 678 Bộ luật Dân sự 2015, quyền sở hữu và quyền khác đối với tài sản là động sản trên đường vận chuyển được xác định theo pháp luật của nước nơi động sản được chuyển đến, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER clause='2'>Đối với quyền sở hữu và các quyền khác liên quan đến động sản đang được vận chuyển, sẽ áp dụng luật pháp của quốc gia nơi động sản đó được chuyển đến, trừ khi có thỏa thuận khác giữa các bên liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="679">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu trí tuệ được xác định theo pháp luật nào?</QUESTION>
+            <QUESTION>Bản quyền, sáng chế được bảo vệ theo luật của nước nào?</QUESTION>
+            <QUESTION>Pháp luật áp dụng để xác định quyền sở hữu trí tuệ được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 679 Bộ luật Dân sự 2015, quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ.</ANSWER>
+            <ANSWER>Quyền sở hữu trí tuệ sẽ được xác định dựa trên luật pháp của quốc gia nơi mà đối tượng sở hữu trí tuệ đó được yêu cầu bảo vệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="680">
+        <QUESTIONS>
+            <QUESTION>Việc thừa kế tài sản có yếu tố nước ngoài được xác định theo luật nào?</QUESTION>
+            <QUESTION>Nếu người chết là người nước ngoài thì việc chia tài sản thừa kế sẽ theo luật nào?</QUESTION>
+            <QUESTION>Thừa kế được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 680 Bộ luật Dân sự 2015, thừa kế được xác định theo pháp luật của nước mà người để lại di sản thừa kế có quốc tịch ngay trước khi chết.</ANSWER>
+            <ANSWER clause='1'>Việc thừa kế sẽ được quyết định theo luật pháp của quốc gia mà người để lại tài sản thừa kế mang quốc tịch ngay trước khi qua đời.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="680">
+        <QUESTIONS>
+            <QUESTION>Nếu tài sản thừa kế là bất động sản ở nước ngoài thì sao?</QUESTION>
+            <QUESTION>Nhà đất ở nước ngoài mà đem chia thừa kế thì theo luật nào?</QUESTION>
+            <QUESTION>Việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 680 Bộ luật Dân sự 2015, việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật của nước nơi có bất động sản đó.</ANSWER>
+            <ANSWER clause='2'>Việc thực hiện quyền thừa kế đối với bất động sản sẽ tuân theo luật pháp của quốc gia nơi bất động sản đó tọa lạc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="681">
+        <QUESTIONS>
+            <QUESTION>Luật nào quy định về năng lực lập di chúc khi có yếu tố nước ngoài?</QUESTION>
+            <QUESTION>Nếu người nước ngoài lập di chúc ở Việt Nam thì di chúc đó có hợp lệ không?</QUESTION>
+            <QUESTION>Năng lực lập di chúc, thay đổi hoặc hủy bỏ di chúc được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 681 Bộ luật Dân sự 2015, năng lực lập di chúc, thay đổi hoặc hủy bỏ di chúc được xác định theo pháp luật của nước mà người lập di chúc có quốc tịch tại thời điểm lập, thay đổi hoặc hủy bỏ di chúc.</ANSWER>
+            <ANSWER clause='1'>Khả năng lập, sửa đổi hoặc hủy bỏ di chúc sẽ được xác định dựa trên luật pháp của quốc gia mà người lập di chúc có quốc tịch vào thời điểm thực hiện các hành động đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="681">
+        <QUESTIONS>
+            <QUESTION>Hình thức di chúc có yếu tố nước ngoài tuân theo luật nào?</QUESTION>
+            <QUESTION>Di chúc viết tay ở nước ngoài có được công nhận ở Việt Nam không?</QUESTION>
+            <QUESTION>Hình thức của di chúc được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 681 Bộ luật Dân sự 2015, hình thức của di chúc được xác định theo pháp luật của nước nơi di chúc được lập. Hình thức của di chúc cũng được công nhận tại Việt Nam nếu phù hợp với pháp luật của nước nơi người lập di chúc cư trú hoặc có quốc tịch tại thời điểm lập di chúc hoặc tại thời điểm người lập di chúc chết, hoặc nước nơi có bất động sản nếu di sản thừa kế là bất động sản.</ANSWER>
+            <ANSWER clause='2'>Hình thức của di chúc phải tuân theo luật pháp của quốc gia nơi di chúc được lập. Tuy nhiên, hình thức đó cũng sẽ được công nhận ở Việt Nam nếu nó phù hợp với luật pháp của một trong các quốc gia sau: nơi người lập di chúc cư trú hoặc có quốc tịch (tại thời điểm lập di chúc hoặc khi người đó qua đời), hoặc quốc gia nơi có bất động sản (nếu di sản là bất động sản).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="682">
+        <QUESTIONS>
+            <QUESTION>Việc giám hộ cho người nước ngoài được thực hiện theo luật nào?</QUESTION>
+            <QUESTION>Nếu người được giám hộ là người nước ngoài thì việc giám hộ sẽ theo luật nào?</QUESTION>
+            <QUESTION>Giám hộ được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 682 Bộ luật Dân sự 2015, giám hộ được xác định theo pháp luật của nước nơi người được giám hộ cư trú.</ANSWER>
+            <ANSWER>Việc giám hộ sẽ được thực hiện theo luật pháp của quốc gia nơi người được giám hộ đang sinh sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="683">
+        <QUESTIONS>
+            <QUESTION>Trong hợp đồng có yếu tố nước ngoài thì các bên có được tự chọn luật áp dụng không?</QUESTION>
+            <QUESTION>Nếu ký hợp đồng với người nước ngoài thì có được tự chọn luật để giải quyết tranh chấp không?</QUESTION>
+            <QUESTION>Pháp luật áp dụng đối với hợp đồng có yếu tố nước ngoài được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 683 Bộ luật Dân sự 2015, các bên trong quan hệ hợp đồng được thỏa thuận lựa chọn pháp luật áp dụng đối với hợp đồng, trừ trường hợp quy định tại các khoản 4, 5 và 6 Điều này. Trường hợp các bên không có thỏa thuận về pháp luật áp dụng thì pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng đó được áp dụng.</ANSWER>
+            <ANSWER clause='1'>Các bên tham gia hợp đồng có quyền tự do thỏa thuận chọn luật áp dụng cho hợp đồng đó, ngoại trừ một số trường hợp đặc biệt được nêu tại các khoản 4, 5 và 6 của Điều 683 Bộ luật Dân sự 2015. Nếu các bên không đạt được thỏa thuận về luật áp dụng, thì luật pháp của quốc gia có mối liên hệ chặt chẽ nhất với hợp đồng sẽ được sử dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="683">
+        <QUESTIONS>
+            <QUESTION>Luật của nước nào được coi là có mối liên hệ gắn bó nhất với hợp đồng?</QUESTION>
+            <QUESTION>Làm sao để biết luật của nước nào phù hợp nhất để giải quyết hợp đồng?</QUESTION>
+            <QUESTION>Pháp luật của nước nào được coi là pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 683 Bộ luật Dân sự 2015, pháp luật của nước nơi người bán cư trú hoặc thành lập (đối với hợp đồng mua bán hàng hóa); nơi người cung cấp dịch vụ cư trú hoặc thành lập (đối với hợp đồng dịch vụ); nơi người nhận quyền cư trú hoặc thành lập (đối với hợp đồng chuyển giao quyền sở hữu trí tuệ); nơi người lao động thường xuyên làm việc (đối với hợp đồng lao động); nơi người tiêu dùng cư trú (đối với hợp đồng tiêu dùng) được coi là pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng.</ANSWER>
+            <ANSWER clause='2'>Luật pháp của các quốc gia sau đây thường được coi là có mối liên hệ chặt chẽ nhất với hợp đồng: quốc gia nơi người bán cư trú (đối với hợp đồng mua bán), quốc gia nơi người cung cấp dịch vụ cư trú (đối với hợp đồng dịch vụ), quốc gia nơi người nhận quyền cư trú (đối với hợp đồng chuyển giao quyền sở hữu trí tuệ), quốc gia nơi người lao động làm việc thường xuyên (đối với hợp đồng lao động), quốc gia nơi người tiêu dùng cư trú (đối với hợp đồng tiêu dùng).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="683">
+        <QUESTIONS>
+            <QUESTION>Nếu có luật khác liên quan hơn thì sao?</QUESTION>
+            <QUESTION>Nếu có luật của nước khác phù hợp hơn thì có được áp dụng không?</QUESTION>
+            <QUESTION>Trường hợp chứng minh được pháp luật của nước khác có mối liên hệ gắn bó hơn thì pháp luật nào được áp dụng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 683 Bộ luật Dân sự 2015, trường hợp chứng minh được pháp luật của nước khác với pháp luật được nêu tại khoản 2 Điều này có mối liên hệ gắn bó hơn với hợp đồng thì pháp luật áp dụng là pháp luật của nước đó.</ANSWER>
+            <ANSWER clause='3'>Nếu có thể chứng minh rằng luật pháp của một quốc gia khác có mối liên hệ chặt chẽ hơn với hợp đồng so với luật pháp được liệt kê ở khoản 2, thì luật pháp của quốc gia đó sẽ được áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="683">
+        <QUESTIONS>
+            <QUESTION>Nếu hợp đồng liên quan đến bất động sản thì luật nào được áp dụng?</QUESTION>
+            <QUESTION>Nếu mua bán nhà đất ở nước ngoài thì theo luật nào?</QUESTION>
+            <QUESTION>Trường hợp hợp đồng có đối tượng là bất động sản thì pháp luật nào được áp dụng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Theo khoản 4 Điều 683 Bộ luật Dân sự 2015, trường hợp hợp đồng có đối tượng là bất động sản thì pháp luật áp dụng đối với việc chuyển giao quyền sở hữu, quyền khác đối với tài sản là bất động sản, thuê bất động sản hoặc việc sử dụng bất động sản để bảo đảm thực hiện nghĩa vụ là pháp luật của nước nơi có bất động sản.</ANSWER>
+            <ANSWER clause='4'>Đối với các hợp đồng liên quan đến bất động sản (chuyển giao quyền sở hữu, cho thuê, sử dụng để bảo đảm nghĩa vụ), luật pháp của quốc gia nơi bất động sản tọa lạc sẽ được áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="683">
+        <QUESTIONS>
+            <QUESTION>Nếu luật nước ngoài ảnh hưởng đến quyền lợi của người lao động Việt Nam thì sao?</QUESTION>
+            <QUESTION>Nếu luật nước ngoài không bảo vệ quyền lợi tối thiểu của người lao động Việt Nam thì có được áp dụng không?</QUESTION>
+            <QUESTION>Trường hợp pháp luật do các bên lựa chọn trong hợp đồng lao động, hợp đồng tiêu dùng có ảnh hưởng đến quyền lợi tối thiểu của người lao động, người tiêu dùng theo quy định của pháp luật Việt Nam thì pháp luật nào được áp dụng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Theo khoản 5 Điều 683 Bộ luật Dân sự 2015, trường hợp pháp luật do các bên lựa chọn trong hợp đồng lao động, hợp đồng tiêu dùng có ảnh hưởng đến quyền lợi tối thiểu của người lao động, người tiêu dùng theo quy định của pháp luật Việt Nam thì pháp luật Việt Nam được áp dụng.</ANSWER>
+            <ANSWER clause='5'>Nếu luật pháp được các bên lựa chọn trong hợp đồng lao động hoặc hợp đồng tiêu dùng làm ảnh hưởng đến các quyền lợi tối thiểu của người lao động hoặc người tiêu dùng theo quy định của pháp luật Việt Nam, thì luật pháp Việt Nam sẽ được ưu tiên áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="683">
+        <QUESTIONS>
+            <QUESTION>Có được thay đổi luật áp dụng cho hợp đồng không?</QUESTION>
+            <QUESTION>Sau khi ký hợp đồng có được đổi luật khác để áp dụng không?</QUESTION>
+            <QUESTION>Việc thay đổi pháp luật áp dụng đối với hợp đồng được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='6'>Theo khoản 6 Điều 683 Bộ luật Dân sự 2015, các bên có thể thỏa thuận thay đổi pháp luật áp dụng đối với hợp đồng nhưng việc thay đổi đó không được ảnh hưởng đến quyền, lợi ích hợp pháp của người thứ ba được hưởng trước khi thay đổi pháp luật áp dụng, trừ trường hợp người thứ ba đồng ý.</ANSWER>
+            <ANSWER clause='6'>Các bên có thể thỏa thuận thay đổi luật áp dụng cho hợp đồng, tuy nhiên, sự thay đổi này không được gây ảnh hưởng tiêu cực đến quyền và lợi ích hợp pháp của bất kỳ bên thứ ba nào đã được hưởng trước khi có sự thay đổi, trừ khi bên thứ ba đó đồng ý với sự thay đổi này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="683">
+        <QUESTIONS>
+            <QUESTION>Hình thức hợp đồng tuân theo luật nào?</QUESTION>
+            <QUESTION>Hợp đồng có yếu tố nước ngoài thì cần làm những thủ tục gì?</QUESTION>
+            <QUESTION>Hình thức của hợp đồng được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='7'>Theo khoản 7 Điều 683 Bộ luật Dân sự 2015, hình thức của hợp đồng được xác định theo pháp luật áp dụng đối với hợp đồng đó. Trường hợp hình thức của hợp đồng không phù hợp với hình thức hợp đồng theo pháp luật áp dụng đối với hợp đồng đó, nhưng phù hợp với hình thức hợp đồng theo pháp luật của nước nơi giao kết hợp đồng hoặc pháp luật Việt Nam thì hình thức hợp đồng đó được công nhận tại Việt Nam.</ANSWER>
+            <ANSWER clause='7'>Hình thức của hợp đồng phải tuân theo luật áp dụng cho hợp đồng đó. Nếu hình thức đó không phù hợp với luật áp dụng, nhưng lại phù hợp với luật của quốc gia nơi hợp đồng được ký kết hoặc phù hợp với luật Việt Nam, thì hình thức đó vẫn sẽ được công nhận tại Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="684">
+        <QUESTIONS>
+            <QUESTION>Hành vi pháp lý đơn phương có yếu tố nước ngoài thì áp dụng luật nào?</QUESTION>
+            <QUESTION>Nếu tự mình làm một việc có liên quan đến luật pháp quốc tế thì theo luật nào?</QUESTION>
+            <QUESTION>Pháp luật áp dụng đối với hành vi pháp lý đơn phương được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 684 Bộ luật Dân sự 2015, pháp luật áp dụng đối với hành vi pháp lý đơn phương là pháp luật của nước nơi cá nhân xác lập hành vi đó cư trú hoặc nơi pháp nhân xác lập hành vi đó được thành lập.</ANSWER>
+            <ANSWER>Luật pháp áp dụng cho một hành động pháp lý đơn phương (ví dụ: lập di chúc, ủy quyền) sẽ là luật pháp của quốc gia nơi cá nhân thực hiện hành động đó cư trú, hoặc nơi pháp nhân thực hiện hành động đó được thành lập.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="685">
+        <QUESTIONS>
+            <QUESTION>Việc chiếm giữ tài sản trái phép có yếu tố nước ngoài thì áp dụng luật nào?</QUESTION>
+            <QUESTION>Nếu chiếm dụng tài sản của người khác ở nước ngoài thì theo luật nào?</QUESTION>
+            <QUESTION>Nghĩa vụ hoàn trả do chiếm hữu, sử dụng, được lợi về tài sản không có căn cứ pháp luật được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 685 Bộ luật Dân sự 2015, nghĩa vụ hoàn trả do chiếm hữu, sử dụng, được lợi về tài sản không có căn cứ pháp luật được xác định theo pháp luật của nước nơi thực hiện việc chiếm hữu, sử dụng tài sản hoặc nơi phát sinh lợi ích được hưởng mà không có căn cứ pháp luật.</ANSWER>
+            <ANSWER>Nghĩa vụ hoàn trả tài sản do chiếm hữu, sử dụng hoặc hưởng lợi một cách bất hợp pháp sẽ được xác định theo luật pháp của quốc gia nơi hành vi chiếm hữu, sử dụng tài sản đó diễn ra, hoặc nơi lợi ích bất hợp pháp phát sinh.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="686">
+        <QUESTIONS>
+            <QUESTION>Nếu tự ý làm việc giúp người khác ở nước ngoài thì áp dụng luật nào?</QUESTION>
+            <QUESTION>Việc thực hiện công việc không có ủy quyền có yếu tố nước ngoài thì áp dụng luật nào?</QUESTION>
+            <QUESTION>Pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 686 Bộ luật Dân sự 2015, các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền. Trường hợp không có thỏa thuận thì pháp luật áp dụng là pháp luật của nước nơi thực hiện công việc không có ủy quyền.</ANSWER>
+            <ANSWER>Các bên liên quan có thể thỏa thuận lựa chọn luật áp dụng cho việc thực hiện một công việc mà không có ủy quyền trước đó. Nếu không có thỏa thuận nào, thì luật pháp của quốc gia nơi công việc đó được thực hiện sẽ được áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="687">
+        <QUESTIONS>
+            <QUESTION>Nếu gây thiệt hại cho người khác ngoài hợp đồng thì áp dụng luật nào?</QUESTION>
+            <QUESTION>Nếu gây tai nạn cho người khác ở nước ngoài thì theo luật nào?</QUESTION>
+            <QUESTION>Bồi thường thiệt hại ngoài hợp đồng được xác định theo pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 687 Bộ luật Dân sự 2015, các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc bồi thường thiệt hại ngoài hợp đồng, trừ trường hợp quy định tại khoản 2 Điều này. Trường hợp không có thỏa thuận thì pháp luật của nước nơi phát sinh hậu quả của sự kiện gây thiệt hại được áp dụng.</ANSWER>
+            <ANSWER clause='1'>Các bên liên quan có quyền thỏa thuận lựa chọn luật áp dụng cho việc bồi thường thiệt hại phát sinh ngoài hợp đồng, trừ trường hợp được quy định tại khoản 2 của Điều này. Nếu không có thỏa thuận, luật pháp của quốc gia nơi hậu quả của hành vi gây thiệt hại xảy ra sẽ được áp dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="687">
+        <QUESTIONS>
+            <QUESTION>Nếu cả người gây thiệt hại và người bị thiệt hại đều ở cùng một nước thì sao?</QUESTION>
+            <QUESTION>Nếu cả hai người trong vụ tai nạn đều là người Việt Nam thì áp dụng luật nào?</QUESTION>
+            <QUESTION>Trường hợp bên gây thiệt hại và bên bị thiệt hại có nơi cư trú hoặc nơi thành lập tại cùng một nước thì pháp luật nào được áp dụng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 687 Bộ luật Dân sự 2015, trường hợp bên gây thiệt hại và bên bị thiệt hại có nơi cư trú (đối với cá nhân) hoặc nơi thành lập (đối với pháp nhân) tại cùng một nước thì pháp luật của nước đó được áp dụng.</ANSWER>
+            <ANSWER clause='2'>Nếu cả người gây ra thiệt hại và người bị thiệt hại đều cư trú (nếu là cá nhân) hoặc có trụ sở (nếu là pháp nhân) tại cùng một quốc gia, thì luật pháp của quốc gia đó sẽ được áp dụng để giải quyết vấn đề bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="688">
+        <QUESTIONS>
+            <QUESTION>Các giao dịch dân sự cũ thì áp dụng luật nào?</QUESTION>
+            <QUESTION>Nếu đã ký hợp đồng trước khi có luật mới thì giải quyết theo luật nào?</QUESTION>
+            <QUESTION>Điều khoản chuyển tiếp về áp dụng pháp luật đối với giao dịch dân sự được xác lập trước ngày Bộ luật này có hiệu lực được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 688 Bộ luật Dân sự 2015, đối với giao dịch dân sự được xác lập trước ngày Bộ luật này có hiệu lực thì việc áp dụng pháp luật được quy định chi tiết tại các điểm a, b, c, d của khoản này, liên quan đến việc giao dịch đã thực hiện xong hay chưa, nội dung và hình thức có phù hợp với quy định của Bộ luật này hay không.</ANSWER>
+            <ANSWER clause='1'>Việc áp dụng luật đối với các giao dịch dân sự được thiết lập trước ngày Bộ luật Dân sự 2015 có hiệu lực được quy định chi tiết trong các điểm a, b, c, d của khoản này, tùy thuộc vào việc giao dịch đã hoàn thành hay chưa, và nội dung, hình thức của giao dịch có phù hợp với quy định của Bộ luật Dân sự 2015 hay không.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="688">
+        <QUESTIONS>
+            <QUESTION>Có được dùng luật mới để xem xét lại các vụ án đã xử theo luật cũ không?</QUESTION>
+            <QUESTION>Có được dùng Bộ luật Dân sự 2015 để kháng nghị các bản án đã có hiệu lực trước đó không?</QUESTION>
+            <QUESTION>Việc áp dụng Bộ luật này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với vụ việc đã giải quyết trước đó được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 688 Bộ luật Dân sự 2015, không áp dụng Bộ luật này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với vụ việc mà Tòa án đã giải quyết theo quy định của pháp luật về dân sự trước ngày Bộ luật này có hiệu lực.</ANSWER>
+            <ANSWER clause='2'>Bộ luật Dân sự 2015 sẽ không được sử dụng để kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm đối với các vụ việc mà Tòa án đã giải quyết theo luật dân sự cũ trước ngày Bộ luật này có hiệu lực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="689">
+        <QUESTIONS>
+            <QUESTION>Bộ luật Dân sự 2015 có hiệu lực khi nào?</QUESTION>
+            <QUESTION>Khi nào thì Bộ luật Dân sự 2015 bắt đầu được áp dụng?</QUESTION>
+            <QUESTION>Hiệu lực thi hành của Bộ luật Dân sự 2015 được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 689 Bộ luật Dân sự 2015, Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017. Bộ luật dân sự số 33/2005/QH11 hết hiệu lực kể từ ngày Bộ luật này có hiệu lực.</ANSWER>
+            <ANSWER>Bộ luật Dân sự 2015 có hiệu lực từ ngày 01 tháng 01 năm 2017, và thay thế cho Bộ luật Dân sự số 33/2005/QH11.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

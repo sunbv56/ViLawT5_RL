@@ -1,0 +1,128 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>19</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="579">
+        <QUESTIONS>
+            <QUESTION>Nếu chiếm giữ hoặc sử dụng tài sản của người khác mà không có lý do chính đáng thì có phải trả lại không?</QUESTION>
+            <QUESTION>Chiếm đồ của người khác thì có phải trả không?</QUESTION>
+            <QUESTION>Nghĩa vụ hoàn trả tài sản chiếm giữ, sử dụng không có căn cứ pháp luật được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 579 Bộ luật Dân sự 2015, người chiếm hữu, người sử dụng tài sản của người khác mà không có căn cứ pháp luật thì phải hoàn trả cho chủ sở hữu, chủ thể có quyền khác đối với tài sản đó; nếu không tìm được chủ sở hữu, chủ thể có quyền khác đối với tài sản thì phải giao cho cơ quan nhà nước có thẩm quyền, trừ trường hợp quy định tại Điều 236 của Bộ luật này.</ANSWER>
+            <ANSWER clause='1'>Nếu bạn chiếm giữ hoặc sử dụng tài sản của người khác mà không có căn cứ pháp luật, bạn phải trả lại tài sản đó cho chủ sở hữu hoặc người có quyền khác đối với tài sản. Nếu không tìm được chủ sở hữu, bạn phải giao tài sản cho cơ quan nhà nước có thẩm quyền, trừ trường hợp quy định tại Điều 236.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="579">
+        <QUESTIONS>
+            <QUESTION>Nếu được lợi về tài sản mà làm người khác bị thiệt hại thì có phải trả lại không?</QUESTION>
+            <QUESTION>Nhặt được tiền mà không trả thì có sao không?</QUESTION>
+            <QUESTION>Nghĩa vụ hoàn trả khi được lợi về tài sản mà không có căn cứ pháp luật được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 579 Bộ luật Dân sự 2015, người được lợi về tài sản mà không có căn cứ pháp luật làm cho người khác bị thiệt hại thì phải hoàn trả khoản lợi đó cho người bị thiệt hại, trừ trường hợp quy định tại Điều 236 của Bộ luật này.</ANSWER>
+            <ANSWER clause='2'>Nếu bạn được hưởng lợi về tài sản mà không có căn cứ pháp luật và việc này gây thiệt hại cho người khác, bạn phải hoàn trả khoản lợi đó cho người bị thiệt hại, trừ trường hợp quy định tại Điều 236.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="580">
+        <QUESTIONS>
+            <QUESTION>Phải trả lại những gì khi chiếm giữ hoặc sử dụng tài sản không có căn cứ pháp luật?</QUESTION>
+            <QUESTION>Nếu chiếm đồ của người khác thì phải trả lại những gì?</QUESTION>
+            <QUESTION>Tài sản hoàn trả trong trường hợp chiếm hữu, sử dụng không có căn cứ pháp luật được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 580 Bộ luật Dân sự 2015, người chiếm hữu, người sử dụng tài sản mà không có căn cứ pháp luật phải hoàn trả toàn bộ tài sản đã thu được.</ANSWER>
+            <ANSWER clause='1'>Người chiếm giữ hoặc sử dụng tài sản mà không có căn cứ pháp luật phải trả lại toàn bộ tài sản đã chiếm giữ hoặc sử dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="580">
+        <QUESTIONS>
+            <QUESTION>Nếu tài sản hoàn trả là vật đặc định thì phải trả như thế nào?</QUESTION>
+            <QUESTION>Nếu chiếm được đồ cổ thì phải trả lại cái gì?</QUESTION>
+            <QUESTION>Việc hoàn trả vật đặc định được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 580 Bộ luật Dân sự 2015, trường hợp tài sản hoàn trả là vật đặc định thì phải hoàn trả đúng vật đó; nếu vật đặc định đó bị mất hoặc hư hỏng thì phải đền bù bằng tiền, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER clause='2'>Nếu tài sản cần trả lại là một vật cụ thể, duy nhất (vật đặc định), thì phải trả lại chính vật đó. Nếu vật đó bị mất hoặc hư hỏng, thì phải đền bù bằng tiền, trừ khi có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="580">
+        <QUESTIONS>
+            <QUESTION>Nếu tài sản hoàn trả là vật cùng loại thì phải trả như thế nào?</QUESTION>
+            <QUESTION>Nếu lấy trộm gạo thì phải trả lại gạo như thế nào?</QUESTION>
+            <QUESTION>Việc hoàn trả vật cùng loại được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Theo khoản 3 Điều 580 Bộ luật Dân sự 2015, trường hợp tài sản hoàn trả là vật cùng loại, nhưng bị mất hoặc hư hỏng thì phải trả vật cùng loại hoặc đền bù bằng tiền, trừ trường hợp có thỏa thuận khác.</ANSWER>
+            <ANSWER clause='3'>Nếu tài sản cần trả lại là vật thông thường (vật cùng loại), nhưng đã bị mất hoặc hư hỏng, thì phải trả lại vật tương tự hoặc đền bù bằng tiền, trừ khi có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="580">
+        <QUESTIONS>
+            <QUESTION>Nếu được lợi về tài sản mà không có căn cứ pháp luật thì phải trả lại như thế nào?</QUESTION>
+            <QUESTION>Nếu nhặt được tiền mà không trả thì phải trả lại như thế nào?</QUESTION>
+            <QUESTION>Việc hoàn trả khoản lợi về tài sản được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Theo khoản 4 Điều 580 Bộ luật Dân sự 2015, người được lợi về tài sản mà không có căn cứ pháp luật phải hoàn trả khoản lợi về tài sản đó cho người bị thiệt hại bằng hiện vật hoặc bằng tiền.</ANSWER>
+            <ANSWER clause='4'>Người được hưởng lợi về tài sản mà không có căn cứ pháp luật phải hoàn trả khoản lợi đó cho người bị thiệt hại bằng hiện vật hoặc bằng tiền, tùy theo tình hình cụ thể.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="581">
+        <QUESTIONS>
+            <QUESTION>Có phải trả lại cả hoa lợi, lợi tức thu được từ tài sản chiếm giữ trái phép không?</QUESTION>
+            <QUESTION>Nếu chiếm đất của người khác mà có thu hoạch thì có phải trả lại không?</QUESTION>
+            <QUESTION>Nghĩa vụ hoàn trả hoa lợi, lợi tức từ tài sản chiếm hữu, sử dụng không có căn cứ pháp luật được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo khoản 1 Điều 581 Bộ luật Dân sự 2015, người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật và không ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật.</ANSWER>
+            <ANSWER clause='1'>Người chiếm giữ, sử dụng tài sản hoặc hưởng lợi từ tài sản mà không có căn cứ pháp luật và biết rõ việc đó là không đúng (không ngay tình) thì phải trả lại toàn bộ hoa lợi, lợi tức thu được từ thời điểm bắt đầu chiếm hữu, sử dụng hoặc hưởng lợi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="581">
+        <QUESTIONS>
+            <QUESTION>Còn nếu chiếm giữ tài sản mà không biết là trái phép thì sao?</QUESTION>
+            <QUESTION>Nếu chiếm được đất nhưng không biết là đất của người khác thì có phải trả lại hoa lợi không?</QUESTION>
+            <QUESTION>Nghĩa vụ hoàn trả hoa lợi, lợi tức của người chiếm hữu ngay tình được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Theo khoản 2 Điều 581 Bộ luật Dân sự 2015, người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật nhưng ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm người đó biết hoặc phải biết việc chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, trừ trường hợp quy định tại Điều 236 của Bộ luật này.</ANSWER>
+            <ANSWER clause='2'>Nếu người chiếm giữ, sử dụng tài sản hoặc hưởng lợi từ tài sản mà không có căn cứ pháp luật nhưng không hề biết việc đó là sai (ngay tình), thì chỉ phải trả lại hoa lợi, lợi tức phát sinh kể từ thời điểm họ biết hoặc đáng lẽ phải biết về việc chiếm hữu, sử dụng hoặc hưởng lợi đó là không hợp pháp, trừ trường hợp quy định tại Điều 236.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="582">
+        <QUESTIONS>
+            <QUESTION>Nếu người chiếm giữ trái phép đã giao tài sản cho người khác thì sao?</QUESTION>
+            <QUESTION>Nếu lỡ đem đồ ăn cắp cho người khác rồi thì có phải đòi lại không?</QUESTION>
+            <QUESTION>Quyền yêu cầu người thứ ba hoàn trả tài sản chiếm giữ không có căn cứ pháp luật được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 582 Bộ luật Dân sự 2015, trường hợp người chiếm hữu, người sử dụng tài sản mà không có căn cứ pháp luật đã giao tài sản cho người thứ ba thì khi bị chủ sở hữu, chủ thể có quyền khác đối với tài sản yêu cầu hoàn trả, người thứ ba có nghĩa vụ hoàn trả tài sản đó, trừ trường hợp Bộ luật này có quy định khác; nếu tài sản đó đã được trả bằng tiền hoặc có đền bù thì người thứ ba có quyền yêu cầu người đã giao tài sản cho mình bồi thường thiệt hại.</ANSWER>
+            <ANSWER>Nếu người chiếm giữ hoặc sử dụng tài sản trái phép đã chuyển giao tài sản đó cho người thứ ba, thì khi chủ sở hữu hoặc người có quyền lợi hợp pháp yêu cầu, người thứ ba phải trả lại tài sản đó, trừ khi có quy định khác trong Bộ luật Dân sự. Nếu người thứ ba đã trả tiền hoặc có đền bù cho tài sản đó, thì họ có quyền yêu cầu người đã chuyển giao tài sản cho mình bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="583">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu có phải trả chi phí bảo quản tài sản cho người chiếm giữ ngay tình không?</QUESTION>
+            <QUESTION>Nếu lấy lại đồ từ người chiếm giữ ngay tình thì có phải trả tiền bảo quản cho họ không?</QUESTION>
+            <QUESTION>Nghĩa vụ thanh toán chi phí bảo quản, làm tăng giá trị tài sản cho người chiếm hữu ngay tình được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo Điều 583 Bộ luật Dân sự 2015, chủ sở hữu, chủ thể có quyền khác đối với tài sản, người bị thiệt hại được hoàn trả tài sản thì phải thanh toán chi phí cần thiết mà người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật nhưng ngay tình đã bỏ ra để bảo quản, làm tăng giá trị của tài sản.</ANSWER>
+            <ANSWER>Khi chủ sở hữu hoặc người có quyền lợi hợp pháp được nhận lại tài sản, họ phải thanh toán các chi phí hợp lý mà người chiếm giữ, sử dụng hoặc hưởng lợi một cách ngay tình đã bỏ ra để bảo quản hoặc làm tăng giá trị của tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

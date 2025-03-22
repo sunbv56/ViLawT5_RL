@@ -1,0 +1,99 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>6</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="101">
+        <QUESTIONS>
+            <QUESTION>Hộ gia đình, tổ hợp tác tham gia quan hệ dân sự như thế nào?</QUESTION>
+            <QUESTION>Ai là chủ thể khi hộ gia đình, tổ hợp tác tham gia giao dịch?</QUESTION>
+            <QUESTION>Việc hộ gia đình, tổ hợp tác tham gia quan hệ dân sự được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Thành viên hộ gia đình, tổ hợp tác tham gia giao dịch trực tiếp hoặc ủy quyền (bằng văn bản, trừ khi có thỏa thuận khác) cho người đại diện; nếu không được ủy quyền thì tự chịu trách nhiệm với giao dịch của mình; trường hợp hộ gia đình sử dụng đất thì theo Luật Đất đai.</ANSWER>
+            <ANSWER>Thành viên tham gia hoặc ủy quyền cho người đại diện; không được ủy quyền thì tự chịu trách nhiệm; hộ gia đình sử dụng đất: theo Luật Đất đai.</ANSWER>
+            <ANSWER>Theo Điều 101 Bộ luật Dân sự 2015, thành viên hộ gia đình, tổ hợp tác tham gia giao dịch trực tiếp hoặc ủy quyền (phải bằng văn bản, trừ trường hợp thỏa thuận khác) cho người đại diện. Nếu thành viên không được ủy quyền mà tự ý giao dịch thì tự chịu trách nhiệm. Trường hợp hộ gia đình sử dụng đất thì theo Luật Đất đai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="101">
+        <QUESTIONS>
+            <QUESTION>Đối với hộ gia đình sử dụng đất, ai là chủ thể trong quan hệ dân sự?</QUESTION>
+            <QUESTION>Trường hợp hộ gia đình sử dụng đất, việc xác định chủ thể tham gia quan hệ dân sự được quy định như thế nào?</QUESTION>
+            <QUESTION>Ai đại diện cho hộ gia đình sử dụng đất tham gia giao dịch?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xác định chủ thể của quan hệ dân sự có sự tham gia của hộ gia đình sử dụng đất được thực hiện theo quy định của Luật Đất đai.</ANSWER>
+            <ANSWER clause='2'>Theo Luật Đất đai.</ANSWER>
+            <ANSWER clause='2'>Theo khoản 2 Điều 101 Bộ luật Dân sự 2015, việc xác định chủ thể của quan hệ dân sự có sự tham gia của hộ gia đình sử dụng đất được thực hiện theo quy định của Luật Đất đai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="102">
+        <QUESTIONS>
+            <QUESTION>Tài sản chung của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân được xác định như thế nào?</QUESTION>
+            <QUESTION>Tài sản chung của các thành viên được quy định ra sao?</QUESTION>
+            <QUESTION>Làm sao để xác định tài sản chung của hộ gia đình, tổ hợp tác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Tài sản chung của hộ gia đình: theo Điều 212 Bộ luật Dân sự 2015; của tổ hợp tác: theo Điều 506 Bộ luật Dân sự 2015; của tổ chức khác: theo thỏa thuận, trừ khi luật khác quy định.</ANSWER>
+            <ANSWER>Hộ gia đình: Điều 212 Bộ luật Dân sự 2015; Tổ hợp tác: Điều 506 Bộ luật Dân sự 2015; Tổ chức khác: theo thỏa thuận (hoặc theo luật).</ANSWER>
+            <ANSWER>Theo Điều 102 Bộ luật Dân sự 2015: Tài sản chung của hộ gia đình được xác định theo Điều 212 của Bộ luật này; của tổ hợp tác theo Điều 506; của tổ chức khác theo thỏa thuận (trừ khi có luật khác quy định).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="103">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm dân sự của thành viên hộ gia đình, tổ hợp tác được quy định như thế nào?</QUESTION>
+            <QUESTION>Thành viên hộ gia đình, tổ hợp tác chịu trách nhiệm gì khi tham gia giao dịch?</QUESTION>
+            <QUESTION>Ai chịu trách nhiệm về các nghĩa vụ dân sự của hộ gia đình, tổ hợp tác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nghĩa vụ dân sự được bảo đảm bằng tài sản chung; nếu không đủ tài sản chung thì thực hiện theo Điều 288 Bộ luật Dân sự 2015; nếu không có thỏa thuận khác thì các thành viên chịu trách nhiệm theo phần đóng góp, hoặc chia đều nếu không xác định được phần đóng góp.</ANSWER>
+            <ANSWER>Bảo đảm bằng tài sản chung; thiếu thì theo Điều 288 Bộ luật Dân sự 2015; không có thỏa thuận khác: chịu theo phần góp hoặc chia đều.</ANSWER>
+            <ANSWER>Theo Điều 103 Bộ luật Dân sự 2015, nghĩa vụ dân sự được bảo đảm bằng tài sản chung. Nếu không đủ tài sản chung, thực hiện theo Điều 288 của Bộ luật này. Nếu không có thỏa thuận khác, thành viên chịu trách nhiệm theo phần đóng góp, hoặc chia đều nếu không xác định được phần đóng góp.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="103">
+        <QUESTIONS>
+            <QUESTION>Nếu hộ gia đình, tổ hợp tác không đủ tài sản chung để thực hiện nghĩa vụ thì sao?</QUESTION>
+            <QUESTION>Trường hợp không đủ tài sản chung để trả nợ, các thành viên phải làm gì?</QUESTION>
+            <QUESTION>Khi tài sản chung không đủ để thực hiện nghĩa vụ, trách nhiệm của các thành viên được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Nếu không đủ tài sản chung, các thành viên phải thực hiện nghĩa vụ theo Điều 288 Bộ luật Dân sự 2015.</ANSWER>
+            <ANSWER clause="2">Thực hiện nghĩa vụ theo Điều 288 Bộ luật Dân sự 2015.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 103 Bộ luật Dân sự 2015, nếu không có hoặc không đủ tài sản chung thì người có quyền có thể yêu cầu các thành viên thực hiện nghĩa vụ theo Điều 288 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="104">
+        <QUESTIONS>
+            <QUESTION>Nếu thành viên không có quyền đại diện hoặc vượt quá phạm vi đại diện mà thực hiện giao dịch thì sao?</QUESTION>
+            <QUESTION>Giao dịch do người không có quyền đại diện thực hiện có hiệu lực không?</QUESTION>
+            <QUESTION>Hậu quả pháp lý của việc giao dịch vượt quá thẩm quyền là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nếu thành viên không có quyền đại diện hoặc vượt quá quyền mà giao dịch thì hậu quả theo Điều 130, 142, 143 Bộ luật Dân sự 2015; nếu gây thiệt hại thì phải bồi thường.</ANSWER>
+            <ANSWER>Giao dịch không đúng thẩm quyền: theo Điều 130, 142, 143 Bộ luật Dân sự 2015; gây thiệt hại: phải bồi thường.</ANSWER>
+            <ANSWER>Theo Điều 104 Bộ luật Dân sự 2015, nếu thành viên không có quyền đại diện hoặc vượt quá quyền mà giao dịch thì hậu quả được áp dụng theo Điều 130, 142 và 143 của Bộ luật này. Nếu gây thiệt hại thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="104">
+        <QUESTIONS>
+            <QUESTION>Nếu giao dịch do người không có quyền đại diện thực hiện gây thiệt hại thì ai phải bồi thường?</QUESTION>
+            <QUESTION>Trường hợp giao dịch vượt quá thẩm quyền gây thiệt hại, trách nhiệm bồi thường thuộc về ai?</QUESTION>
+            <QUESTION>Ai phải chịu trách nhiệm về thiệt hại do giao dịch không hợp lệ gây ra?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Người thực hiện giao dịch không có quyền đại diện hoặc vượt quá phạm vi đại diện phải bồi thường thiệt hại.</ANSWER>
+            <ANSWER clause="2">Người giao dịch không đúng thẩm quyền phải bồi thường.</ANSWER>
+            <ANSWER clause="2">Theo khoản 2 Điều 104 Bộ luật Dân sự 2015, bên không có quyền đại diện hoặc vượt quá phạm vi đại diện mà xác lập, thực hiện giao dịch gây thiệt hại thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

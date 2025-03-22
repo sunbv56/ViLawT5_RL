@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>23</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <!-- ARTICLE 649 -->
+    <CONVERSATION id='1' article="649">
+        <QUESTIONS>
+        <QUESTION>Thừa kế theo pháp luật được định nghĩa như thế nào trong Bộ luật Dân sự?</QUESTION>
+        <QUESTION>Khái niệm thừa kế theo pháp luật được hiểu như thế nào?</QUESTION>
+        <QUESTION>Việc chia thừa kế theo pháp luật dựa trên những yếu tố nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+    <ANSWER>quy định thừa kế theo pháp luật là thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định.</ANSWER>
+    <ANSWER>quy định thừa kế theo pháp luật là thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định.</ANSWER>
+    <ANSWER>quy định thừa kế theo pháp luật là thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định. Như vậy, thừa kế theo pháp luật hoàn toàn dựa trên các quy định của pháp luật về hàng thừa kế, điều kiện và trình tự hưởng thừa kế, không phụ thuộc vào ý chí của người để lại di sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 650 -->
+    <CONVERSATION id='2' article="650">
+        <QUESTIONS>
+        <QUESTION>Bộ luật Dân sự quy định những trường hợp nào thì áp dụng thừa kế theo pháp luật?</QUESTION>
+        <QUESTION>Khi nào thì di sản được chia thừa kế theo quy định của pháp luật?</QUESTION>
+        <QUESTION>Những phần di sản nào sẽ được chia theo quy định của pháp luật?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+    <ANSWER>quy định thừa kế theo pháp luật được áp dụng trong trường hợp không có di chúc, di chúc không hợp pháp, người thừa kế theo di chúc chết trước hoặc cùng thời điểm với người lập di chúc, hoặc người được chỉ định thừa kế không có quyền hưởng hoặc từ chối nhận di sản. Ngoài ra, phần di sản không được định đoạt trong di chúc, phần di sản liên quan đến phần di chúc không có hiệu lực, phần di sản liên quan đến người thừa kế theo di chúc không có quyền hưởng, từ chối, chết trước hoặc cùng thời điểm với người lập di chúc, hoặc cơ quan, tổ chức không còn tồn tại cũng được chia theo pháp luật.</ANSWER>
+    <ANSWER>quy định thừa kế theo pháp luật được áp dụng trong trường hợp sau đây: a) Không có di chúc; b) Di chúc không hợp pháp; c) Những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế; d) Những người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản. Thừa kế theo pháp luật cũng được áp dụng đối với các phần di sản sau đây: a) Phần di sản không được định đoạt trong di chúc; b) Phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật; c) Phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế.</ANSWER>
+    <ANSWER>quy định: 1. Thừa kế theo pháp luật được áp dụng trong trường hợp sau đây: a) Không có di chúc; b) Di chúc không hợp pháp; c) Những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế; d) Những người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản. 2. Thừa kế theo pháp luật cũng được áp dụng đối với các phần di sản sau đây: a) Phần di sản không được định đoạt trong di chúc; b) Phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật; c) Phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế. Như vậy, Điều 650 đã liệt kê rất chi tiết các trường hợp và các phần di sản cụ thể sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="650" clause="1">
+        <QUESTIONS>
+        <QUESTION>Những trường hợp nào dẫn đến việc chia di sản thừa kế theo quy định của pháp luật?</QUESTION>
+        <QUESTION>Nếu không có di chúc thì di sản sẽ được chia như thế nào?</QUESTION>
+        <QUESTION>Nếu người thừa kế theo di chúc chết trước người lập di chúc thì di sản có được chia theo pháp luật không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+        <ANSWER clause="1">quy định thừa kế theo pháp luật được áp dụng trong các trường hợp: không có di chúc; di chúc không hợp pháp; người thừa kế theo di chúc chết trước hoặc cùng thời điểm với người lập di chúc, hoặc cơ quan, tổ chức không còn tồn tại; người được chỉ định thừa kế không có quyền hưởng hoặc từ chối nhận di sản.</ANSWER>
+        <ANSWER clause="1">quy định thừa kế theo pháp luật được áp dụng trong trường hợp sau đây: a) Không có di chúc; b) Di chúc không hợp pháp; c) Những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế; d) Những người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản.</ANSWER>
+        <ANSWER clause="1">quy định thừa kế theo pháp luật được áp dụng trong trường hợp sau đây: a) Không có di chúc; b) Di chúc không hợp pháp; c) Những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế; d) Những người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản. Như vậy, nếu không có di chúc, di chúc không hợp pháp, hoặc có các vấn đề liên quan đến người thừa kế theo di chúc thì di sản sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="650" clause="1" point="a">
+        <QUESTIONS>
+        <QUESTION>Khi một người qua đời mà không để lại di chúc, việc chia di sản thừa kế sẽ được thực hiện như thế nào?</QUESTION>
+        <QUESTION>Nếu không có di chúc, di sản của người chết sẽ được chia theo hình thức nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1" point="a">quy định không có di chúc thì di sản được chia theo pháp luật.</ANSWER>
+            <ANSWER clause="1" point="a">quy định thừa kế theo pháp luật được áp dụng trong trường hợp không có di chúc.</ANSWER>
+            <ANSWER clause="1" point="a">quy định thừa kế theo pháp luật được áp dụng trong trường hợp không có di chúc. Tức là nếu một người chết mà không để lại di chúc, di sản của họ sẽ được chia theo quy định của pháp luật về hàng thừa kế, điều kiện và trình tự thừa kế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="650" clause="1" point="b">
+        <QUESTIONS>
+        <QUESTION>Nếu di chúc được lập không đúng quy định của pháp luật thì việc chia di sản thừa kế sẽ như thế nào?</QUESTION>
+        <QUESTION>Di chúc không hợp pháp thì di sản có được chia theo di chúc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1" point="b">quy định di chúc không hợp pháp thì di sản được chia theo pháp luật.</ANSWER>
+            <ANSWER clause="1" point="b">quy định thừa kế theo pháp luật được áp dụng trong trường hợp di chúc không hợp pháp.</ANSWER>
+            <ANSWER clause="1" point="b">quy định thừa kế theo pháp luật được áp dụng trong trường hợp di chúc không hợp pháp. Tức là, nếu di chúc không đáp ứng các điều kiện về hình thức và nội dung do pháp luật quy định, di chúc đó sẽ không có hiệu lực và di sản sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="650" clause="1" point="c">
+        <QUESTIONS>
+        <QUESTION>Nếu người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc thì việc chia di sản sẽ như thế nào?</QUESTION>
+        <QUESTION>Trường hợp người thừa kế theo di chúc không còn sống vào thời điểm mở thừa kế thì di sản được giải quyết ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1" point="c">quy định thừa kế theo pháp luật được áp dụng nếu những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế.</ANSWER>
+            <ANSWER clause="1" point="c">quy định thừa kế theo pháp luật được áp dụng trong trường hợp những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế.</ANSWER>
+            <ANSWER clause="1" point="c">quy định thừa kế theo pháp luật được áp dụng trong trường hợp những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế. Trong trường hợp này, coi như không có người hoặc tổ chức nào được hưởng di sản theo di chúc, do đó di sản sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id='7' article="650" clause="1" point="d">
+        <QUESTIONS>
+        <QUESTION>Trường hợp người được chỉ định thừa kế theo di chúc nhưng không được hưởng di sản hoặc từ chối nhận di sản thì sao?</QUESTION>
+        <QUESTION>Nếu người thừa kế theo di chúc không có quyền hưởng di sản hoặc từ chối di sản thì di sản có được chia theo di chúc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1" point="d">quy định người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản thì sẽ chia theo pháp luật.</ANSWER>
+            <ANSWER clause="1" point="d">quy định thừa kế theo pháp luật được áp dụng trong trường hợp những người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản.</ANSWER>
+            <ANSWER clause="1" point="d">quy định thừa kế theo pháp luật được áp dụng trong trường hợp những người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản. Tức là, dù có di chúc chỉ định người thừa kế, nhưng nếu người đó không có quyền hưởng (ví dụ: bị truất quyền thừa kế) hoặc từ chối nhận di sản, thì di sản vẫn sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="650" clause="2">
+        <QUESTIONS>
+        <QUESTION>Ngoài những trường hợp không có di chúc, di chúc không hợp pháp, Bộ luật Dân sự còn quy định những phần di sản nào khác cũng được chia theo pháp luật?</QUESTION>
+        <QUESTION>Nếu di chúc không định đoạt hết di sản, phần còn lại sẽ được giải quyết như thế nào?</QUESTION>
+        <QUESTION>Khi một phần của di chúc không có giá trị pháp lý, phần di sản liên quan sẽ được chia theo hình thức nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định thừa kế theo pháp luật cũng được áp dụng đối với các phần di sản sau đây: Phần di sản không được định đoạt trong di chúc; Phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật; Phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế.</ANSWER>
+            <ANSWER clause="2">quy định thừa kế theo pháp luật cũng được áp dụng đối với các phần di sản sau đây: a) Phần di sản không được định đoạt trong di chúc; b) Phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật; c) Phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế.</ANSWER>
+            <ANSWER clause="2">quy định thừa kế theo pháp luật cũng được áp dụng đối với các phần di sản sau đây: a) Phần di sản không được định đoạt trong di chúc; b) Phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật; c) Phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế. Như vậy, ngay cả khi có di chúc, vẫn có những phần di sản có thể được chia theo pháp luật nếu rơi vào các trường hợp trên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="650" clause="2" point="a">
+        <QUESTIONS>
+        <QUESTION>Nếu di chúc không định đoạt hết toàn bộ di sản, phần còn lại sẽ được xử lý như thế nào?</QUESTION>
+        <QUESTION>Phần di sản không được định đoạt trong di chúc thì xử lý ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2" point="a">quy định phần di sản không được định đoạt trong di chúc sẽ được chia theo pháp luật.</ANSWER>
+            <ANSWER clause="2" point="a">quy định phần di sản không được định đoạt trong di chúc sẽ chia theo pháp luật.</ANSWER>
+            <ANSWER clause="2" point="a">quy định phần di sản không được định đoạt trong di chúc sẽ chia theo pháp luật. Tức là, nếu người lập di chúc chỉ định đoạt một phần di sản của mình trong di chúc, phần còn lại không được nhắc đến sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="650" clause="2" point="b">
+        <QUESTIONS>
+        <QUESTION>Khi một phần của di chúc không có giá trị pháp lý, phần di sản có liên quan sẽ được chia theo hình thức nào?</QUESTION>
+        <QUESTION>Nếu một phần di chúc bị vô hiệu thì phần di sản đó sẽ được chia như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2" point="b">quy định phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật sẽ được chia theo pháp luật.</ANSWER>
+            <ANSWER clause="2" point="b">quy định phần di sản liên quan đến phần của di chúc không có hiệu lực pháp luật sẽ chia theo pháp luật.</ANSWER>
+            <ANSWER clause="2" point="b">quy định phần di sản liên quan đến phần của di chúc không có hiệu lực pháp luật sẽ chia theo pháp luật. Ví dụ, nếu một phần của di chúc bị vô hiệu do vi phạm điều cấm của luật, thì phần di sản liên quan đến phần di chúc vô hiệu đó sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="650" clause="2" point="c">
+        <QUESTIONS>
+        <QUESTION>Nếu người được thừa kế theo di chúc từ chối nhận di sản thì phần di sản đó giải quyết như thế nào?</QUESTION>
+        <QUESTION>Khi người thừa kế theo di chúc không còn sống vào thời điểm mở thừa kế, phần di sản liên quan đến họ sẽ được xử lý ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2" point="c">quy định phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế sẽ được chia theo pháp luật.</ANSWER>
+            <ANSWER clause="2" point="c">quy định phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế thì sẽ chia theo pháp luật.</ANSWER>
+            <ANSWER clause="2" point="c">quy định phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế thì sẽ chia theo pháp luật. Như vậy, dù có di chúc chỉ định người thừa kế, nhưng nếu người đó rơi vào các trường hợp trên, phần di sản liên quan đến họ vẫn sẽ được chia theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 651 -->
+    <CONVERSATION id='12' article="651">
+        <QUESTIONS>
+        <QUESTION>Bộ luật Dân sự quy định như thế nào về người thừa kế theo pháp luật?</QUESTION>
+        <QUESTION>Những ai được coi là người thừa kế theo pháp luật và thứ tự ưu tiên giữa họ như thế nào?</QUESTION>
+        <QUESTION>Nguyên tắc chia di sản cho những người thừa kế theo pháp luật được quy định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định người thừa kế theo pháp luật được chia thành ba hàng, mỗi hàng có thứ tự ưu tiên riêng và những người cùng hàng được hưởng phần di sản bằng nhau. Người ở hàng sau chỉ được hưởng nếu không còn ai ở hàng trước.</ANSWER>
+            <ANSWER>quy định người thừa kế theo pháp luật được chia thành ba hàng thừa kế theo thứ tự: hàng thứ nhất gồm vợ, chồng, cha mẹ đẻ, cha mẹ nuôi, con đẻ, con nuôi; hàng thứ hai gồm ông bà nội ngoại, anh chị em ruột, cháu ruột; hàng thứ ba gồm cụ nội ngoại, bác chú cậu cô dì ruột, cháu ruột (gọi người chết là bác, chú, cậu, cô, dì), chắt ruột. Những người thừa kế cùng hàng được hưởng phần di sản bằng nhau.</ANSWER>
+            <ANSWER>quy định: 1. Những người thừa kế theo pháp luật được quy định theo thứ tự sau đây: a) Hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết; b) Hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại; c) Hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại. 2. Những người thừa kế cùng hàng được hưởng phần di sản bằng nhau. 3. Những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu không còn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="651" clause="1">
+        <QUESTIONS>
+        <QUESTION>Những ai thuộc hàng thừa kế thứ nhất, thứ hai và thứ ba theo quy định của pháp luật?</QUESTION>
+        <QUESTION>Thứ tự các hàng thừa kế theo pháp luật được quy định như thế nào?</QUESTION>
+        <QUESTION>Mối quan hệ giữa những người thuộc các hàng thừa kế khác nhau được xác định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định hàng thừa kế thứ nhất gồm vợ, chồng, cha mẹ đẻ, cha mẹ nuôi, con đẻ, con nuôi; hàng thứ hai gồm ông bà nội ngoại, anh chị em ruột, cháu ruột; hàng thứ ba gồm cụ nội ngoại, bác chú cậu cô dì ruột, cháu ruột, chắt ruột.</ANSWER>
+            <ANSWER clause="1">quy định những người thừa kế theo pháp luật được quy định theo thứ tự sau đây: a) Hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết; b) Hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại; c) Hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại.</ANSWER>
+            <ANSWER clause="1">quy định những người thừa kế theo pháp luật được quy định theo thứ tự sau đây: a) Hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết; b) Hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại; c) Hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại. Như vậy, pháp luật chia những người thừa kế theo pháp luật thành ba hàng với thứ tự ưu tiên rõ ràng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="651" clause="1" point="a">
+    <QUESTIONS>
+        <QUESTION>Hàng thừa kế thứ nhất bao gồm những ai?</QUESTION>
+        <QUESTION>Mối quan hệ giữa cha mẹ nuôi và con nuôi với cha mẹ đẻ và con đẻ trong hàng thừa kế thứ nhất có gì khác biệt không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+            <ANSWER clause="1" point="a">quy định hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết.</ANSWER>
+            <ANSWER clause="1" point="a">quy định hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết.</ANSWER>
+            <ANSWER clause="1" point="a">quy định hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết. Như vậy, pháp luật không phân biệt giữa cha mẹ đẻ và cha mẹ nuôi, con đẻ và con nuôi trong hàng thừa kế thứ nhất, họ đều có quyền và nghĩa vụ ngang nhau.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="651" clause="1" point="b">
+    <QUESTIONS>
+        <QUESTION>Hàng thừa kế thứ hai gồm những thành viên nào trong gia đình?</QUESTION>
+        <QUESTION>Cháu ruột được xếp vào hàng thừa kế thứ hai trong trường hợp nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause="1" point="b">quy định hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại.</ANSWER>
+        <ANSWER clause="1" point="b">quy định hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại.</ANSWER>
+        <ANSWER clause="1" point="b">quy định hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại. Như vậy, cháu ruột chỉ được xếp vào hàng thừa kế thứ hai nếu người chết là ông bà nội, ông bà ngoại của cháu.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="651" clause="1" point="c">
+    <QUESTIONS>
+        <QUESTION>Hàng thừa kế thứ ba bao gồm những ai?</QUESTION>
+        <QUESTION>Mối quan hệ giữa những người thuộc hàng thừa kế thứ ba và người chết được xác định như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause="1" point="c">quy định hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại.</ANSWER>
+        <ANSWER clause="1" point="c">quy định hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại.</ANSWER>
+        <ANSWER clause="1" point="c">quy định hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại. Như vậy, hàng thừa kế thứ ba bao gồm những người có quan hệ huyết thống xa hơn so với hàng thừa kế thứ nhất và thứ hai.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="651" clause="2">
+    <QUESTIONS>
+        <QUESTION>Những người thừa kế cùng một hàng sẽ được hưởng phần di sản như thế nào?</QUESTION>
+        <QUESTION>Nguyên tắc chia di sản cho những người cùng hàng thừa kế là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause="2">quy định những người thừa kế cùng hàng được hưởng phần di sản bằng nhau.</ANSWER>
+        <ANSWER clause="2">quy định những người thừa kế cùng hàng được hưởng phần di sản bằng nhau.</ANSWER>
+        <ANSWER clause="2">quy định những người thừa kế cùng hàng được hưởng phần di sản bằng nhau. Như vậy, pháp luật quy định nguyên tắc chia đều di sản cho những người cùng một hàng thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="651" clause="3">
+    <QUESTIONS>
+        <QUESTION>Khi nào thì những người ở hàng thừa kế sau mới được hưởng thừa kế?</QUESTION>
+        <QUESTION>Điều kiện để người ở hàng thừa kế sau được hưởng di sản là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause="3">quy định những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu không còn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản.</ANSWER>
+        <ANSWER clause="3">quy định những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu không còn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản.</ANSWER>
+        <ANSWER clause="3">quy định những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu không còn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản. Như vậy, chỉ khi không còn ai ở hàng thừa kế trước (do đã chết, không có quyền hưởng, bị truất quyền hoặc từ chối nhận di sản) thì những người ở hàng thừa kế sau mới được hưởng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 652 -->
+    <CONVERSATION id='19' article="652">
+        <QUESTIONS>
+            <QUESTION>Thừa kế thế vị là gì?</QUESTION>
+            <QUESTION>Khi nào thì cháu, chắt được hưởng thừa kế thế vị?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định thừa kế thế vị là trường hợp cháu được hưởng phần di sản mà cha hoặc mẹ của cháu được hưởng nếu còn sống, và chắt được hưởng phần di sản mà cha hoặc mẹ của chắt được hưởng nếu còn sống.</ANSWER>
+            <ANSWER>quy định trường hợp con của người để lại di sản chết trước hoặc cùng một thời điểm với người để lại di sản thì cháu được hưởng phần di sản mà cha hoặc mẹ của cháu được hưởng nếu còn sống; nếu cháu cũng chết trước hoặc cùng một thời điểm với người để lại di sản thì chắt được hưởng phần di sản mà cha hoặc mẹ của chắt được hưởng nếu còn sống.</ANSWER>
+            <ANSWER>quy định trường hợp con của người để lại di sản chết trước hoặc cùng một thời điểm với người để lại di sản thì cháu được hưởng phần di sản mà cha hoặc mẹ của cháu được hưởng nếu còn sống; nếu cháu cũng chết trước hoặc cùng một thời điểm với người để lại di sản thì chắt được hưởng phần di sản mà cha hoặc mẹ của chắt được hưởng nếu còn sống. Như vậy, thừa kế thế vị là một trường hợp đặc biệt, cho phép cháu hoặc chắt được hưởng phần di sản mà đáng lẽ cha, mẹ của họ được hưởng nếu còn sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 653 -->
+    <CONVERSATION id='20' article="653">
+        <QUESTIONS>
+            <QUESTION>Pháp luật quy định như thế nào về quan hệ thừa kế giữa con nuôi và cha nuôi, mẹ nuôi?</QUESTION>
+            <QUESTION>Con nuôi có được thừa kế di sản của cha nuôi, mẹ nuôi không?</QUESTION>
+            <QUESTION>Ngoài việc được thừa kế di sản của cha nuôi, mẹ nuôi, con nuôi còn có quyền thừa kế nào khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định con nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định về thừa kế theo pháp luật và thừa kế thế vị.</ANSWER>
+            <ANSWER>quy định con nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định tại Điều 651 và Điều 652 của Bộ luật này.</ANSWER>
+            <ANSWER>quy định con nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định tại Điều 651 (về người thừa kế theo pháp luật) và Điều 652 (về thừa kế thế vị) của Bộ luật này. Như vậy, con nuôi có đầy đủ quyền thừa kế như con đẻ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 654 -->
+    <CONVERSATION id='21' article="654">
+        <QUESTIONS>
+            <QUESTION>Pháp luật quy định như thế nào về quan hệ thừa kế giữa con riêng và bố dượng, mẹ kế?</QUESTION>
+            <QUESTION>Khi nào thì con riêng và bố dượng, mẹ kế được thừa kế di sản của nhau?</QUESTION>
+            <QUESTION>Ngoài việc được thừa kế di sản của bố dượng, mẹ kế, con riêng còn có quyền thừa kế nào khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định con riêng và bố dượng, mẹ kế được thừa kế di sản của nhau nếu có quan hệ chăm sóc, nuôi dưỡng nhau như cha con, mẹ con và còn được thừa kế di sản theo quy định về thừa kế thế vị và quan hệ thừa kế giữa con nuôi và cha mẹ nuôi.</ANSWER>
+            <ANSWER>quy định con riêng và bố dượng, mẹ kế nếu có quan hệ chăm sóc, nuôi dưỡng nhau như cha con, mẹ con thì được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định tại Điều 652 và Điều 653 của Bộ luật này.</ANSWER>
+            <ANSWER>quy định con riêng và bố dượng, mẹ kế nếu có quan hệ chăm sóc, nuôi dưỡng nhau như cha con, mẹ con thì được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định tại Điều 652 (về thừa kế thế vị) và Điều 653 (về quan hệ thừa kế giữa con nuôi và cha nuôi, mẹ nuôi) của Bộ luật này. Như vậy, điều kiện để con riêng và bố dượng, mẹ kế được thừa kế di sản của nhau là phải có quan hệ chăm sóc, nuôi dưỡng nhau như cha con, mẹ con.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 655 -->
+    <CONVERSATION id='22' article="655">
+        <QUESTIONS>
+            <QUESTION>Bộ luật Dân sự quy định như thế nào về việc thừa kế trong trường hợp vợ, chồng đã chia tài sản chung, đang xin ly hôn hoặc đã kết hôn với người khác?</QUESTION>
+            <QUESTION>Quyền thừa kế của vợ, chồng trong các trường hợp đã chia tài sản chung, đang xin ly hôn, hoặc đã kết hôn với người khác được pháp luật quy định ra sao?</QUESTION>
+            <QUESTION>Trong các trường hợp đặc biệt liên quan đến quan hệ hôn nhân, việc thừa kế di sản của vợ, chồng được giải quyết như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định việc thừa kế trong các trường hợp vợ, chồng đã chia tài sản chung, đang xin ly hôn mà chưa có quyết định ly hôn có hiệu lực, hoặc đã kết hôn với người khác sau khi vợ/chồng chết, thì người vợ/chồng còn sống vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER>quy định: 1. Trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản. 2. Trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được Tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản. 3. Người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER>quy định: 1. Trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản. 2. Trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được Tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản. 3. Người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản. Như vậy, quyền thừa kế của vợ, chồng vẫn được bảo đảm trong các trường hợp này, không phụ thuộc vào việc đã chia tài sản chung, đang xin ly hôn hay đã kết hôn với người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="655" clause="1">
+        <QUESTIONS>
+            <QUESTION>Nếu vợ chồng đã chia tài sản chung trong thời kỳ hôn nhân, sau đó một người chết thì người còn sống có được thừa kế di sản không?</QUESTION>
+            <QUESTION>Việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân có ảnh hưởng đến quyền thừa kế của người còn sống khi người kia chết không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER clause="1">quy định trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER clause="1">quy định trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản. Việc chia tài sản chung trong thời kỳ hôn nhân không làm ảnh hưởng đến quyền thừa kế của người còn sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="655" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu vợ chồng đang xin ly hôn mà một người chết thì người còn sống có được thừa kế di sản không?</QUESTION>
+            <QUESTION>Trong trường hợp Tòa án đã có quyết định cho ly hôn nhưng chưa có hiệu lực, nếu một người chết thì người còn sống có được thừa kế không?</QUESTION>
+            <QUESTION>Quyết định ly hôn của Tòa án có ảnh hưởng đến quyền thừa kế của vợ, chồng trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được Tòa án cho ly hôn nhưng chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER clause="2">quy định trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được Tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER clause="2">quy định trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được Tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản. Như vậy, chỉ khi quyết định ly hôn của Tòa án có hiệu lực pháp luật thì quan hệ hôn nhân mới chấm dứt và ảnh hưởng đến quyền thừa kế. Còn trong các trường hợp đang xin ly hôn hoặc quyết định ly hôn chưa có hiệu lực, quyền thừa kế của vợ, chồng vẫn được bảo đảm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="655" clause="3">
+        <QUESTIONS>
+            <QUESTION>Nếu một người đã kết hôn với người khác sau khi vợ/chồng của họ chết, họ có còn được thừa kế di sản của người vợ/chồng đã chết không?</QUESTION>
+            <QUESTION>Việc tái hôn có ảnh hưởng đến quyền thừa kế di sản của người vợ/chồng đã chết không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">quy định người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER clause="3">quy định người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản.</ANSWER>
+            <ANSWER clause="3">quy định người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản. Như vậy, việc một người tái hôn sau khi vợ/chồng của họ qua đời không làm ảnh hưởng đến quyền thừa kế di sản của người vợ/chồng đã chết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+</CIVIL-CODE>

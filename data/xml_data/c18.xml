@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>18</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <!-- ARTICLE 574 -->
+    <CONVERSATION id='1' article="574">
+        <QUESTIONS>
+            <QUESTION>Thực hiện công việc không có ủy quyền được định nghĩa như thế nào trong Bộ luật Dân sự?</QUESTION>
+            <QUESTION>Khi nào thì một người được coi là thực hiện công việc không có ủy quyền?</QUESTION>
+            <QUESTION>Yếu tố nào là quan trọng để xác định một hành động là thực hiện công việc không có ủy quyền?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định thực hiện công việc không có ủy quyền là việc một người tự nguyện thực hiện công việc mà không có nghĩa vụ, vì lợi ích của người khác khi người này không biết hoặc biết mà không phản đối.</ANSWER>
+            <ANSWER>quy định thực hiện công việc không có ủy quyền là việc một người không có nghĩa vụ thực hiện công việc nhưng đã tự nguyện thực hiện công việc đó vì lợi ích của người có công việc được thực hiện.</ANSWER>
+            <ANSWER>quy định thực hiện công việc không có ủy quyền là việc một người không có nghĩa vụ thực hiện công việc nhưng đã tự nguyện thực hiện công việc đó vì lợi ích của người có công việc được thực hiện khi người này không biết hoặc biết mà không phản đối. Như vậy, yếu tố quan trọng để xác định là người thực hiện không có nghĩa vụ, thực hiện công việc một cách tự nguyện, vì lợi ích của người khác và người có công việc không biết hoặc không phản đối.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 575 -->
+    <CONVERSATION id='2' article="575">
+        <QUESTIONS>
+            <QUESTION>Bộ luật Dân sự quy định như thế nào về nghĩa vụ của người thực hiện công việc không có ủy quyền?</QUESTION>
+            <QUESTION>Người thực hiện công việc không có ủy quyền có những nghĩa vụ cụ thể gì?</QUESTION>
+            <QUESTION>Trong trường hợp người có công việc được thực hiện chết hoặc chấm dứt tồn tại, người thực hiện công việc không có ủy quyền phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định người thực hiện công việc không có ủy quyền có nghĩa vụ thực hiện công việc phù hợp với khả năng, điều kiện của mình, như công việc của chính mình và phù hợp với ý định của người có công việc (nếu biết); phải báo cáo về quá trình, kết quả thực hiện công việc; tiếp tục thực hiện công việc cho đến khi người thừa kế hoặc người đại diện tiếp nhận; báo cho người có công việc, người đại diện hoặc người thân thích nếu không thể tiếp tục.</ANSWER>
+            <ANSWER>quy định người thực hiện công việc không có ủy quyền có các nghĩa vụ sau: Thực hiện công việc phù hợp với khả năng, điều kiện của mình; Thực hiện công việc như công việc của chính mình và phù hợp với ý định của người có công việc (nếu biết); Báo cho người có công việc được thực hiện về quá trình, kết quả thực hiện công việc; Tiếp tục thực hiện công việc trong trường hợp người có công việc chết hoặc chấm dứt tồn tại; Báo cho người có công việc, người đại diện hoặc người thân thích nếu không thể tiếp tục công việc.</ANSWER>
+            <ANSWER>quy định: 1. Người thực hiện công việc không có ủy quyền có nghĩa vụ thực hiện công việc phù hợp với khả năng, điều kiện của mình. 2. Người thực hiện công việc không có ủy quyền phải thực hiện công việc như công việc của chính mình; nếu biết hoặc đoán biết được ý định của người có công việc thì phải thực hiện công việc phù hợp với ý định đó. 3. Người thực hiện công việc không có ủy quyền phải báo cho người có công việc được thực hiện về quá trình, kết quả thực hiện công việc nếu có yêu cầu, trừ trường hợp người có công việc đã biết hoặc người thực hiện công việc không có ủy quyền không biết nơi cư trú hoặc trụ sở của người đó. 4. Trường hợp người có công việc được thực hiện chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân thì người thực hiện công việc không có ủy quyền phải tiếp tục thực hiện công việc cho đến khi người thừa kế hoặc người đại diện của người có công việc được thực hiện đã tiếp nhận. 5. Trường hợp có lý do chính đáng mà người thực hiện công việc không có ủy quyền không thể tiếp tục đảm nhận công việc thì phải báo cho người có công việc được thực hiện, người đại diện hoặc người thân thích của người này hoặc có thể nhờ người khác thay mình đảm nhận việc thực hiện công việc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="575" clause="1">
+        <QUESTIONS>
+            <QUESTION>Người thực hiện công việc không có ủy quyền cần thực hiện công việc đó như thế nào?</QUESTION>
+            <QUESTION>Mức độ nỗ lực mà người thực hiện công việc không có ủy quyền cần bỏ ra được quy định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định người thực hiện công việc không có ủy quyền có nghĩa vụ thực hiện công việc phù hợp với khả năng, điều kiện của mình.</ANSWER>
+            <ANSWER clause="1">quy định người thực hiện công việc không có ủy quyền có nghĩa vụ thực hiện công việc phù hợp với khả năng, điều kiện của mình. Như vậy, người thực hiện không bị buộc phải thực hiện công việc vượt quá khả năng hoặc điều kiện thực tế của họ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="575" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khi thực hiện công việc không có ủy quyền, một người cần phải quan tâm đến những yếu tố nào?</QUESTION>
+            <QUESTION>Nếu biết được ý định của người có công việc, người thực hiện công việc không có ủy quyền phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định người thực hiện công việc không có ủy quyền phải thực hiện công việc như công việc của chính mình; nếu biết hoặc đoán biết được ý định của người có công việc thì phải thực hiện công việc phù hợp với ý định đó.</ANSWER>
+            <ANSWER clause="2">quy định người thực hiện công việc không có ủy quyền phải thực hiện công việc như công việc của chính mình; nếu biết hoặc đoán biết được ý định của người có công việc thì phải thực hiện công việc phù hợp với ý định đó. Như vậy, người thực hiện không chỉ cần làm việc một cách cẩn trọng mà còn phải cố gắng thực hiện công việc theo đúng mong muốn của người có công việc, nếu biết được mong muốn đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="575" clause="3">
+        <QUESTIONS>
+            <QUESTION>Người thực hiện công việc không có ủy quyền có nghĩa vụ thông tin gì đối với người có công việc được thực hiện?</QUESTION>
+            <QUESTION>Khi nào thì người thực hiện công việc không có ủy quyền không cần phải báo cáo cho người có công việc?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">quy định người thực hiện công việc không có ủy quyền phải báo cho người có công việc được thực hiện về quá trình, kết quả thực hiện công việc nếu có yêu cầu, trừ trường hợp người có công việc đã biết hoặc không biết thông tin liên lạc của người đó.</ANSWER>
+            <ANSWER clause="3">quy định người thực hiện công việc không có ủy quyền phải báo cho người có công việc được thực hiện về quá trình, kết quả thực hiện công việc nếu có yêu cầu, trừ trường hợp người có công việc đã biết hoặc người thực hiện công việc không có ủy quyền không biết nơi cư trú hoặc trụ sở của người đó.</ANSWER>
+            <ANSWER clause="3">quy định người thực hiện công việc không có ủy quyền phải báo cho người có công việc được thực hiện về quá trình, kết quả thực hiện công việc nếu có yêu cầu, trừ trường hợp người có công việc đã biết hoặc người thực hiện công việc không có ủy quyền không biết nơi cư trú hoặc trụ sở của người đó. Như vậy, nghĩa vụ báo cáo chỉ phát sinh khi người có công việc yêu cầu, hoặc trong trường hợp người thực hiện không thể liên lạc được với người có công việc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="575" clause="4">
+        <QUESTIONS>
+            <QUESTION>Nếu người có công việc được thực hiện chết hoặc chấm dứt tồn tại, người thực hiện công việc không có ủy quyền phải làm gì?</QUESTION>
+            <QUESTION>Trách nhiệm của người thực hiện công việc không có ủy quyền kết thúc khi nào trong trường hợp người có công việc chết hoặc chấm dứt tồn tại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="4">quy định trường hợp người có công việc được thực hiện chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân thì người thực hiện công việc không có ủy quyền phải tiếp tục thực hiện công việc cho đến khi người thừa kế hoặc người đại diện của người có công việc được thực hiện đã tiếp nhận.</ANSWER>
+            <ANSWER clause="4">quy định trường hợp người có công việc được thực hiện chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân thì người thực hiện công việc không có ủy quyền phải tiếp tục thực hiện công việc cho đến khi người thừa kế hoặc người đại diện của người có công việc được thực hiện đã tiếp nhận. Như vậy, trách nhiệm của người thực hiện công việc không có ủy quyền không chấm dứt ngay cả khi người có công việc chết hoặc chấm dứt tồn tại, mà vẫn tiếp tục cho đến khi có người thừa kế hoặc người đại diện hợp pháp tiếp quản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="575" clause="5">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào người thực hiện công việc không có ủy quyền có thể dừng thực hiện công việc?</QUESTION>
+            <QUESTION>Nếu không thể tiếp tục thực hiện công việc không có ủy quyền, người thực hiện cần phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="5">quy định trường hợp có lý do chính đáng mà người thực hiện công việc không có ủy quyền không thể tiếp tục đảm nhận công việc thì phải báo cho người có công việc được thực hiện, người đại diện hoặc người thân thích của người này hoặc có thể nhờ người khác thay mình đảm nhận việc thực hiện công việc.</ANSWER>
+            <ANSWER clause="5">quy định trường hợp có lý do chính đáng mà người thực hiện công việc không có ủy quyền không thể tiếp tục đảm nhận công việc thì phải báo cho người có công việc được thực hiện, người đại diện hoặc người thân thích của người này hoặc có thể nhờ người khác thay mình đảm nhận việc thực hiện công việc. Như vậy, người thực hiện công việc không có ủy quyền chỉ được dừng lại khi có lý do chính đáng và phải thông báo cho những người liên quan hoặc tìm người thay thế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 576 -->
+    <CONVERSATION id='8' article="576">
+        <QUESTIONS>
+            <QUESTION>Pháp luật dân sự quy định như thế nào về nghĩa vụ thanh toán của người có công việc được thực hiện không có ủy quyền?</QUESTION>
+            <QUESTION>Người có công việc được thực hiện không có ủy quyền có những nghĩa vụ gì đối với người đã thực hiện công việc?</QUESTION>
+            <QUESTION>Trong những trường hợp nào thì người có công việc được thực hiện phải trả thù lao cho người thực hiện công việc không có ủy quyền?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định người có công việc được thực hiện phải tiếp nhận công việc và thanh toán các chi phí hợp lý cho người thực hiện công việc không có ủy quyền, kể cả khi kết quả không như mong muốn. Ngoài ra, người có công việc còn phải trả thù lao nếu người thực hiện công việc chu đáo, có lợi, trừ khi người thực hiện từ chối.</ANSWER>
+            <ANSWER>quy định người có công việc được thực hiện phải tiếp nhận công việc khi người thực hiện công việc không có ủy quyền bàn giao công việc và thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra để thực hiện công việc, kể cả trường hợp công việc không đạt được kết quả theo ý muốn của mình. Người có công việc được thực hiện phải trả cho người thực hiện công việc không có ủy quyền một khoản thù lao khi người này thực hiện công việc chu đáo, có lợi cho mình, trừ trường hợp người thực hiện công việc không có ủy quyền từ chối.</ANSWER>
+            <ANSWER>quy định: 1. Người có công việc được thực hiện phải tiếp nhận công việc khi người thực hiện công việc không có ủy quyền bàn giao công việc và thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra để thực hiện công việc, kể cả trường hợp công việc không đạt được kết quả theo ý muốn của mình. 2. Người có công việc được thực hiện phải trả cho người thực hiện công việc không có ủy quyền một khoản thù lao khi người này thực hiện công việc chu đáo, có lợi cho mình, trừ trường hợp người thực hiện công việc không có ủy quyền từ chối. Như vậy, người có công việc có nghĩa vụ tiếp nhận lại công việc, thanh toán chi phí và trả thù lao (trong một số trường hợp) cho người đã thực hiện công việc không có ủy quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="576" clause="1">
+        <QUESTIONS>
+            <QUESTION>Khi người thực hiện công việc không có ủy quyền bàn giao công việc, người có công việc được thực hiện có nghĩa vụ gì?</QUESTION>
+            <QUESTION>Người có công việc được thực hiện có phải thanh toán chi phí cho người thực hiện công việc không có ủy quyền ngay cả khi công việc không đạt kết quả như mong muốn không?</QUESTION>
+            <QUESTION>Phạm vi các chi phí mà người có công việc được thực hiện phải thanh toán cho người thực hiện công việc không có ủy quyền là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định người có công việc được thực hiện phải tiếp nhận công việc và thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra, kể cả khi công việc không đạt kết quả như mong muốn.</ANSWER>
+            <ANSWER clause="1">quy định người có công việc được thực hiện phải tiếp nhận công việc khi người thực hiện công việc không có ủy quyền bàn giao công việc và thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra để thực hiện công việc, kể cả trường hợp công việc không đạt được kết quả theo ý muốn của mình.</ANSWER>
+            <ANSWER clause="1">quy định người có công việc được thực hiện phải tiếp nhận công việc khi người thực hiện công việc không có ủy quyền bàn giao công việc và thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra để thực hiện công việc, kể cả trường hợp công việc không đạt được kết quả theo ý muốn của mình. Các chi phí này phải là chi phí hợp lý, tức là phù hợp với tính chất công việc và thực tế phát sinh.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="576" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khi nào người có công việc được thực hiện phải trả thù lao cho người thực hiện công việc không có ủy quyền?</QUESTION>
+            <QUESTION>Người thực hiện công việc không có ủy quyền có thể từ chối nhận thù lao không?</QUESTION>
+            <QUESTION>Điều kiện để người thực hiện công việc không có ủy quyền được nhận thù lao là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định người có công việc được thực hiện phải trả thù lao cho người thực hiện công việc không có ủy quyền khi người này thực hiện công việc chu đáo, có lợi, trừ trường hợp người thực hiện từ chối.</ANSWER>
+            <ANSWER clause="2">quy định người có công việc được thực hiện phải trả cho người thực hiện công việc không có ủy quyền một khoản thù lao khi người này thực hiện công việc chu đáo, có lợi cho mình, trừ trường hợp người thực hiện công việc không có ủy quyền từ chối.</ANSWER>
+            <ANSWER clause="2">quy định người có công việc được thực hiện phải trả cho người thực hiện công việc không có ủy quyền một khoản thù lao khi người này thực hiện công việc chu đáo, có lợi cho mình, trừ trường hợp người thực hiện công việc không có ủy quyền từ chối. Như vậy, điều kiện để được nhận thù lao là người thực hiện phải thực hiện công việc một cách chu đáo và mang lại lợi ích cho người có công việc, tuy nhiên, người thực hiện có quyền từ chối nhận thù lao.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 577 -->
+    <CONVERSATION id='11' article="577">
+        <QUESTIONS>
+            <QUESTION>Pháp luật dân sự quy định như thế nào về nghĩa vụ bồi thường thiệt hại của người thực hiện công việc không có ủy quyền?</QUESTION>
+            <QUESTION>Người thực hiện công việc không có ủy quyền có phải chịu trách nhiệm bồi thường thiệt hại trong mọi trường hợp không?</QUESTION>
+            <QUESTION>Mức bồi thường thiệt hại của người thực hiện công việc không có ủy quyền có thể được giảm nhẹ trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định người thực hiện công việc không có ủy quyền phải bồi thường thiệt hại nếu cố ý gây thiệt hại. Nếu do vô ý mà gây thiệt hại thì có thể được giảm mức bồi thường.</ANSWER>
+            <ANSWER>quy định khi người thực hiện công việc không có ủy quyền cố ý gây thiệt hại trong khi thực hiện công việc thì phải bồi thường thiệt hại cho người có công việc được thực hiện. Nếu người thực hiện công việc không có ủy quyền do vô ý mà gây thiệt hại trong khi thực hiện công việc thì căn cứ vào hoàn cảnh đảm nhận công việc, người đó có thể được giảm mức bồi thường.</ANSWER>
+            <ANSWER>quy định: 1. Khi người thực hiện công việc không có ủy quyền cố ý gây thiệt hại trong khi thực hiện công việc thì phải bồi thường thiệt hại cho người có công việc được thực hiện. 2. Nếu người thực hiện công việc không có ủy quyền do vô ý mà gây thiệt hại trong khi thực hiện công việc thì căn cứ vào hoàn cảnh đảm nhận công việc, người đó có thể được giảm mức bồi thường. Như vậy, người thực hiện công việc không có ủy quyền sẽ phải bồi thường toàn bộ thiệt hại nếu cố ý gây ra, còn nếu vô ý gây thiệt hại thì có thể được xem xét giảm mức bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="577" clause="1">
+        <QUESTIONS>
+            <QUESTION>Nếu người thực hiện công việc không có ủy quyền cố ý gây thiệt hại thì phải chịu trách nhiệm như thế nào?</QUESTION>
+            <QUESTION>Trách nhiệm bồi thường thiệt hại của người thực hiện công việc không có ủy quyền khi cố ý gây thiệt hại được quy định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định khi người thực hiện công việc không có ủy quyền cố ý gây thiệt hại trong khi thực hiện công việc thì phải bồi thường thiệt hại cho người có công việc được thực hiện.</ANSWER>
+            <ANSWER clause="1">quy định khi người thực hiện công việc không có ủy quyền cố ý gây thiệt hại trong khi thực hiện công việc thì phải bồi thường thiệt hại cho người có công việc được thực hiện. Trong trường hợp này, người thực hiện phải bồi thường toàn bộ thiệt hại do hành vi cố ý của mình gây ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="577" clause="2">
+        <QUESTIONS>
+            <QUESTION>Nếu người thực hiện công việc không có ủy quyền vô ý gây thiệt hại thì có phải bồi thường không?</QUESTION>
+            <QUESTION>Mức bồi thường thiệt hại của người thực hiện công việc không có ủy quyền do vô ý gây ra có thể được xem xét như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định nếu người thực hiện công việc không có ủy quyền do vô ý mà gây thiệt hại trong khi thực hiện công việc thì căn cứ vào hoàn cảnh đảm nhận công việc, người đó có thể được giảm mức bồi thường.</ANSWER>
+            <ANSWER clause="2">quy định nếu người thực hiện công việc không có ủy quyền do vô ý mà gây thiệt hại trong khi thực hiện công việc thì căn cứ vào hoàn cảnh đảm nhận công việc, người đó có thể được giảm mức bồi thường. Như vậy, khác với trường hợp cố ý, người thực hiện công việc không có ủy quyền do vô ý gây thiệt hại có thể được xem xét giảm mức bồi thường, tùy thuộc vào hoàn cảnh cụ thể.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <!-- ARTICLE 578 -->
+    <CONVERSATION id='14' article="578">
+        <QUESTIONS>
+            <QUESTION>Pháp luật dân sự quy định như thế nào về việc chấm dứt thực hiện công việc không có ủy quyền?</QUESTION>
+            <QUESTION>Việc thực hiện công việc không có ủy quyền sẽ chấm dứt trong những trường hợp nào?</QUESTION>
+            <QUESTION>Ai có quyền yêu cầu chấm dứt việc thực hiện công việc không có ủy quyền?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>quy định việc thực hiện công việc không có ủy quyền chấm dứt theo yêu cầu của người có công việc, khi người có công việc/người thừa kế/người đại diện tiếp nhận công việc, khi người thực hiện không thể tiếp tục, hoặc khi người thực hiện chết/chấm dứt tồn tại.</ANSWER>
+            <ANSWER>quy định việc thực hiện công việc không có ủy quyền chấm dứt trong các trường hợp sau: Theo yêu cầu của người có công việc được thực hiện; Người có công việc được thực hiện, người thừa kế hoặc người đại diện của người có công việc được thực hiện tiếp nhận công việc; Người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc; Người thực hiện công việc không có ủy quyền chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân.</ANSWER>
+            <ANSWER>quy định việc thực hiện công việc không có ủy quyền chấm dứt trong trường hợp sau đây: 1. Theo yêu cầu của người có công việc được thực hiện; 2. Người có công việc được thực hiện, người thừa kế hoặc người đại diện của người có công việc được thực hiện tiếp nhận công việc; 3. Người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc theo quy định tại khoản 5 Điều 575 của Bộ luật này; 4. Người thực hiện công việc không có ủy quyền chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân. Như vậy, có nhiều lý do khác nhau có thể dẫn đến việc chấm dứt thực hiện công việc không có ủy quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="578" clause="1">
+        <QUESTIONS>
+            <QUESTION>Người có công việc được thực hiện có quyền yêu cầu chấm dứt việc thực hiện công việc không có ủy quyền không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">quy định việc thực hiện công việc không có ủy quyền chấm dứt theo yêu cầu của người có công việc được thực hiện.</ANSWER>
+            <ANSWER clause="1">quy định việc thực hiện công việc không có ủy quyền chấm dứt theo yêu cầu của người có công việc được thực hiện. Đây là một trong những căn cứ để chấm dứt việc thực hiện công việc không có ủy quyền, thể hiện quyền của người có công việc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="578" clause="2">
+        <QUESTIONS>
+            <QUESTION>Khi nào thì người có công việc, người thừa kế hoặc người đại diện tiếp nhận công việc thì việc thực hiện công việc không có ủy quyền sẽ chấm dứt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">quy định việc thực hiện công việc không có ủy quyền chấm dứt khi người có công việc được thực hiện, người thừa kế hoặc người đại diện của người có công việc được thực hiện tiếp nhận công việc.</ANSWER>
+            <ANSWER clause="2">quy định việc thực hiện công việc không có ủy quyền chấm dứt khi người có công việc được thực hiện, người thừa kế hoặc người đại diện của người có công việc được thực hiện tiếp nhận công việc. Việc tiếp nhận này đánh dấu sự kết thúc của việc thực hiện công việc không có ủy quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="578" clause="3">
+        <QUESTIONS>
+            <QUESTION>Nếu người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc theo quy định thì sao?</QUESTION>
+            <QUESTION>Việc không thể tiếp tục thực hiện công việc không có ủy quyền theo khoản 5 Điều 575 có dẫn đến chấm dứt việc thực hiện công việc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">quy định việc thực hiện công việc không có ủy quyền chấm dứt khi người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc theo quy định.</ANSWER>
+            <ANSWER clause="3">quy định việc thực hiện công việc không có ủy quyền chấm dứt khi người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc theo quy định tại khoản 5 Điều 575 của Bộ luật này.</ANSWER>
+            <ANSWER clause="3">quy định việc thực hiện công việc không có ủy quyền chấm dứt khi người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc theo quy định tại khoản 5 Điều 575 của Bộ luật này. Khoản 5 Điều 575 quy định về trường hợp người thực hiện có lý do chính đáng không thể tiếp tục và đã thông báo hoặc tìm người thay thế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="578" clause="4">
+        <QUESTIONS>
+            <QUESTION>Nếu người thực hiện công việc không có ủy quyền chết hoặc chấm dứt tồn tại thì việc thực hiện công việc sẽ như thế nào?</QUESTION>
+            <QUESTION>Việc người thực hiện công việc không có ủy quyền chết có làm chấm dứt việc thực hiện công việc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="4">quy định việc thực hiện công việc không có ủy quyền chấm dứt khi người thực hiện công việc không có ủy quyền chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân.</ANSWER>
+            <ANSWER clause="4">quy định việc thực hiện công việc không có ủy quyền chấm dứt khi người thực hiện công việc không có ủy quyền chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân. Đây là một trong những căn cứ để chấm dứt việc thực hiện công việc không có ủy quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

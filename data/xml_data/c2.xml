@@ -1,0 +1,443 @@
+<CIVIL-CODE>
+	<INFORMATION>
+		<NAME>CIVIL CODE</NAME>
+		<YEAR>2015</YEAR>
+		<CHAPTER>2</CHAPTER>
+		<LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+	</INFORMATION>
+
+	<!-- ARTICLE 8 -->
+	<CONVERSATION id='1' article="8">
+		<QUESTIONS>
+			<QUESTION>Điều 8 của Bộ luật Dân sự quy định về vấn đề gì?</QUESTION>
+			<QUESTION>Nội dung chính được đề cập trong Điều 8 là gì?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 8 quy định về các căn cứ xác lập quyền dân sự.</ANSWER>
+			<ANSWER>Điều 8 đề cập đến những cơ sở pháp lý để hình thành quyền dân sự.</ANSWER>
+			<ANSWER>Nội dung chính của Điều 8 là liệt kê và quy định các trường hợp, điều kiện cụ thể mà dựa vào đó, quyền dân sự của một chủ thể được xác lập theo quy định của pháp luật.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='2' article="8" clause="1">
+		<QUESTIONS>
+			<QUESTION>Hợp đồng có phải là căn cứ để xác lập quyền dân sự không?</QUESTION>
+			<QUESTION>Theo Điều 8, quyền dân sự có thể được xác lập từ hợp đồng?</QUESTION>
+			<QUESTION>Giao kết hợp đồng có làm phát sinh quyền dân sự theo Điều 8?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='1'>Có, hợp đồng là một trong các căn cứ để xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='1'>Đúng vậy, theo Điều 8, hợp đồng là một cơ sở pháp lý quan trọng để xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='1'>Chính xác, khi các bên giao kết hợp đồng một cách hợp pháp, quyền và nghĩa vụ dân sự của các bên sẽ phát sinh từ thời điểm hợp đồng có hiệu lực, đó chính là sự xác lập quyền dân sự dựa trên căn cứ hợp đồng.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='3' article="8" clause="2">
+		<QUESTIONS>
+			<QUESTION>Hành vi pháp lý đơn phương có thể xác lập quyền dân sự không?</QUESTION>
+			<QUESTION>Điều 8 có coi hành vi pháp lý đơn phương là căn cứ xác lập quyền dân sự?</QUESTION>
+			<QUESTION>Quyền dân sự có thể được tạo ra từ hành vi pháp lý đơn phương?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='2'>Có, hành vi pháp lý đơn phương có thể xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='2'>Đúng, Điều 8 coi hành vi pháp lý đơn phương là một trong những căn cứ để xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='2'>Chính xác, trong một số trường hợp, một bên chủ thể có thể tự mình thực hiện hành vi pháp lý, và hành vi đó, nếu phù hợp với quy định của pháp luật, sẽ làm phát sinh, thay đổi, chấm dứt quyền dân sự. Đây là căn cứ xác lập quyền dân sự từ hành vi pháp lý đơn phương.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='4' article="8" clause="3">
+		<QUESTIONS>
+			<QUESTION>Quyết định của cơ quan nào là căn cứ xác lập quyền dân sự?</QUESTION>
+			<QUESTION>Theo Điều 8, quyền dân sự được xác lập từ quyết định của ai?</QUESTION>
+			<QUESTION>Cơ quan nào có thẩm quyền ra quyết định xác lập quyền dân sự?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='3'>Quyết định của Tòa án hoặc cơ quan có thẩm quyền khác.</ANSWER>
+			<ANSWER clause='3'>Theo Điều 8, quyền dân sự có thể được xác lập từ quyết định của Tòa án hoặc các cơ quan có thẩm quyền khác theo quy định của luật.</ANSWER>
+			<ANSWER clause='3'>Trong một số tranh chấp hoặc vụ việc nhất định, để xác định rõ quyền dân sự của các bên, cần có quyết định của cơ quan có thẩm quyền. Điều 8 quy định rõ, đó là Tòa án nhân dân hoặc cơ quan nhà nước khác có thẩm quyền do pháp luật quy định, như Ủy ban nhân dân trong một số trường hợp cụ thể.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='5' article="8" clause="4">
+		<QUESTIONS>
+			<QUESTION>Kết quả của lao động, sản xuất, kinh doanh có tạo ra quyền dân sự?</QUESTION>
+			<QUESTION>Hoạt động sáng tạo ra đối tượng sở hữu trí tuệ có phải căn cứ?</QUESTION>
+			<QUESTION>Điều 8 quy định kết quả của những hoạt động nào là căn cứ?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='4'>Có, kết quả của lao động, sản xuất, kinh doanh là một căn cứ.</ANSWER>
+			<ANSWER clause='4'>Đúng, hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ cũng là một căn cứ xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='4'>Điều 8 quy định, thành quả, lợi ích thu được từ quá trình lao động, sản xuất, kinh doanh hợp pháp, cũng như kết quả của quá trình đầu tư chất xám, sáng tạo ra các đối tượng được bảo hộ quyền sở hữu trí tuệ sẽ là căn cứ để xác lập quyền dân sự tương ứng cho chủ thể thực hiện các hoạt động đó.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='6' article="8" clause="5">
+		<QUESTIONS>
+			<QUESTION>Chiếm hữu tài sản có là căn cứ xác lập quyền dân sự theo Điều 8?</QUESTION>
+			<QUESTION>Việc chiếm hữu tài sản có tạo ra quyền dân sự?</QUESTION>
+			<QUESTION>Điều 8 có coi chiếm hữu tài sản là một cơ sở pháp lý?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='5'>Có, chiếm hữu tài sản là một trong các căn cứ xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='5'>Đúng, theo Điều 8, việc chiếm hữu tài sản hợp pháp có thể tạo ra quyền dân sự cho người chiếm hữu.</ANSWER>
+			<ANSWER clause='5'>Chiếm hữu tài sản, với điều kiện việc chiếm hữu đó là ngay tình, liên tục, công khai, phù hợp với quy định của pháp luật, sẽ là một cơ sở pháp lý để xác lập quyền dân sự, ví dụ như xác lập quyền sở hữu theo thời hiệu do chiếm hữu.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='7' article="8" clause="6">
+		<QUESTIONS>
+			<QUESTION>Sử dụng tài sản không có căn cứ pháp luật có tạo ra quyền dân sự?</QUESTION>
+			<QUESTION>Được lợi về tài sản không có căn cứ pháp luật có phải căn cứ?</QUESTION>
+			<QUESTION>Điều 8 có đề cập đến việc sử dụng tài sản không căn cứ pháp luật?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='6'>Có, trong một số trường hợp, việc này có thể là căn cứ xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='6'>Đúng, Điều 8 có đề cập đến việc sử dụng, được lợi về tài sản mà không có căn cứ pháp luật.</ANSWER>
+			<ANSWER clause='6'>Mặc dù nghe có vẻ không hợp lý, nhưng Điều 8 quy định việc sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, nhưng ngay tình, liên tục, công khai thì cũng có thể là căn cứ để xác lập quyền dân sự, ví dụ như xác lập quyền sở hữu theo thời hiệu.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='8' article="8" clause="7">
+		<QUESTIONS>
+			<QUESTION>Thiệt hại do hành vi trái pháp luật có là căn cứ xác lập quyền dân sự?</QUESTION>
+			<QUESTION>Quyền dân sự có thể phát sinh từ thiệt hại do hành vi trái pháp luật?</QUESTION>
+			<QUESTION>Điều 8 có quy định về thiệt hại do hành vi trái pháp luật?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='7'>Có, đây là một căn cứ xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='7'>Đúng, khi một người bị thiệt hại do hành vi trái pháp luật của người khác, họ có quyền yêu cầu bồi thường, và đó là sự phát sinh quyền dân sự.</ANSWER>
+			<ANSWER clause='7'>Điều 8 quy định rõ, thiệt hại do hành vi trái pháp luật gây ra cho người khác là một căn cứ làm phát sinh quyền được bồi thường của người bị thiệt hại, đồng thời làm phát sinh nghĩa vụ bồi thường của người gây thiệt hại. Đây là sự xác lập quyền và nghĩa vụ dân sự.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='9' article="8" clause="8">
+		<QUESTIONS>
+			<QUESTION>Thực hiện công việc không có ủy quyền có xác lập quyền dân sự?</QUESTION>
+			<QUESTION>Theo Điều 8, có thể xác lập quyền dân sự khi không có ủy quyền?</QUESTION>
+			<QUESTION>Làm việc không có ủy quyền có phải là một căn cứ?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='8'>Có, việc thực hiện công việc không có ủy quyền có thể xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='8'>Đúng, Điều 8 quy định đây là một trong những căn cứ để xác lập quyền dân sự.</ANSWER>
+			<ANSWER clause='8'>Trong trường hợp một người tự nguyện thực hiện công việc vì lợi ích của người khác dù không có sự ủy quyền, nếu việc thực hiện đó là phù hợp với ý chí của người có lợi ích và các điều kiện khác do luật định, thì người thực hiện công việc sẽ có quyền được thanh toán các chi phí hợp lý, và đó là sự xác lập quyền dân sự.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='10' article="8" clause="9">
+		<QUESTIONS>
+			<QUESTION>Điều 8 có đề cập căn cứ khác để xác lập quyền dân sự không?</QUESTION>
+			<QUESTION>Có căn cứ nào khác ngoài những căn cứ trong Điều 8?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='9'>Có, Điều 8 có đề cập đến các căn cứ khác.</ANSWER>
+			<ANSWER clause='9'>Ngoài các căn cứ đã liệt kê, Điều 8 còn quy định về "Căn cứ khác do pháp luật quy định".</ANSWER>
+			<ANSWER clause='9'>Đúng vậy, Điều 8 mở ra khả năng có những căn cứ khác để xác lập quyền dân sự, và những căn cứ này sẽ được quy định cụ thể trong các văn bản pháp luật chuyên ngành khác. Điều này đảm bảo tính linh hoạt và đầy đủ trong việc điều chỉnh các quan hệ pháp luật dân sự.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<!-- ARTICLE 9 -->
+	<CONVERSATION id='11' article="9">
+		<QUESTIONS>
+			<QUESTION>Điều 9 của Bộ luật Dân sự quy định về vấn đề gì?</QUESTION>
+			<QUESTION>Nội dung chính của Điều 9 là gì?</QUESTION>
+			<QUESTION>Điều 9 đề cập đến cách thức thực hiện quyền gì?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 9 quy định về việc thực hiện quyền dân sự.</ANSWER>
+			<ANSWER>Điều 9 đề cập đến nguyên tắc và cách thức thực hiện quyền dân sự của các chủ thể.</ANSWER>
+			<ANSWER>Nội dung chính của Điều 9 là khẳng định cá nhân, pháp nhân được thực hiện quyền dân sự theo ý chí của mình nhưng không trái với các nguyên tắc cơ bản và giới hạn do Bộ luật Dân sự quy định, đồng thời làm rõ việc không thực hiện quyền không mặc nhiên dẫn đến chấm dứt quyền.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='12' article="9" clause="1">
+		<QUESTIONS>
+			<QUESTION>Cá nhân, pháp nhân có được thực hiện quyền dân sự theo ý chí của mình không?</QUESTION>
+			<QUESTION>Điều 9 có cho phép chủ thể tự do thực hiện quyền dân sự?</QUESTION>
+			<QUESTION>Việc thực hiện quyền dân sự có bị giới hạn gì không?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='1'>Có, cá nhân, pháp nhân được thực hiện quyền dân sự theo ý chí của mình.</ANSWER>
+			<ANSWER clause='1'>Đúng, Điều 9 cho phép chủ thể tự do thực hiện quyền dân sự, nhưng phải tuân thủ các nguyên tắc cơ bản và giới hạn nhất định.</ANSWER>
+			<ANSWER clause='1'>Việc thực hiện quyền dân sự tuy dựa trên ý chí của chủ thể nhưng vẫn bị giới hạn bởi các quy định tại Điều 3 (Các nguyên tắc cơ bản của pháp luật dân sự) và Điều 10 (Giới hạn việc thực hiện quyền dân sự) của Bộ luật này, nhằm đảm bảo sự hài hòa giữa lợi ích cá nhân và lợi ích chung của xã hội.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='13' article="9" clause="2">
+		<QUESTIONS>
+			<QUESTION>Việc không thực hiện quyền dân sự có làm chấm dứt quyền đó không?</QUESTION>
+			<QUESTION>Một người không thực hiện quyền của mình thì có bị mất quyền đó hay không?</QUESTION>
+			<QUESTION>Điều 9 quy định thế nào về việc không thực hiện quyền dân sự?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='2'>Không, việc không thực hiện quyền dân sự không mặc nhiên làm chấm dứt quyền đó.</ANSWER>
+			<ANSWER clause='2'>Theo nguyên tắc chung, một người không thực hiện quyền của mình thì không bị mất quyền đó, trừ một số trường hợp ngoại lệ do luật định.</ANSWER>
+			<ANSWER clause='2'>Điều 9 quy định rõ, việc cá nhân, pháp nhân không thực hiện quyền dân sự của mình không phải là căn cứ làm chấm dứt quyền, trừ trường hợp luật có quy định khác. Quy định này nhằm bảo vệ quyền lợi hợp pháp của các chủ thể, tránh việc quyền dân sự bị chấm dứt một cách tùy tiện chỉ vì chủ thể không thực hiện quyền.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<!-- ARTICLE 10 -->
+	<CONVERSATION id='14' article="10">
+		<QUESTIONS>
+			<QUESTION>Điều 10 Bộ luật Dân sự quy định vấn đề gì?</QUESTION>
+			<QUESTION>Nội dung cốt lõi của Điều 10 là gì?</QUESTION>
+			<QUESTION>Điều 10 đề cập đến những giới hạn nào trong việc thực hiện quyền dân sự?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 10 quy định về giới hạn việc thực hiện quyền dân sự.</ANSWER>
+			<ANSWER>Điều 10 đề cập đến các trường hợp bị giới hạn hoặc hạn chế việc thực hiện quyền dân sự của cá nhân, pháp nhân.</ANSWER>
+			<ANSWER>Nội dung chính của Điều 10 là nghiêm cấm việc lạm dụng quyền dân sự để gây thiệt hại cho người khác, vi phạm nghĩa vụ hoặc thực hiện mục đích trái pháp luật, đồng thời quy định chế tài đối với các hành vi vi phạm giới hạn này.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='15' article="10" clause="1">
+		<QUESTIONS>
+			<QUESTION>Cá nhân, pháp nhân có được lạm dụng quyền dân sự của mình không?</QUESTION>
+			<QUESTION>Điều 10 cấm hành vi nào liên quan đến việc thực hiện quyền dân sự?</QUESTION>
+			<QUESTION>Hành vi nào bị cấm khi thực hiện quyền dân sự theo Điều 10?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='1'>Không, cá nhân, pháp nhân không được lạm dụng quyền dân sự của mình.</ANSWER>
+			<ANSWER clause='1'>Điều 10 nghiêm cấm hành vi lạm dụng quyền dân sự để gây thiệt hại, vi phạm nghĩa vụ hoặc thực hiện mục đích trái pháp luật.</ANSWER>
+			<ANSWER clause='1'>Theo Điều 10, cá nhân, pháp nhân tuyệt đối không được sử dụng quyền dân sự của mình một cách thái quá, vượt quá giới hạn, dẫn đến gây thiệt hại cho người khác, hoặc dùng quyền dân sự như một phương tiện để vi phạm chính nghĩa vụ của mình hay thực hiện các mục đích khác trái với quy định của pháp luật.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='16' article="10" clause="2">
+		<QUESTIONS>
+			<QUESTION>Hậu quả của việc vi phạm giới hạn thực hiện quyền dân sự là gì?</QUESTION>
+			<QUESTION>Nếu vi phạm quy định tại khoản 1 Điều 10 thì bị xử lý thế nào?</QUESTION>
+			<QUESTION>Cơ quan nào có thẩm quyền xử lý vi phạm về giới hạn quyền dân sự?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='2'>Có thể không được bảo vệ quyền, phải bồi thường và chịu chế tài khác.</ANSWER>
+			<ANSWER clause='2'>Nếu vi phạm, tùy tính chất, hậu quả mà có thể không được bảo vệ một phần hoặc toàn bộ quyền, phải bồi thường thiệt hại và chịu các chế tài khác theo quy định.</ANSWER>
+			<ANSWER clause='2'>Khi cá nhân, pháp nhân vi phạm khoản 1 Điều này, Tòa án hoặc cơ quan có thẩm quyền khác, dựa vào tính chất, mức độ, hậu quả của hành vi, có thể ra phán quyết không bảo vệ một phần hoặc toàn bộ quyền lợi của họ, buộc họ bồi thường thiệt hại đã gây ra, đồng thời áp dụng các biện pháp chế tài khác được quy định trong các văn bản pháp luật liên quan.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<!-- ARTICLE 11 -->
+	<CONVERSATION id='17' article="11">
+		<QUESTIONS>
+			<QUESTION>Điều 11 Bộ luật Dân sự quy định về vấn đề gì?</QUESTION>
+			<QUESTION>Khi quyền dân sự bị xâm phạm, chủ thể có thể làm gì?</QUESTION>
+			<QUESTION>Nội dung của Điều 11 đề cập đến những phương thức nào?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 11 quy định về các phương thức bảo vệ quyền dân sự.</ANSWER>
+			<ANSWER>Khi quyền dân sự bị xâm phạm, chủ thể có quyền tự bảo vệ hoặc yêu cầu cơ quan có thẩm quyền bảo vệ.</ANSWER>
+			<ANSWER>Nội dung của Điều 11 đề cập đến các phương thức mà cá nhân, pháp nhân có thể áp dụng để bảo vệ quyền dân sự của mình khi bị xâm phạm, bao gồm quyền tự bảo vệ và quyền yêu cầu cơ quan, tổ chức có thẩm quyền can thiệp, hỗ trợ.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='18' article="11" clause="1">
+		<QUESTIONS>
+			<QUESTION>Chủ thể có quyền yêu cầu cơ quan có thẩm quyền làm gì để bảo vệ quyền dân sự?</QUESTION>
+			<QUESTION>Một trong các yêu cầu cơ quan có thẩm quyền là gì theo khoản 1 Điều 11?</QUESTION>
+			<QUESTION>Khoản 1 Điều 11 quy định quyền yêu cầu cơ quan có thẩm quyền công nhận quyền dân sự?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='1'>Có quyền yêu cầu công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự.</ANSWER>
+			<ANSWER clause='1'>Một trong các yêu cầu là đề nghị cơ quan có thẩm quyền công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình.</ANSWER>
+			<ANSWER clause='1'>Khoản 1 Điều 11 quy định rõ, khi quyền dân sự bị xâm phạm, chủ thể có quyền yêu cầu cơ quan, tổ chức có thẩm quyền chính thức công nhận, tôn trọng, bảo vệ và có các biện pháp bảo đảm để quyền dân sự đó được thực thi trên thực tế.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='19' article="11" clause="2">
+		<QUESTIONS>
+			<QUESTION>Có thể yêu cầu chấm dứt hành vi xâm phạm quyền dân sự không?</QUESTION>
+			<QUESTION>Khoản 2 Điều 11 cho phép yêu cầu điều gì?</QUESTION>
+			<QUESTION>Buộc chấm dứt hành vi xâm phạm là một phương thức bảo vệ quyền dân sự?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='2'>Có, có thể yêu cầu chấm dứt hành vi xâm phạm.</ANSWER>
+			<ANSWER clause='2'>Khoản 2 Điều 11 cho phép chủ thể yêu cầu buộc chấm dứt hành vi đang xâm phạm quyền dân sự của mình.</ANSWER>
+			<ANSWER clause='2'>Đúng, buộc chấm dứt hành vi xâm phạm là một trong những phương thức bảo vệ quyền dân sự quan trọng được quy định tại khoản 2 Điều 11. Khi có hành vi xâm phạm, chủ thể bị xâm phạm có quyền yêu cầu cơ quan có thẩm quyền can thiệp, buộc bên vi phạm phải chấm dứt ngay hành vi đó.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='20' article="11" clause="3">
+		<QUESTIONS>
+			<QUESTION>Có được yêu cầu xin lỗi, cải chính công khai khi bị xâm phạm quyền dân sự?</QUESTION>
+			<QUESTION>Khoản 3 Điều 11 quy định phương thức bảo vệ quyền dân sự nào?</QUESTION>
+			<QUESTION>Trong trường hợp nào thì có thể yêu cầu xin lỗi, cải chính công khai?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='3'>Có, có thể yêu cầu xin lỗi, cải chính công khai.</ANSWER>
+			<ANSWER clause='3'>Khoản 3 Điều 11 quy định phương thức yêu cầu buộc xin lỗi, cải chính công khai.</ANSWER>
+			<ANSWER clause='3'>Trong trường hợp danh dự, nhân phẩm, uy tín của cá nhân, pháp nhân bị xâm phạm do thông tin sai lệch, chủ thể có quyền yêu cầu cơ quan có thẩm quyền buộc bên xâm phạm phải xin lỗi và cải chính công khai những thông tin sai sự thật đó, theo quy định tại khoản 3 Điều 11.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='21' article="11" clause="4">
+		<QUESTIONS>
+			<QUESTION>Có thể yêu cầu thực hiện nghĩa vụ dân sự không?</QUESTION>
+			<QUESTION>Khoản 4 Điều 11 đề cập đến quyền yêu cầu gì?</QUESTION>
+			<QUESTION>Buộc thực hiện nghĩa vụ là một phương thức bảo vệ quyền dân sự?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='4'>Có, có thể yêu cầu buộc thực hiện nghĩa vụ dân sự.</ANSWER>
+			<ANSWER clause='4'>Khoản 4 Điều 11 đề cập đến quyền yêu cầu cơ quan có thẩm quyền buộc bên có nghĩa vụ phải thực hiện nghĩa vụ dân sự đối với mình.</ANSWER>
+			<ANSWER clause='4'>Đúng, buộc thực hiện nghĩa vụ là một phương thức bảo vệ quyền dân sự. Khi một bên không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự, làm ảnh hưởng đến quyền lợi của bên kia, thì bên bị vi phạm có quyền yêu cầu cơ quan có thẩm quyền can thiệp, buộc bên vi phạm phải thực hiện đúng nghĩa vụ của mình, theo quy định tại khoản 4 Điều 11.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='22' article="11" clause="5">
+		<QUESTIONS>
+			<QUESTION>Có được yêu cầu bồi thường thiệt hại khi quyền dân sự bị xâm phạm?</QUESTION>
+			<QUESTION>Khoản 5 Điều 11 quy định quyền gì của chủ thể bị xâm phạm quyền dân sự?</QUESTION>
+			<QUESTION>Trong trường hợp nào thì có quyền yêu cầu bồi thường thiệt hại?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='5'>Có, có quyền yêu cầu bồi thường thiệt hại.</ANSWER>
+			<ANSWER clause='5'>Khoản 5 Điều 11 quy định chủ thể bị xâm phạm quyền dân sự có quyền yêu cầu bồi thường thiệt hại.</ANSWER>
+			<ANSWER clause='5'>Khi quyền dân sự của cá nhân, pháp nhân bị xâm phạm dẫn đến thiệt hại về vật chất hoặc tinh thần, khoản 5 Điều 11 cho phép chủ thể bị thiệt hại có quyền yêu cầu cơ quan có thẩm quyền buộc bên xâm phạm phải bồi thường toàn bộ thiệt hại đã gây ra, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='23' article="11" clause="6">
+		<QUESTIONS>
+			<QUESTION>Có thể yêu cầu hủy quyết định cá biệt trái pháp luật không?</QUESTION>
+			<QUESTION>Khoản 6 Điều 11 đề cập đến phương thức bảo vệ quyền dân sự nào?</QUESTION>
+			<QUESTION>Quyết định cá biệt trái pháp luật có thể bị yêu cầu hủy bỏ?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='6'>Có, có thể yêu cầu hủy quyết định cá biệt trái pháp luật.</ANSWER>
+			<ANSWER clause='6'>Khoản 6 Điều 11 đề cập đến phương thức yêu cầu hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.</ANSWER>
+			<ANSWER clause='6'>Khi quyền dân sự bị xâm phạm bởi một quyết định cá biệt trái pháp luật do cơ quan, tổ chức hoặc người có thẩm quyền ban hành, chủ thể bị ảnh hưởng có quyền yêu cầu cơ quan có thẩm quyền xem xét, hủy bỏ quyết định đó để bảo vệ quyền lợi hợp pháp của mình, theo quy định tại khoản 6 Điều 11.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='24' article="11" clause="7">
+		<QUESTIONS>
+			<QUESTION>Ngoài các phương thức đã nêu, còn phương thức nào khác để bảo vệ quyền dân sự?</QUESTION>
+			<QUESTION>Khoản 7 Điều 11 quy định điều gì?</QUESTION>
+			<QUESTION>Có thể yêu cầu áp dụng biện pháp bảo vệ quyền dân sự khác ngoài những biện pháp đã liệt kê không?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER clause='7'>Có, còn các yêu cầu khác theo quy định của luật.</ANSWER>
+			<ANSWER clause='7'>Khoản 7 Điều 11 quy định chủ thể có thể yêu cầu áp dụng các biện pháp bảo vệ quyền dân sự khác theo quy định của pháp luật.</ANSWER>
+			<ANSWER clause='7'>Ngoài các phương thức bảo vệ quyền dân sự đã được liệt kê cụ thể từ khoản 1 đến khoản 6 Điều 11, khoản 7 mở ra khả năng chủ thể có thể yêu cầu cơ quan có thẩm quyền áp dụng các biện pháp bảo vệ khác, nếu các biện pháp đó được quy định trong các văn bản pháp luật chuyên ngành, nhằm đảm bảo quyền dân sự được bảo vệ một cách toàn diện và hiệu quả nhất.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<!-- ARTICLE 12 -->
+	<CONVERSATION id='25' article="12">
+		<QUESTIONS>
+			<QUESTION>Điều 12 của Bộ luật Dân sự quy định về vấn đề gì?</QUESTION>
+			<QUESTION>Tự bảo vệ quyền dân sự là gì?</QUESTION>
+			<QUESTION>Nội dung chính của Điều 12 là gì?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 12 quy định về việc tự bảo vệ quyền dân sự.</ANSWER>
+			<ANSWER>Tự bảo vệ quyền dân sự là việc chủ thể tự mình thực hiện các hành vi, biện pháp để bảo vệ quyền lợi của mình khi bị xâm phạm.</ANSWER>
+			<ANSWER>Nội dung chính của Điều 12 là quy định việc chủ thể được phép tự mình bảo vệ quyền dân sự nhưng phải phù hợp với tính chất, mức độ bị xâm phạm và không được trái với các nguyên tắc cơ bản của pháp luật dân sự.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='26' article="12">
+		<QUESTIONS>
+			<QUESTION>Việc tự bảo vệ quyền dân sự có bị giới hạn gì không?</QUESTION>
+			<QUESTION>Khi tự bảo vệ quyền dân sự, cần phải tuân thủ những nguyên tắc nào?</QUESTION>
+			<QUESTION>Thế nào là tự bảo vệ quyền dân sự phù hợp?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Có, việc tự bảo vệ quyền dân sự phải phù hợp và không trái nguyên tắc cơ bản.</ANSWER>
+			<ANSWER>Khi tự bảo vệ quyền dân sự, phải phù hợp với tính chất, mức độ xâm phạm và tuân thủ các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3.</ANSWER>
+			<ANSWER>Tự bảo vệ quyền dân sự một cách phù hợp nghĩa là các biện pháp tự vệ mà chủ thể áp dụng phải tương xứng với tính chất, mức độ của hành vi xâm phạm đến quyền dân sự của mình, đồng thời không được vi phạm các nguyên tắc cơ bản của pháp luật dân sự như nguyên tắc thiện chí, trung thực, không xâm phạm đến lợi ích công cộng, v.v..</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<!-- ARTICLE 13 -->
+	<CONVERSATION id='27' article="13">
+		<QUESTIONS>
+			<QUESTION>Điều 13 của Bộ luật Dân sự quy định về vấn đề gì?</QUESTION>
+			<QUESTION>Khi quyền dân sự bị xâm phạm, vấn đề bồi thường thiệt hại được quy định như thế nào?</QUESTION>
+			<QUESTION>Nguyên tắc bồi thường thiệt hại trong trường hợp quyền dân sự bị xâm phạm là gì?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 13 quy định về việc bồi thường thiệt hại khi quyền dân sự bị xâm phạm.</ANSWER>
+			<ANSWER>Khi quyền dân sự bị xâm phạm, chủ thể bị thiệt hại sẽ được bồi thường thiệt hại.</ANSWER>
+			<ANSWER>Nguyên tắc chung là bồi thường toàn bộ thiệt hại, tuy nhiên các bên có thể thỏa thuận khác hoặc luật có quy định khác.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='28' article="13">
+		<QUESTIONS>
+			<QUESTION>Có trường hợp nào không phải bồi thường toàn bộ thiệt hại không?</QUESTION>
+			<QUESTION>Phạm vi bồi thường thiệt hại có thể thay đổi trong những trường hợp nào?</QUESTION>
+			<QUESTION>Thế nào là bồi thường toàn bộ thiệt hại theo Điều 13?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Có, nếu các bên có thỏa thuận khác hoặc luật có quy định khác.</ANSWER>
+			<ANSWER>Phạm vi bồi thường có thể thay đổi nếu các bên có thỏa thuận khác hoặc trong các trường hợp cụ thể do luật định.</ANSWER>
+			<ANSWER>Bồi thường toàn bộ thiệt hại theo Điều 13 có nghĩa là bên gây thiệt hại phải bồi thường tất cả các tổn thất về vật chất và tinh thần mà bên bị thiệt hại phải gánh chịu do hành vi xâm phạm quyền dân sự gây ra, trừ khi giữa các bên có sự thỏa thuận khác về mức bồi thường, hoặc trong một số trường hợp đặc biệt do pháp luật quy định mức bồi thường khác đi.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<!-- ARTICLE 14 -->
+	<CONVERSATION id='1' article="14">
+		<QUESTIONS>
+			<QUESTION>Điều 14 của Bộ luật Dân sự quy định về vấn đề gì?</QUESTION>
+			<QUESTION>Cơ quan nào có trách nhiệm bảo vệ quyền dân sự?</QUESTION>
+			<QUESTION>Nội dung chính của Điều 14 là gì?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 14 quy định về việc bảo vệ quyền dân sự thông qua cơ quan có thẩm quyền.</ANSWER>
+			<ANSWER>Tòa án và các cơ quan có thẩm quyền khác có trách nhiệm tôn trọng, bảo vệ quyền dân sự.</ANSWER>
+			<ANSWER>Nội dung chính của Điều 14 là khẳng định trách nhiệm của Tòa án, cơ quan có thẩm quyền trong việc bảo vệ quyền dân sự; quy định về các phương thức bảo vệ quyền dân sự thông qua tố tụng tư pháp, tố tụng trọng tài và thủ tục hành chính; đồng thời nhấn mạnh trách nhiệm giải quyết vụ việc của Tòa án, không được từ chối vì lý do chưa có điều luật.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='2' article="14" clause="1">
+		<QUESTIONS>
+			<QUESTION>Việc bảo vệ quyền dân sự được thực hiện như thế nào khi có tranh chấp?</QUESTION>
+			<QUESTION>Khi quyền dân sự bị xâm phạm, có thể yêu cầu cơ quan nào bảo vệ?</QUESTION>
+			<QUESTION>Thủ tục hành chính có thể được áp dụng để bảo vệ quyền dân sự trong trường hợp nào?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Khi có tranh chấp, việc bảo vệ quyền được thực hiện theo pháp luật tố tụng tại Tòa án hoặc trọng tài.</ANSWER>
+			<ANSWER>Khi quyền dân sự bị xâm phạm, có thể yêu cầu Tòa án hoặc Trọng tài bảo vệ, hoặc yêu cầu cơ quan hành chính trong trường hợp luật định.</ANSWER>
+			<ANSWER>Thủ tục hành chính có thể được áp dụng để bảo vệ quyền dân sự trong những trường hợp cụ thể do luật quy định. Tuy nhiên, quyết định giải quyết vụ việc theo thủ tục hành chính vẫn có thể được xem xét lại tại Tòa án để đảm bảo tính khách quan, công bằng.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='3' article="14" clause="2">
+		<QUESTIONS>
+			<QUESTION>Tòa án có được từ chối giải quyết vụ việc dân sự vì lý do chưa có điều luật không?</QUESTION>
+			<QUESTION>Trong trường hợp chưa có điều luật, Tòa án áp dụng quy định nào?</QUESTION>
+			<QUESTION>Khoản 2 Điều 14 quy định trách nhiệm gì của Tòa án?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Không, Tòa án không được từ chối giải quyết vì lý do chưa có điều luật.</ANSWER>
+			<ANSWER>Trong trường hợp chưa có điều luật, Tòa án áp dụng tập quán và tương tự pháp luật theo Điều 5 và Điều 6.</ANSWER>
+			<ANSWER>Khoản 2 Điều 14 quy định trách nhiệm của Tòa án là phải giải quyết các vụ, việc dân sự, kể cả trường hợp chưa có điều luật quy định trực tiếp; khi đó, Tòa án sẽ áp dụng các nguyên tắc về áp dụng tập quán, tương tự pháp luật được quy định tại Điều 5 và Điều 6 của Bộ luật này để đưa ra phán quyết, đảm bảo quyền lợi hợp pháp của các bên.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<!-- ARTICLE 15 -->
+	<CONVERSATION id='1' article="15">
+		<QUESTIONS>
+			<QUESTION>Điều 15 của Bộ luật Dân sự quy định về vấn đề gì?</QUESTION>
+			<QUESTION>Khi giải quyết yêu cầu bảo vệ quyền dân sự, Tòa án có quyền gì đối với quyết định cá biệt?</QUESTION>
+			<QUESTION>Nội dung chính của Điều 15 là gì?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Điều 15 quy định về việc hủy quyết định cá biệt trái pháp luật.</ANSWER>
+			<ANSWER>Khi giải quyết yêu cầu bảo vệ quyền dân sự, Tòa án có quyền hủy quyết định cá biệt trái pháp luật.</ANSWER>
+			<ANSWER>Nội dung chính của Điều 15 là trao cho Tòa án hoặc cơ quan có thẩm quyền khác quyền hủy bỏ quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền khi giải quyết yêu cầu bảo vệ quyền dân sự, và quy định về việc khôi phục quyền dân sự bị xâm phạm do quyết định cá biệt đó gây ra.</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+
+	<CONVERSATION id='2' article="15">
+		<QUESTIONS>
+			<QUESTION>Quyết định cá biệt bị hủy thì quyền dân sự bị xâm phạm được xử lý như thế nào?</QUESTION>
+			<QUESTION>Hậu quả của việc hủy quyết định cá biệt trái pháp luật là gì?</QUESTION>
+			<QUESTION>Sau khi quyết định cá biệt bị hủy, quyền dân sự được bảo vệ bằng cách nào?</QUESTION>
+		</QUESTIONS>
+		<ANSWERS>
+			<ANSWER>Quyền dân sự bị xâm phạm sẽ được khôi phục.</ANSWER>
+			<ANSWER>Khi quyết định cá biệt bị hủy, quyền dân sự bị xâm phạm sẽ được khôi phục và có thể được bảo vệ bằng các phương thức tại Điều 11.</ANSWER>
+			<ANSWER>Sau khi quyết định cá biệt trái pháp luật bị hủy bỏ, quyền dân sự của cá nhân, pháp nhân bị xâm phạm sẽ được khôi phục lại, và chủ thể có quyền áp dụng các phương thức bảo vệ quyền dân sự đã được quy định tại Điều 11 của Bộ luật này, ví dụ như yêu cầu bồi thường thiệt hại, buộc chấm dứt hành vi vi phạm, v.v...</ANSWER>
+		</ANSWERS>
+	</CONVERSATION>
+</CIVIL-CODE>
