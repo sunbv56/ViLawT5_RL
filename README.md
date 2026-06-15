@@ -1,8 +1,49 @@
+---
+title: V LegalQA Chatbot
+emoji: 💬
+colorFrom: yellow
+colorTo: purple
+sdk: gradio
+sdk_version: 5.0.1
+app_file: app.py
+pinned: false
+---
+
 # ViLawT5_RL
 
 🚀 Demo App: [V-LegalQA-Chatbot](https://huggingface.co/spaces/sunbv56/V-LegalQA-Chatbot)
 
-App này được thiết kế trên Space sử dụng tài nguyên free. Có 4 phiên bản là ViT5_QAChatbot, ViLawT5_QAChatbot, ViLawT5_RL và V-LegalQA (beta đang cải tiến).
+Ứng dụng chatbot hỏi đáp pháp luật tiếng Việt chuyên ngành, tập trung vào **Bộ luật Dân sự 2015**. Hệ thống demo được phát triển với 4 phiên bản mô hình khác nhau đại diện cho các giai đoạn cải tiến liên tục.
+
+## Các Phiên Bản Mô Hình
+
+Tất cả các phiên bản mô hình dưới đây đều được phát triển dựa trên kiến trúc **ViT5-base** với **220 triệu tham số (220M parameters)** tối ưu cho tiếng Việt. Hệ thống bao gồm 4 phiên bản chính đại diện cho các giai đoạn phát triển và cải tiến khác nhau:
+
+1. **`ViT5_QAChatbot` (Baseline QA - 220M params):** 
+   - Tinh chỉnh trực tiếp (**Fine-tuning**) mô hình ngôn ngữ tiếng Việt tổng quát `ViT5-base` (`VietAI/vit5-base`) trên tập dữ liệu QA pháp lý tự xây dựng (`data/xml_data`).
+   - Không áp dụng tiền huấn luyện thích ứng tên miền (domain adaptation).
+2. **`ViLawT5_QAChatbot` (Domain-Adapted QA - 220M params):**
+   - Tiền huấn luyện không giám sát (**Domain Adaptation**) trên dữ liệu bộ luật Việt Nam (`data/boluat`), tạo ra mô hình nền tảng chuyên ngành `ViLawT5-base`, sau đó fine-tune trên dữ liệu QA.
+   - Nâng cao khả năng hiểu sâu sắc thuật ngữ pháp lý và ngữ nghĩa văn bản luật chuyên ngành.
+3. **`ViLawT5_RL` (RLHF Baseline - 220M params):**
+   - Tinh chỉnh mô hình `ViLawT5_QAChatbot` bằng phương pháp Học tăng cường từ phản hồi của con người (**RLHF**) thông qua thuật toán **PPO** sử dụng Reward Model huấn luyện trên phản hồi người dùng (`data/reward_data`).
+   - Tối ưu hóa độ mạch lạc của câu trả lời và giảm thiểu hiện tượng ảo tưởng thông tin (hallucination).
+4. **`V-LegalQA` (ViLawT5_RL_Plus - Phiên bản cuối cùng - 220M params):**
+   - Phiên bản RLHF cải tiến bằng cách tích hợp thêm câu hỏi làm ngữ cảnh (Context) vào Reward Model khi huấn luyện PPO.
+   - Đạt hiệu suất cao nhất và câu trả lời hoàn thiện nhất trên toàn bộ các thang đo chất lượng.
+
+## Bảng Điểm So Sánh (Evaluation Scores)
+
+Các mô hình được đánh giá trên tập kiểm thử gồm **200 câu hỏi** đồng bộ (chi tiết trong thư mục `eval/`):
+
+| Phiên bản Mô hình | BLEU | ROUGE-1 | ROUGE-2 | ROUGE-L | BERTScore |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **`ViT5_QAChatbot`** | 0.2440 | 0.6427 | 0.4613 | 0.5315 | 0.8119 |
+| **`ViLawT5_QAChatbot`** | 0.2652 | 0.6511 | 0.4801 | 0.5486 | 0.8152 |
+| **`ViLawT5_RL`** | 0.2512 | 0.6355 | 0.4631 | 0.5296 | 0.8114 |
+| **`V-LegalQA`** *(RL Plus)* | **0.3841** | **0.7142** | **0.5960** | **0.6475** | **0.8448** |
+
+*(Lưu ý: Trong tài liệu báo cáo học phần, kết quả của mô hình tối ưu ViLawT5_RL_Plus được ghi nhận ban đầu là BLEU: 29.3, ROUGE-1: 65.7, ROUGE-2: 50.5, ROUGE-L: 57.1, BERTScore: 82.1. Ở bản chạy thực tế cuối cùng trên HF, điểm số trung bình BLEU đạt mức tối ưu là 38.41%).*
 
 ## Cấu Trúc Thư Mục
 ```
@@ -12,7 +53,7 @@ source/
 │   ├── xml_data/             # Dữ liệu QA từ Bộ Luật Dân Sự 2015 (Fine-tuning)
 │   ├── reward_data/          # Dữ liệu phản hồi người dùng (Huấn luyện Reward Model)
 │
-└── Source/                     # Chứa các file code huấn luyện và đánh giá
+└── Source/                   # Chứa các file code huấn luyện và đánh giá
     ├── pretrained-vit5-qachatbot-vilaw.ipynb      # Huấn luyện ViLawT5-base trên boluat
     ├── vit5-qachatbot-finetuned.ipynb             # Fine-tune QA cho ViT5 trên xml_data
     ├── vilawt5-qachatbot-finetuned.ipynb          # Fine-tune QA cho ViLawT5-base trên xml_data
