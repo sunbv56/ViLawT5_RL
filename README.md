@@ -1,14 +1,3 @@
----
-title: V LegalQA Chatbot
-emoji: 💬
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 5.0.1
-app_file: app.py
-pinned: false
----
-
 # ViLawT5_RL
 
 🚀 Demo App: [V-LegalQA-Chatbot](https://huggingface.co/spaces/sunbv56/V-LegalQA-Chatbot)
